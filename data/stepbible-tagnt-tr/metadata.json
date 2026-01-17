@@ -1,0 +1,23 @@
+{
+  "abbreviation": "stepbible-tagnt-tr",
+  "name": "Textus Receptus (STEPBible TAGNT)",
+  "language": "Greek",
+  "license": "CC BY 4.0",
+  "source": "STEPBible",
+  "urls": [
+    "https://www.stepbible.org",
+    "https://github.com/STEPBible/STEPBible-Data"
+  ],
+  "attribution": {
+    "source": "STEP Bible / Tyndale House Cambridge - CC BY 4.0",
+    "data": "Translators Amalgamated Greek NT (TAGNT)"
+  },
+  "filter": "TR (K) manuscript source only",
+  "features": [
+    "Complete TR text including Rom 16:25-27, 2 Cor 13:13-14, Phil 1:16-17",
+    "Proper polytonic Greek with iota subscripts",
+    "Robinson morphological tagging",
+    "Strong's concordance numbers",
+    "English translations"
+  ]
+}

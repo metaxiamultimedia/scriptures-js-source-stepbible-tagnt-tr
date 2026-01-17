@@ -75,33 +75,41 @@ interface ParsedWord {
 
 /**
  * Parse verse reference handling alternate versification.
+ *
+ * VERSIFICATION MARKERS:
+ * - {} curly braces: Where the verse appears in OTHER manuscript traditions (critical text)
+ *   Example: Jhn.7.53{8.1} = John 7:53 in TR, but John 8:1 in critical texts
+ *   For TR output: Use the BASE reference (7:53), NOT the {} marker
+ *
+ * - [] square brackets: KJV versification difference
+ *   Example: Php.1.16[1.17] = Phil 1:16 in critical texts, but 1:17 in KJV
+ *   For TR/KJV output: Use the [] marker (1:17)
+ *
  * Examples:
- *   Mat.1.1#01=NKO -> { book: 'Mat', chapter: 1, verse: 1, wordNum: 1, type: 'NKO' }
- *   Jhn.7.53{8.1}#01=K(O) -> { book: 'Jhn', chapter: 8, verse: 1, wordNum: 1, type: 'K(O)' } (for TR)
- *   Php.1.16[1.17]#01=NKO -> { book: 'Php', chapter: 1, verse: 17, wordNum: 1, type: 'NKO' } (KJV versification)
+ *   Mat.1.1#01=NKO -> { chapter: 1, verse: 1 }
+ *   Jhn.7.53{8.1}#01=K(O) -> { chapter: 7, verse: 53 } (keep base reference for TR)
+ *   Php.1.16[1.17]#01=NKO -> { chapter: 1, verse: 17 } (use KJV versification)
  */
 function parseReference(ref: string): { book: string; chapter: number; verse: number; wordNum: number; type: string } | null {
   // Pattern: Book.Chapter.Verse{altVerse}[kjvVerse]#WordNum=Type
   const match = ref.match(/^([A-Za-z0-9]+)\.(\d+)\.(\d+)(?:\{(\d+)\.(\d+)\})?(?:\[(\d+)\.(\d+)\])?#(\d+)=(.+)$/);
   if (!match) return null;
 
-  const [, book, ch, vs, altCh, altVs, kjvCh, kjvVs, wordNum, type] = match;
+  const [, book, ch, vs, _altCh, _altVs, kjvCh, kjvVs, wordNum, type] = match;
 
-  // For TR (K) readings, prefer {} alternate versification, then [] KJV versification
+  // Start with the base reference
   let chapter = parseInt(ch, 10);
   let verse = parseInt(vs, 10);
 
-  // If this is a TR word and has alternate versification, use it
-  if (type.includes('K') || type.toLowerCase().includes('k')) {
-    if (altCh && altVs) {
-      // Use curly brace alternate (manuscript tradition location)
-      chapter = parseInt(altCh, 10);
-      verse = parseInt(altVs, 10);
-    } else if (kjvCh && kjvVs) {
-      // Use square bracket KJV versification
-      chapter = parseInt(kjvCh, 10);
-      verse = parseInt(kjvVs, 10);
-    }
+  // {} curly braces indicate where the verse appears in OTHER traditions
+  // For TR output, we IGNORE {} and keep the base reference
+  // This ensures John 7:53 stays at 7:53 (not moved to 8:1)
+
+  // [] square brackets indicate KJV versification
+  // For TR/KJV output, we USE [] markers
+  if (kjvCh && kjvVs) {
+    chapter = parseInt(kjvCh, 10);
+    verse = parseInt(kjvVs, 10);
   }
 
   return {

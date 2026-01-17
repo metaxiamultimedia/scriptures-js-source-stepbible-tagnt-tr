@@ -191,7 +191,8 @@ describe.skipIf(!dataExists)('TR-specific verses (previously missing)', () => {
   it('should include Acts 8:37 (Philip and eunuch)', async () => {
     const verse = await loadVerse('Acts', 8, 37);
     expect(verse).toBeDefined();
-    expect(verse.text).toContain('Φίλιππος'); // Philip
+    // Use NFD normalization to handle different Unicode forms of Greek accents
+    expect(verse.text.normalize('NFD')).toContain('Φίλιππος'.normalize('NFD')); // Philip
   });
 
   it('should include Matthew 17:21 (prayer and fasting)', async () => {

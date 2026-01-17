@@ -57,6 +57,12 @@ function computeGreek(text: string): Record<string, number> {
 
 /**
  * Parse TAGNT reference with alternate versification handling.
+ *
+ * VERSIFICATION MARKERS:
+ * - {} curly braces: Where the verse appears in OTHER manuscript traditions (critical text)
+ *   For TR output: IGNORE {} and keep the base reference
+ * - [] square brackets: KJV versification difference
+ *   For TR/KJV output: USE [] markers
  */
 function parseReference(ref: string): {
   book: string;
@@ -68,20 +74,16 @@ function parseReference(ref: string): {
   const match = ref.match(/^([A-Za-z0-9]+)\.(\d+)\.(\d+)(?:\{(\d+)\.(\d+)\})?(?:\[(\d+)\.(\d+)\])?#(\d+)=(.+)$/);
   if (!match) return null;
 
-  const [, book, ch, vs, altCh, altVs, kjvCh, kjvVs, wordNum, type] = match;
+  const [, book, ch, vs, _altCh, _altVs, kjvCh, kjvVs, wordNum, type] = match;
 
   let chapter = parseInt(ch, 10);
   let verse = parseInt(vs, 10);
 
-  // For TR (K) readings, prefer {} alternate versification, then [] KJV versification
-  if (type.includes('K') || type.toLowerCase().includes('k')) {
-    if (altCh && altVs) {
-      chapter = parseInt(altCh, 10);
-      verse = parseInt(altVs, 10);
-    } else if (kjvCh && kjvVs) {
-      chapter = parseInt(kjvCh, 10);
-      verse = parseInt(kjvVs, 10);
-    }
+  // {} curly braces indicate OTHER manuscript tradition locations - IGNORE for TR
+  // [] square brackets indicate KJV versification - USE for TR/KJV
+  if (kjvCh && kjvVs) {
+    chapter = parseInt(kjvCh, 10);
+    verse = parseInt(kjvVs, 10);
   }
 
   return {
@@ -116,13 +118,14 @@ describe('TAGNT reference parsing', () => {
     });
   });
 
-  it('should handle {} alternate versification for TR words', () => {
-    // John 7:53 is marked as {8.1} in TAGNT - for TR, use the alternate verse
+  it('should IGNORE {} alternate versification for TR words', () => {
+    // John 7:53 is marked as {8.1} in TAGNT
+    // {} means "this is 8:1 in critical text", but for TR we keep the base reference (7:53)
     const result = parseReference('Jhn.7.53{8.1}#01=K(O)');
     expect(result).toEqual({
       book: 'Jhn',
-      chapter: 8,
-      verse: 1,
+      chapter: 7,
+      verse: 53,
       wordNum: 1,
       type: 'K(O)',
     });
@@ -140,13 +143,14 @@ describe('TAGNT reference parsing', () => {
     });
   });
 
-  it('should handle Romans doxology versification', () => {
-    // Romans 16:25 might be marked as {14.24} in some traditions
+  it('should IGNORE {} for Romans doxology - keep TR versification', () => {
+    // Romans 16:25 is marked as {14.24} in some traditions
+    // {} means "this is 14:24 in critical text", but for TR we keep 16:25
     const result = parseReference('Rom.16.25{14.24}#01=K(O)');
     expect(result).toEqual({
       book: 'Rom',
-      chapter: 14,
-      verse: 24,
+      chapter: 16,
+      verse: 25,
       wordNum: 1,
       type: 'K(O)',
     });
