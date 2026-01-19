@@ -11,6 +11,7 @@ import type { EditionMetadata, VerseData } from '@metaxia/scriptures-core';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 const DATA_PATH = join(__dirname, '..', 'data', 'stepbible-tagnt-tr');
+const CACHE_PATH = join(__dirname, '..', 'cache');
 
 /**
  * Edition metadata.
@@ -34,6 +35,7 @@ export const sourceInfo = {
   edition: 'stepbible-tagnt-tr',
   metadata,
   dataPath: DATA_PATH,
+  cachePath: CACHE_PATH,
 };
 
 /**
@@ -94,6 +96,20 @@ export async function loadChapter(book: string, chapter: number): Promise<VerseD
     return verses;
   } catch (error) {
     throw new Error(`Chapter ${book} ${chapter} not found in stepbible-tagnt-tr`);
+  }
+}
+
+/**
+ * Load cache data.
+ */
+export async function loadCache(cacheName: string): Promise<Record<string, unknown>> {
+  const filePath = join(CACHE_PATH, `${cacheName}.json`);
+
+  try {
+    const content = await readFile(filePath, 'utf-8');
+    return JSON.parse(content);
+  } catch (error) {
+    throw new Error(`Cache '${cacheName}' not found`);
   }
 }
 
