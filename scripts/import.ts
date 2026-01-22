@@ -135,7 +135,9 @@ function isTrWord(type: string): boolean {
  */
 function extractGreek(greekCol: string): string {
   const match = greekCol.match(/^([^\(]+)/);
-  return match ? match[1].trim() : greekCol.trim();
+  const text = match ? match[1].trim() : greekCol.trim();
+  // Remove pilcrow character (¶) which is a verse/section marker in the source
+  return text.replace(/\u00B6/g, '');
 }
 
 /**
