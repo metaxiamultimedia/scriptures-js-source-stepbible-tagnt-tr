@@ -4,183 +4,223 @@
     {
       "position": 1,
       "text": "καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "and",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "Mrk.3.2#01=NKO\tκαὶ (kai)\tand\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tY\tand\t#01\tG2532\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "παρετήρουν",
-      "lemma": [
+      "lemma": "παρατηρέω",
+      "morph": "robinson:V-IAI-3P",
+      "strongs": [
         "G3906"
       ],
-      "morph": "robinson:V-IAI-3P",
-      "strongs": "G3906",
       "translation": "they were watching",
-      "metadata": {},
-      "gematria": {
-        "standard": 1114,
-        "ordinal": 130,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3906",
+        "subMeaning": "to observe",
+        "manuscriptType": "NKO",
+        "gloss": "to observe"
+      },
+      "source": {
+        "raw": "Mrk.3.2#02=NKO\tπαρετήρουν (paretēroun)\tthey were watching\tG3906=V-IAI-3P\tπαρατηρέω=to observe\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testaban observando detenidamente\tto observe\t#02\tG3906\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "αὐτὸν",
-      "lemma": [
+      "lemma": "αὐτός",
+      "morph": "robinson:P-ASM",
+      "strongs": [
         "G0846"
       ],
-      "morph": "robinson:P-ASM",
-      "strongs": "G0846",
       "translation": "Him",
-      "metadata": {},
-      "gematria": {
-        "standard": 821,
-        "ordinal": 68,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0846_A",
+        "subMeaning": "him",
+        "manuscriptType": "NKO",
+        "gloss": "he/she/it/self"
+      },
+      "source": {
+        "raw": "Mrk.3.2#03=NKO\tαὐτὸν (auton)\tHim\tG0846=P-ASM\tαὐτός=he/she/it/self\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta él\thim\t#03«02:G3906\tG0846_A\tG3778\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "εἰ",
-      "lemma": [
+      "lemma": "εἰ",
+      "morph": "robinson:COND",
+      "strongs": [
         "G1487G"
       ],
-      "morph": "robinson:COND",
-      "strongs": "G1487G",
       "translation": "whether",
-      "metadata": {},
-      "gematria": {
-        "standard": 15,
-        "ordinal": 14,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1487",
+        "subMeaning": ": if»if|1_if/whether",
+        "manuscriptType": "NKO",
+        "gloss": "if"
+      },
+      "source": {
+        "raw": "Mrk.3.2#04=NKO\tεἰ (ei)\twhether\tG1487G=COND\tεἰ=if\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tsi\t: if»if|1_if/whether\t#04\tG1487\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "τοῖς",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-DPN",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-DPN",
-      "strongs": "G3588",
       "translation": "on the",
-      "metadata": {},
-      "gematria": {
-        "standard": 580,
-        "ordinal": 61,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Mrk.3.2#05=NKO\tτοῖς (tois)\ton the\tG3588=T-DPN\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\t(en) los\tthe\t#05»06:G4521\tG3588\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "σάββασιν",
-      "lemma": [
+      "lemma": "σάββατον",
+      "morph": "robinson:N-DPN",
+      "strongs": [
         "G4521"
       ],
-      "morph": "robinson:N-DPN",
-      "strongs": "G4521",
       "translation": "Sabbaths",
-      "metadata": {},
-      "gematria": {
-        "standard": 466,
-        "ordinal": 64,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4521",
+        "subMeaning": "Sabbath»Sabbath|Sabbath@Exo.16.23",
+        "manuscriptType": "NKO",
+        "gloss": "Sabbath"
+      },
+      "source": {
+        "raw": "Mrk.3.2#06=NKO\tσάββασιν (sabbasin)\tSabbaths\tG4521=N-DPN\tσάββατον=Sabbath\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tsábados\tSabbath»Sabbath|Sabbath@Exo.16.23\t#06\tG4521\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "θεραπεύσει",
-      "lemma": [
+      "lemma": "θεραπεύω",
+      "morph": "robinson:V-FAI-3S",
+      "strongs": [
         "G2323"
       ],
-      "morph": "robinson:V-FAI-3S",
-      "strongs": "G2323",
       "translation": "He will heal",
-      "metadata": {},
-      "gematria": {
-        "standard": 815,
-        "ordinal": 104,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2323",
+        "subMeaning": "to heal",
+        "manuscriptType": "NKO",
+        "gloss": "to serve/heal"
+      },
+      "source": {
+        "raw": "Mrk.3.2#07=NKO\tθεραπεύσει (therapeusei)\tHe will heal\tG2323=V-FAI-3S\tθεραπεύω=to serve/heal\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tcurará\tto heal\t#07\tG2323\t\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "αὐτὸν",
-      "lemma": [
+      "lemma": "αὐτός",
+      "morph": "robinson:P-ASM",
+      "strongs": [
         "G0846"
       ],
-      "morph": "robinson:P-ASM",
-      "strongs": "G0846",
       "translation": "him",
-      "metadata": {},
-      "gematria": {
-        "standard": 821,
-        "ordinal": 68,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0846_B",
+        "subMeaning": "him",
+        "manuscriptType": "NKO",
+        "gloss": "he/she/it/self"
+      },
+      "source": {
+        "raw": "Mrk.3.2#08=NKO\tαὐτὸν (auton)\thim\tG0846=P-ASM\tαὐτός=he/she/it/self\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta él\thim\t#08«07:G2323\tG0846_B\tG3778\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "ἵνα",
-      "lemma": [
+      "lemma": "ἵνα",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2443"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2443",
       "translation": "in order that",
-      "metadata": {},
-      "gematria": {
-        "standard": 61,
-        "ordinal": 23,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2443",
+        "subMeaning": "in order that",
+        "manuscriptType": "NKO",
+        "gloss": "in order that/to"
+      },
+      "source": {
+        "raw": "Mrk.3.2#09=NKO\tἵνα (ina)\tin order that\tG2443=CONJ\tἵνα=in order that/to\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tpara que\tin order that\t#09\tG2443\tG3363\t\t\t\t"
       }
     },
     {
       "position": 10,
       "text": "κατηγορήσωσιν",
-      "lemma": [
+      "lemma": "κατηγορέω",
+      "morph": "robinson:V-AAS-3P",
+      "strongs": [
         "G2723"
       ],
-      "morph": "robinson:V-AAS-3P",
-      "strongs": "G2723",
       "translation": "they may accuse",
-      "metadata": {},
-      "gematria": {
-        "standard": 1770,
-        "ordinal": 161,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+TR+Byz",
+        "extendedStrongs": "G2723",
+        "subMeaning": "to accuse",
+        "variants": "κατηγορήσουσιν (o=katēgorēsousin) they will accuse - G2723=V-FAI-3P in: Treg",
+        "manuscriptType": "NK(o)",
+        "gloss": "to accuse"
+      },
+      "source": {
+        "raw": "Mrk.3.2#10=NK(o)\tκατηγορήσωσιν (katēgorēsōsin)\tthey may accuse\tG2723=V-AAS-3P\tκατηγορέω=to accuse\tNA28+NA27+Tyn+SBL+WH+TR+Byz\tκατηγορήσουσιν (o=katēgorēsousin) they will accuse - G2723=V-FAI-3P in: Treg\t\tacusen\tto accuse\t#10\tG2723\t\t\t\t\t"
       }
     },
     {
       "position": 11,
       "text": "αὐτοῦ.",
-      "lemma": [
+      "lemma": "αὐτός",
+      "morph": "robinson:P-GSM",
+      "strongs": [
         "G0846"
       ],
-      "morph": "robinson:P-GSM",
-      "strongs": "G0846",
       "translation": "Him.",
-      "metadata": {},
-      "gematria": {
-        "standard": 1171,
-        "ordinal": 75,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0846_C",
+        "subMeaning": "of him",
+        "manuscriptType": "NKO",
+        "gloss": "he/she/it/self"
+      },
+      "source": {
+        "raw": "Mrk.3.2#11=NKO\tαὐτοῦ. (autou)\tHim.\tG0846=P-GSM\tαὐτός=he/she/it/self\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tde él\tof him\t#11«10:G2723\tG0846_C\tG3778\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 7665,
-    "ordinal": 788,
-    "reduced": 51
-  }
+  ]
 }

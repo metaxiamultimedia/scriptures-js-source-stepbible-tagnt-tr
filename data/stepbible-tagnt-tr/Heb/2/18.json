@@ -4,167 +4,202 @@
     {
       "position": 1,
       "text": "ἐν",
-      "lemma": [
+      "lemma": "ἐν",
+      "morph": "robinson:PREP",
+      "strongs": [
         "G1722"
       ],
-      "morph": "robinson:PREP",
-      "strongs": "G1722",
       "translation": "In",
-      "metadata": {},
-      "gematria": {
-        "standard": 55,
-        "ordinal": 18,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1722",
+        "subMeaning": "in",
+        "manuscriptType": "NKO",
+        "gloss": "in/on/among"
+      },
+      "source": {
+        "raw": "Heb.2.18#01=NKO\tἐν (en)\tIn\tG1722=PREP\tἐν=in/on/among\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ten\tin\t#01\tG1722\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "ᾧ",
-      "lemma": [
+      "lemma": "ὅς, ἥ",
+      "morph": "robinson:R-DSN",
+      "strongs": [
         "G3739"
       ],
-      "morph": "robinson:R-DSN",
-      "strongs": "G3739",
       "translation": "that",
-      "metadata": {},
-      "gematria": {
-        "standard": 810,
-        "ordinal": 33,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3739",
+        "subMeaning": "which",
+        "manuscriptType": "NKO",
+        "gloss": "which"
+      },
+      "source": {
+        "raw": "Heb.2.18#02=NKO\tᾧ (hō)\tthat\tG3739=R-DSN\tὅς, ἥ=which\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tcual (cosa)\twhich\t#02«01:G1722\tG3739\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "γὰρ",
-      "lemma": [
+      "lemma": "γάρ",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G1063"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G1063",
       "translation": "for",
-      "metadata": {},
-      "gematria": {
-        "standard": 104,
-        "ordinal": 21,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1063",
+        "subMeaning": "for",
+        "manuscriptType": "NKO",
+        "gloss": "for"
+      },
+      "source": {
+        "raw": "Heb.2.18#03=NKO\tγὰρ (gar)\tfor\tG1063=CONJ\tγάρ=for\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tporque\tfor\t#03\tG1063\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "πέπονθεν",
-      "lemma": [
+      "lemma": "πάσχω",
+      "morph": "robinson:V-2RAI-3S",
+      "strongs": [
         "G3958"
       ],
-      "morph": "robinson:V-2RAI-3S",
-      "strongs": "G3958",
       "translation": "has suffered",
-      "metadata": {},
-      "gematria": {
-        "standard": 349,
-        "ordinal": 91,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3958",
+        "subMeaning": "suffered",
+        "manuscriptType": "NKO",
+        "gloss": "to suffer"
+      },
+      "source": {
+        "raw": "Heb.2.18#04=NKO\tπέπονθεν (peponthen)\thas suffered\tG3958=V-2RAI-3S\tπάσχω=to suffer\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tha sufrido\tsuffered\t#04\tG3958\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "αὐτὸς",
-      "lemma": [
+      "lemma": "αὐτός",
+      "morph": "robinson:P-NSM",
+      "strongs": [
         "G0846"
       ],
-      "morph": "robinson:P-NSM",
-      "strongs": "G0846",
       "translation": "He Himself",
-      "metadata": {},
-      "gematria": {
-        "standard": 971,
-        "ordinal": 73,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0846",
+        "subMeaning": "he",
+        "manuscriptType": "NKO",
+        "gloss": "he/she/it/self"
+      },
+      "source": {
+        "raw": "Heb.2.18#05=NKO\tαὐτὸς (autos)\tHe Himself\tG0846=P-NSM\tαὐτός=he/she/it/self\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tél\the\t#05«04:G3958\tG0846\tG3778\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "πειρασθείς,",
-      "lemma": [
+      "lemma": "πειράζω",
+      "morph": "robinson:V-APP-NSM",
+      "strongs": [
         "G3985G"
       ],
-      "morph": "robinson:V-APP-NSM",
-      "strongs": "G3985G",
       "translation": "having been tempted,",
-      "metadata": {},
-      "gematria": {
-        "standard": 620,
-        "ordinal": 106,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3985_A",
+        "subMeaning": ": tempt»to test/tempt|1_tempt",
+        "manuscriptType": "NKO",
+        "gloss": "to test/tempt"
+      },
+      "source": {
+        "raw": "Heb.2.18#06=NKO\tπειρασθείς, (peirastheis)\thaving been tempted,\tG3985G=V-APP-NSM\tπειράζω=to test/tempt\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\thabiendo sido puesto a prueba\t: tempt»to test/tempt|1_tempt\t#06\tG3985_A\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "δύναται",
-      "lemma": [
+      "lemma": "δύναμαι",
+      "morph": "robinson:V-PNI-3S",
+      "strongs": [
         "G1410"
       ],
-      "morph": "robinson:V-PNI-3S",
-      "strongs": "G1410",
       "translation": "He is able",
-      "metadata": {},
-      "gematria": {
-        "standard": 766,
-        "ordinal": 67,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1410",
+        "subMeaning": "be able",
+        "manuscriptType": "NKO",
+        "gloss": "be able"
+      },
+      "source": {
+        "raw": "Heb.2.18#07=NKO\tδύναται (dunatai)\tHe is able\tG1410=V-PNI-3S\tδύναμαι=be able\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testá siendo capaz\tbe able\t#07\tG1410\t\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "τοῖς",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-DPM",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-DPM",
-      "strongs": "G3588",
       "translation": "those",
-      "metadata": {},
-      "gematria": {
-        "standard": 580,
-        "ordinal": 61,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588",
+        "subMeaning": "[those] which",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Heb.2.18#08=NKO\tτοῖς (tois)\tthose\tG3588=T-DPM\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta los\t[those] which\t#08»09:G3985\tG3588\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "πειραζομένοις",
-      "lemma": [
+      "lemma": "πειράζω",
+      "morph": "robinson:V-PPP-DPM",
+      "strongs": [
         "G3985G"
       ],
-      "morph": "robinson:V-PPP-DPM",
-      "strongs": "G3985G",
       "translation": "being tempted",
-      "metadata": {},
-      "gematria": {
-        "standard": 648,
-        "ordinal": 141,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3985_B",
+        "subMeaning": ": tempt»to test/tempt|1_tempt",
+        "manuscriptType": "NKO",
+        "gloss": "to test/tempt"
+      },
+      "source": {
+        "raw": "Heb.2.18#09=NKO\tπειραζομένοις (peirazomenois)\tbeing tempted\tG3985G=V-PPP-DPM\tπειράζω=to test/tempt\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testando siendo puestos a prueba\t: tempt»to test/tempt|1_tempt\t#09\tG3985_B\t\t\t\t\t"
       }
     },
     {
       "position": 10,
       "text": "βοηθῆσαι.",
-      "lemma": [
+      "lemma": "βοηθέω",
+      "morph": "robinson:V-AAN",
+      "strongs": [
         "G0997"
       ],
-      "morph": "robinson:V-AAN",
-      "strongs": "G0997",
       "translation": "to help.",
-      "metadata": {},
-      "gematria": {
-        "standard": 308,
-        "ordinal": 67,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0997",
+        "subMeaning": "to help",
+        "manuscriptType": "NKO",
+        "gloss": "to help"
+      },
+      "source": {
+        "raw": "Heb.2.18#10=NKO\tβοηθῆσαι.¶ (boēthēsai)\tto help.\tG0997=V-AAN\tβοηθέω=to help\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tayudar\tto help\t#10\tG0997\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 5211,
-    "ordinal": 678,
-    "reduced": 54
-  }
+  ]
 }

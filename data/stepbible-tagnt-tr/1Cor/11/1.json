@@ -4,103 +4,123 @@
     {
       "position": 1,
       "text": "Μιμηταί",
-      "lemma": [
+      "lemma": "μιμητής",
+      "morph": "robinson:N-NPM",
+      "strongs": [
         "G3402"
       ],
-      "morph": "robinson:N-NPM",
-      "strongs": "G3402",
       "translation": "Imitators",
-      "metadata": {},
-      "gematria": {
-        "standard": 409,
-        "ordinal": 69,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3402",
+        "subMeaning": "imitators",
+        "manuscriptType": "NKO",
+        "gloss": "imitator"
+      },
+      "source": {
+        "raw": "1Co.11.1#01=NKO\tΜιμηταί (Mimētai)\tImitators\tG3402=N-NPM\tμιμητής=imitator\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tImitadores\timitators\t#01\tG3402\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "μου",
-      "lemma": [
+      "lemma": "ἐγώ",
+      "morph": "robinson:P-1GS",
+      "strongs": [
         "G3165"
       ],
-      "morph": "robinson:P-1GS",
-      "strongs": "G3165",
       "translation": "of me",
-      "metadata": {},
-      "gematria": {
-        "standard": 510,
-        "ordinal": 47,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3165",
+        "subMeaning": "of me",
+        "manuscriptType": "NKO",
+        "gloss": "I/we"
+      },
+      "source": {
+        "raw": "1Co.11.1#02=NKO\tμου (mou)\tof me\tG3165=P-1GS\tἐγώ=I/we\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tde mí\tof me\t#02«01:G3402\tG3165\tG3450\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "γίνεσθε",
-      "lemma": [
+      "lemma": "γίνομαι",
+      "morph": "robinson:V-PNM-2P",
+      "strongs": [
         "G1096"
       ],
-      "morph": "robinson:V-PNM-2P",
-      "strongs": "G1096",
       "translation": "do be",
-      "metadata": {},
-      "gematria": {
-        "standard": 282,
-        "ordinal": 61,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1096",
+        "subMeaning": "to be",
+        "variants": "Tyn: γείνεσθε ;",
+        "manuscriptType": "NKO",
+        "gloss": "to be"
+      },
+      "source": {
+        "raw": "1Co.11.1#03=NKO\tγίνεσθε (ginesthe)\tdo be\tG1096=V-PNM-2P\tγίνομαι=to be\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\tTyn: γείνεσθε ; \testén llegando a ser\tto be\t#03\tG1096\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "καθὼς",
-      "lemma": [
+      "lemma": "καθώς",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2531"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2531",
       "translation": "even as",
-      "metadata": {},
-      "gematria": {
-        "standard": 1030,
-        "ordinal": 61,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2531",
+        "subMeaning": "just as",
+        "manuscriptType": "NKO",
+        "gloss": "as/just as"
+      },
+      "source": {
+        "raw": "1Co.11.1#04=NKO\tκαθὼς (kathōs)\teven as\tG2531=CONJ\tκαθώς=as/just as\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tsegún como\tjust as\t#04\tG2531\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "κἀγὼ",
-      "lemma": [
+      "lemma": "κἀγώ",
+      "morph": "robinson:P-1NS + G2532",
+      "strongs": [
         "G1473"
       ],
-      "morph": "robinson:P-1NS + G2532",
-      "strongs": "G1473",
       "translation": "I myself also [am]",
-      "metadata": {},
-      "gematria": {
-        "standard": 824,
-        "ordinal": 38,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532, G1473",
+        "subMeaning": "and I",
+        "manuscriptType": "NKO",
+        "gloss": "and I"
+      },
+      "source": {
+        "raw": "1Co.11.1#05=NKO\tκἀγὼ (kagō)\tI myself also [am]\tG1473=P-1NS + G2532=CONJ\tκἀγώ=and I\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tyo también\tand I\t#05«04:G2531\tG2532, G1473\tG2504\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "Χριστοῦ.",
-      "lemma": [
+      "lemma": "Χριστός",
+      "morph": "robinson:N-GSM-T",
+      "strongs": [
         "G5547"
       ],
-      "morph": "robinson:N-GSM-T",
-      "strongs": "G5547",
       "translation": "of Christ.",
-      "metadata": {},
-      "gematria": {
-        "standard": 1680,
-        "ordinal": 120,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5547",
+        "subMeaning": "Christ»Christ|Jesus@Mat.1.1",
+        "manuscriptType": "NKO",
+        "gloss": "Christ"
+      },
+      "source": {
+        "raw": "1Co.11.1#06=NKO\tΧριστοῦ.¶ (Christou)\tof Christ.\tG5547=N-GSM-T\tΧριστός=Christ\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tde Ungido\tChrist»Christ|Jesus@Mat.1.1\t#06\tG5547\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 4735,
-    "ordinal": 396,
-    "reduced": 28
-  }
+  ]
 }

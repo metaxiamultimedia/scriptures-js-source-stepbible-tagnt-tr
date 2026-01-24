@@ -4,359 +4,444 @@
     {
       "position": 1,
       "text": "ὅτι",
-      "lemma": [
+      "lemma": "ὅτι",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G3754H"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G3754H",
       "translation": "because",
-      "metadata": {},
-      "gematria": {
-        "standard": 380,
-        "ordinal": 43,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3754",
+        "subMeaning": ": since»that/since|2_since",
+        "manuscriptType": "NKO",
+        "gloss": "that/since"
+      },
+      "source": {
+        "raw": "1Pe.3.18#01=NKO\tὅτι (hoti)\tbecause\tG3754H=CONJ\tὅτι=that/since\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tPorque\t: since»that/since|2_since\t#01\tG3754\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "also",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532",
+        "subMeaning": "also",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "1Pe.3.18#02=NKO\tκαὶ (kai)\talso\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ttambién\talso\t#02\tG2532\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "Χριστὸς",
-      "lemma": [
+      "lemma": "Χριστός",
+      "morph": "robinson:N-NSM-T",
+      "strongs": [
         "G5547"
       ],
-      "morph": "robinson:N-NSM-T",
-      "strongs": "G5547",
       "translation": "Christ",
-      "metadata": {},
-      "gematria": {
-        "standard": 1480,
-        "ordinal": 118,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5547",
+        "subMeaning": "Christ»Christ|Jesus@Mat.1.1",
+        "manuscriptType": "NKO",
+        "gloss": "Christ"
+      },
+      "source": {
+        "raw": "1Pe.3.18#03=NKO\tΧριστὸς (Christos)\tChrist\tG5547=N-NSM-T\tΧριστός=Christ\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tUngido\tChrist»Christ|Jesus@Mat.1.1\t#03\tG5547\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "ἅπαξ",
-      "lemma": [
+      "lemma": "ἅπαξ",
+      "morph": "robinson:ADV",
+      "strongs": [
         "G0530"
       ],
-      "morph": "robinson:ADV",
-      "strongs": "G0530",
       "translation": "once",
-      "metadata": {},
-      "gematria": {
-        "standard": 142,
-        "ordinal": 32,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0530",
+        "subMeaning": "once",
+        "manuscriptType": "NKO",
+        "gloss": "once"
+      },
+      "source": {
+        "raw": "1Pe.3.18#04=NKO\tἅπαξ (hapax)\tonce\tG0530=ADV\tἅπαξ=once\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tuna vez por todas\tonce\t#04\tG0530\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "περὶ",
-      "lemma": [
+      "lemma": "περί",
+      "morph": "robinson:PREP",
+      "strongs": [
         "G4012"
       ],
-      "morph": "robinson:PREP",
-      "strongs": "G4012",
       "translation": "for",
-      "metadata": {},
-      "gematria": {
-        "standard": 195,
-        "ordinal": 47,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4012",
+        "subMeaning": "for",
+        "manuscriptType": "NKO",
+        "gloss": "about"
+      },
+      "source": {
+        "raw": "1Pe.3.18#05=NKO\tπερὶ (peri)\tfor\tG4012=PREP\tπερί=about\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tacerca de\tfor\t#05\tG4012\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "ἁμαρτιῶν",
-      "lemma": [
+      "lemma": "ἁμαρτία",
+      "morph": "robinson:N-GPF",
+      "strongs": [
         "G0266"
       ],
-      "morph": "robinson:N-GPF",
-      "strongs": "G0266",
       "translation": "sins",
-      "metadata": {},
-      "gematria": {
-        "standard": 1302,
-        "ordinal": 96,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0266",
+        "subMeaning": "sin",
+        "manuscriptType": "NKO",
+        "gloss": "sin"
+      },
+      "source": {
+        "raw": "1Pe.3.18#06=NKO\tἁμαρτιῶν (hamartiōn)\tsins\tG0266=N-GPF\tἁμαρτία=sin\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tpecados\tsin\t#06\tG0266\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "ἔπαθεν,",
-      "lemma": [
+      "lemma": "πάσχω",
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": [
         "G3958"
       ],
-      "morph": "robinson:V-2AAI-3S",
-      "strongs": "G3958",
       "translation": "suffered,",
-      "metadata": {},
-      "gematria": {
-        "standard": 150,
-        "ordinal": 48,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+TR+Byz",
+        "extendedStrongs": "G3958",
+        "subMeaning": "suffered",
+        "variants": "ἀπέθανεν (O=apethanen) died - G0599=V-2AAI-3S in: WH+Treg",
+        "manuscriptType": "NK(O)",
+        "gloss": "to suffer"
+      },
+      "source": {
+        "raw": "1Pe.3.18#07=NK(O)\tἔπαθεν, (epathen)\tsuffered,\tG3958=V-2AAI-3S\tπάσχω=to suffer\tNA28+NA27+Tyn+SBL+TR+Byz\tἀπέθανεν (O=apethanen) died - G0599=V-2AAI-3S in: WH+Treg\t\tsufrió\tsuffered\t#07\tG3958\tG0599\tv ἀπέθανεν  (<i>apethanen</i>) 'died' occurs in a few manuscripts (WH+Treg) instead of ἔπαθεν,  (<i>epathen</i>) 'suffered,' in older manuscripts (NA28+NA27+Tyn+SBL+TR+Byz)\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "δίκαιος",
-      "lemma": [
+      "lemma": "δίκαιος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
         "G1342"
       ],
-      "morph": "robinson:A-NSM",
-      "strongs": "G1342",
       "translation": "[the] righteous",
-      "metadata": {},
-      "gematria": {
-        "standard": 315,
-        "ordinal": 66,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1342",
+        "subMeaning": "just",
+        "manuscriptType": "NKO",
+        "gloss": "just"
+      },
+      "source": {
+        "raw": "1Pe.3.18#08=NKO\tδίκαιος (dikaios)\t[the] righteous\tG1342=A-NSM\tδίκαιος=just\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tjusto\tjust\t#08\tG1342\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "ὑπὲρ",
-      "lemma": [
+      "lemma": "ὑπέρ",
+      "morph": "robinson:PREP",
+      "strongs": [
         "G5228"
       ],
-      "morph": "robinson:PREP",
-      "strongs": "G5228",
       "translation": "for",
-      "metadata": {},
-      "gematria": {
-        "standard": 585,
-        "ordinal": 58,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5228",
+        "subMeaning": "for",
+        "manuscriptType": "NKO",
+        "gloss": "above/for"
+      },
+      "source": {
+        "raw": "1Pe.3.18#09=NKO\tὑπὲρ (huper)\tfor\tG5228=PREP\tὑπέρ=above/for\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tpor\tfor\t#09\tG5228\t\t\t\t\t"
       }
     },
     {
       "position": 10,
       "text": "ἀδίκων,",
-      "lemma": [
+      "lemma": "ἄδικος",
+      "morph": "robinson:A-GPM",
+      "strongs": [
         "G0094"
       ],
-      "morph": "robinson:A-GPM",
-      "strongs": "G0094",
       "translation": "[the] unrighteous,",
-      "metadata": {},
-      "gematria": {
-        "standard": 885,
-        "ordinal": 61,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0094",
+        "subMeaning": "unjust",
+        "manuscriptType": "NKO",
+        "gloss": "unjust"
+      },
+      "source": {
+        "raw": "1Pe.3.18#10=NKO\tἀδίκων, (adikōn)\t[the] unrighteous,\tG0094=A-GPM\tἄδικος=unjust\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tinjustos\tunjust\t#10\tG0094\t\t\t\t\t"
       }
     },
     {
       "position": 11,
       "text": "ἵνα",
-      "lemma": [
+      "lemma": "ἵνα",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2443"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2443",
       "translation": "so that",
-      "metadata": {},
-      "gematria": {
-        "standard": 61,
-        "ordinal": 23,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2443",
+        "subMeaning": "in order to",
+        "manuscriptType": "NKO",
+        "gloss": "in order that/to"
+      },
+      "source": {
+        "raw": "1Pe.3.18#11=NKO\tἵνα (ina)\tso that\tG2443=CONJ\tἵνα=in order that/to\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tpara que\tin order to\t#11\tG2443\tG3363\t\t\t\t"
       }
     },
     {
       "position": 12,
       "text": "ὑμᾶς",
-      "lemma": [
+      "lemma": "σύ",
+      "morph": "robinson:P-2AP",
+      "strongs": [
         "G4771"
       ],
-      "morph": "robinson:P-2AP",
-      "strongs": "G4771",
       "translation": "you",
-      "metadata": {},
-      "gematria": {
-        "standard": 641,
-        "ordinal": 51,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Byz",
+        "extendedStrongs": "G4771",
+        "subMeaning": "you",
+        "variants": "ἡμᾶς (T=hēmas) us - G2248=P-1AP in: Treg+TR",
+        "manuscriptType": "N(K)O",
+        "gloss": "you"
+      },
+      "source": {
+        "raw": "1Pe.3.18#12=N(K)O\tὑμᾶς (humas)\tyou\tG4771=P-2AP\tσύ=you\tNA28+NA27+Tyn+SBL+WH+Byz\tἡμᾶς (T=hēmas) us - G2248=P-1AP in: Treg+TR\t\ta ustedes\tyou\t#12»13:G4317\tG4771\tG2248, , G5209\tv ἡμᾶς  (<i>hēmas</i>) 'us' occurs in traditional manuscripts (Treg+TR) instead of ὑμᾶς  (<i>humas</i>) 'you' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Byz)\t\t\t"
       }
     },
     {
       "position": 13,
       "text": "προσαγάγῃ",
-      "lemma": [
+      "lemma": "προσάγω",
+      "morph": "robinson:V-2AAS-3S",
+      "strongs": [
         "G4317"
       ],
-      "morph": "robinson:V-2AAS-3S",
-      "strongs": "G4317",
       "translation": "He may bring",
-      "metadata": {},
-      "gematria": {
-        "standard": 476,
-        "ordinal": 90,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4317",
+        "subMeaning": "to bring near",
+        "manuscriptType": "NKO",
+        "gloss": "to bring near"
+      },
+      "source": {
+        "raw": "1Pe.3.18#13=NKO\tπροσαγάγῃ (prosagagē)\tHe may bring\tG4317=V-2AAS-3S\tπροσάγω=to bring near\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tconduzca hacia\tto bring near\t#13\tG4317\t\t\t\t\t"
       }
     },
     {
       "position": 14,
       "text": "τῷ",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-DSM",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-DSM",
-      "strongs": "G3588",
       "translation": "<the>",
-      "metadata": {},
-      "gematria": {
-        "standard": 1110,
-        "ordinal": 52,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588_A",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "1Pe.3.18#14=NKO\tτῷ (tō)\t<the>\tG3588=T-DSM\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tel\tthe\t#14»15:G2316\tG3588_A\t\t\t\t\t"
       }
     },
     {
       "position": 15,
       "text": "θεῷ,",
-      "lemma": [
+      "lemma": "θεός",
+      "morph": "robinson:N-DSM-T",
+      "strongs": [
         "G2316"
       ],
-      "morph": "robinson:N-DSM-T",
-      "strongs": "G2316",
       "translation": "to God,",
-      "metadata": {},
-      "gematria": {
-        "standard": 824,
-        "ordinal": 46,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2316",
+        "subMeaning": "God",
+        "manuscriptType": "NKO",
+        "gloss": "God"
+      },
+      "source": {
+        "raw": "1Pe.3.18#15=NKO\tθεῷ, (theō)\tto God,\tG2316=N-DSM-T\tθεός=God\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tDios\tGod\t#15\tG2316\t\t\t\t\t"
       }
     },
     {
       "position": 16,
       "text": "θανατωθεὶς",
-      "lemma": [
+      "lemma": "θανατόω",
+      "morph": "robinson:V-APP-NSM",
+      "strongs": [
         "G2289"
       ],
-      "morph": "robinson:V-APP-NSM",
-      "strongs": "G2289",
       "translation": "having been put to death",
-      "metadata": {},
-      "gematria": {
-        "standard": 1385,
-        "ordinal": 106,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2289",
+        "subMeaning": "to kill",
+        "manuscriptType": "NKO",
+        "gloss": "to kill"
+      },
+      "source": {
+        "raw": "1Pe.3.18#16=NKO\tθανατωθεὶς (thanatōtheis)\thaving been put to death\tG2289=V-APP-NSM\tθανατόω=to kill\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tha sido muerto\tto kill\t#16\tG2289\t\t\t\t\t"
       }
     },
     {
       "position": 17,
       "text": "μὲν",
-      "lemma": [
+      "lemma": "μέν",
+      "morph": "robinson:PRT",
+      "strongs": [
         "G3303"
       ],
-      "morph": "robinson:PRT",
-      "strongs": "G3303",
       "translation": "indeed",
-      "metadata": {},
-      "gematria": {
-        "standard": 95,
-        "ordinal": 30,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3303",
+        "subMeaning": "on one hand",
+        "manuscriptType": "NKO",
+        "gloss": "on one hand"
+      },
+      "source": {
+        "raw": "1Pe.3.18#17=NKO\tμὲν (men)\tindeed\tG3303=PRT\tμέν=on one hand\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tde hecho\ton one hand\t#17\tG3303\t\t\t\t\t"
       }
     },
     {
       "position": 18,
       "text": "σαρκί,",
-      "lemma": [
+      "lemma": "σάρξ",
+      "morph": "robinson:N-DSF",
+      "strongs": [
         "G4561"
       ],
-      "morph": "robinson:N-DSF",
-      "strongs": "G4561",
       "translation": "in [the] flesh,",
-      "metadata": {},
-      "gematria": {
-        "standard": 331,
-        "ordinal": 55,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4561",
+        "subMeaning": "flesh",
+        "manuscriptType": "NKO",
+        "gloss": "flesh"
+      },
+      "source": {
+        "raw": "1Pe.3.18#18=NKO\tσαρκί, (sarki)\tin [the] flesh,\tG4561=N-DSF\tσάρξ=flesh\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\t(en) carne\tflesh\t#18\tG4561\t\t\t\t\t"
       }
     },
     {
       "position": 19,
       "text": "ζῳοποιηθεὶς",
-      "lemma": [
+      "lemma": "ζωοποιέω",
+      "morph": "robinson:V-APP-NSM",
+      "strongs": [
         "G2227"
       ],
-      "morph": "robinson:V-APP-NSM",
-      "strongs": "G2227",
       "translation": "having been made alive",
-      "metadata": {},
-      "gematria": {
-        "standard": 1279,
-        "ordinal": 141,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2227",
+        "subMeaning": "to make alive",
+        "manuscriptType": "NKO",
+        "gloss": "to make alive"
+      },
+      "source": {
+        "raw": "1Pe.3.18#19=NKO\tζῳοποιηθεὶς (zōopoiētheis)\thaving been made alive\tG2227=V-APP-NSM\tζωοποιέω=to make alive\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\thabiendo sido hecho vivo\tto make alive\t#19\tG2227\t\t\t\t\t"
       }
     },
     {
       "position": 20,
       "text": "δὲ",
-      "lemma": [
+      "lemma": "δέ",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G1161"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G1161",
       "translation": "however",
-      "metadata": {},
-      "gematria": {
-        "standard": 9,
-        "ordinal": 9,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1161",
+        "subMeaning": "but",
+        "manuscriptType": "NKO",
+        "gloss": "but/and"
+      },
+      "source": {
+        "raw": "1Pe.3.18#20=NKO\tδὲ (de)\thowever\tG1161=CONJ\tδέ=but/and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tpero\tbut\t#20\tG1161\t\t\t\t\t"
       }
     },
     {
       "position": 21,
       "text": "τῷ",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-DSN",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-DSN",
-      "strongs": "G3588",
       "translation": "in the",
-      "metadata": {},
-      "gematria": {
-        "standard": 1110,
-        "ordinal": 52,
-        "reduced": 3
+      "metadata": {
+        "editions": "TR",
+        "extendedStrongs": "G3588_b",
+        "subMeaning": "the",
+        "manuscriptType": "k",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "1Pe.3.18#21=k\tτῷ (tō)\tin the\tG3588=T-DSN\tὁ=the/this/who\tTR\t\t\tel\tthe\t#21»22:G4151\tG3588_b\t\t\t\t\t"
       }
     },
     {
       "position": 22,
       "text": "πνεύματι,",
-      "lemma": [
+      "lemma": "πνεῦμα",
+      "morph": "robinson:N-DSN",
+      "strongs": [
         "G4151G"
       ],
-      "morph": "robinson:N-DSN",
-      "strongs": "G4151G",
       "translation": "spirit,",
-      "metadata": {},
-      "gematria": {
-        "standard": 886,
-        "ordinal": 95,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4151",
+        "subMeaning": ": spirit»spirit/breath|1_spirit",
+        "manuscriptType": "NKO",
+        "gloss": "spirit/breath"
+      },
+      "source": {
+        "raw": "1Pe.3.18#22=NKO\tπνεύματι, (pneumati)\tspirit,\tG4151G=N-DSN\tπνεῦμα=spirit/breath\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\t(en) espíritu\t: spirit»spirit/breath|1_spirit\t#22\tG4151\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 13672,
-    "ordinal": 1339,
-    "reduced": 118
-  }
+  ]
 }

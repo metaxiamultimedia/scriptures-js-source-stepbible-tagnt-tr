@@ -4,151 +4,182 @@
     {
       "position": 1,
       "text": "πῶς",
-      "lemma": [
+      "lemma": "πως",
+      "morph": "robinson:PRT-I",
+      "strongs": [
         "G4459"
       ],
-      "morph": "robinson:PRT-I",
-      "strongs": "G4459",
       "translation": "How",
-      "metadata": {},
-      "gematria": {
-        "standard": 1080,
-        "ordinal": 58,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4459",
+        "subMeaning": "how?",
+        "manuscriptType": "NKO",
+        "gloss": "how?!"
+      },
+      "source": {
+        "raw": "Mat.26.54#01=NKO\tπῶς (pōs)\tHow\tG4459=PRT-I\tπως=how?!\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\t¿Cómo\thow?\t#01\tG4459\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "οὖν",
-      "lemma": [
+      "lemma": "οὖν",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G3767"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G3767",
       "translation": "then",
-      "metadata": {},
-      "gematria": {
-        "standard": 520,
-        "ordinal": 48,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3767",
+        "subMeaning": "then",
+        "manuscriptType": "NKO",
+        "gloss": "therefore/then"
+      },
+      "source": {
+        "raw": "Mat.26.54#02=NKO\tοὖν (oun)\tthen\tG3767=CONJ\tοὖν=therefore/then\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tpor lo tanto\tthen\t#02\tG3767\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "πληρωθῶσιν",
-      "lemma": [
+      "lemma": "πληρόω",
+      "morph": "robinson:V-APS-3P",
+      "strongs": [
         "G4137"
       ],
-      "morph": "robinson:V-APS-3P",
-      "strongs": "G4137",
       "translation": "may be fulfilled",
-      "metadata": {},
-      "gematria": {
-        "standard": 2087,
-        "ordinal": 147,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4137",
+        "subMeaning": "to fulfill",
+        "manuscriptType": "NKO",
+        "gloss": "to fulfill"
+      },
+      "source": {
+        "raw": "Mat.26.54#03=NKO\tπληρωθῶσιν (plērōthōsin)\tmay be fulfilled\tG4137=V-APS-3P\tπληρόω=to fulfill\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tsean llenados a plenitud\tto fulfill\t#03\tG4137\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "αἱ",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-NPF",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-NPF",
-      "strongs": "G3588",
       "translation": "the",
-      "metadata": {},
-      "gematria": {
-        "standard": 11,
-        "ordinal": 10,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Mat.26.54#04=NKO\tαἱ (hai)\tthe\tG3588=T-NPF\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tlos\tthe\t#04»05:G1124\tG3588\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "γραφαὶ",
-      "lemma": [
+      "lemma": "γραφή",
+      "morph": "robinson:N-NPF",
+      "strongs": [
         "G1124"
       ],
-      "morph": "robinson:N-NPF",
-      "strongs": "G1124",
       "translation": "Scriptures",
-      "metadata": {},
-      "gematria": {
-        "standard": 615,
-        "ordinal": 52,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1124",
+        "subMeaning": "writings",
+        "manuscriptType": "NKO",
+        "gloss": "a writing"
+      },
+      "source": {
+        "raw": "Mat.26.54#05=NKO\tγραφαὶ (graphai)\tScriptures\tG1124=N-NPF\tγραφή=a writing\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tescritos\twritings\t#05\tG1124\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "ὅτι",
-      "lemma": [
+      "lemma": "ὅτι",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G3754G"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G3754G",
       "translation": "that",
-      "metadata": {},
-      "gematria": {
-        "standard": 380,
-        "ordinal": 43,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3754",
+        "subMeaning": ": that»that/since|1_that",
+        "manuscriptType": "NKO",
+        "gloss": "that/since"
+      },
+      "source": {
+        "raw": "Mat.26.54#06=NKO\tὅτι (hoti)\tthat\tG3754G=CONJ\tὅτι=that/since\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tque\t: that»that/since|1_that\t#06»09:G1096\tG3754\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "οὕτως",
-      "lemma": [
+      "lemma": "οὕτω, οὕτως",
+      "morph": "robinson:ADV",
+      "strongs": [
         "G3779"
       ],
-      "morph": "robinson:ADV",
-      "strongs": "G3779",
       "translation": "so",
-      "metadata": {},
-      "gematria": {
-        "standard": 1770,
-        "ordinal": 96,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3779",
+        "subMeaning": "thus",
+        "manuscriptType": "NKO",
+        "gloss": "thus(-ly)"
+      },
+      "source": {
+        "raw": "Mat.26.54#07=NKO\tοὕτως (houtōs)\tso\tG3779=ADV\tοὕτω, οὕτως=thus(-ly)\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tasí\tthus\t#07\tG3779\t\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "δεῖ",
-      "lemma": [
+      "lemma": "δεῖ",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
         "G1163"
       ],
-      "morph": "robinson:V-PAI-3S",
-      "strongs": "G1163",
       "translation": "it must be",
-      "metadata": {},
-      "gematria": {
-        "standard": 19,
-        "ordinal": 18,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1163",
+        "subMeaning": "be necessary",
+        "manuscriptType": "NKO",
+        "gloss": "be necessary"
+      },
+      "source": {
+        "raw": "Mat.26.54#08=NKO\tδεῖ (dei)\tit must be\tG1163=V-PAI-3S\tδεῖ=be necessary\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testá siendo necesario\tbe necessary\t#08\tG1163\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "γενέσθαι;",
-      "lemma": [
+      "lemma": "γίνομαι",
+      "morph": "robinson:V-2ADN",
+      "strongs": [
         "G1096"
       ],
-      "morph": "robinson:V-2ADN",
-      "strongs": "G1096",
       "translation": "being?",
-      "metadata": {},
-      "gematria": {
-        "standard": 283,
-        "ordinal": 62,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1096",
+        "subMeaning": "to be",
+        "manuscriptType": "NKO",
+        "gloss": "to be"
+      },
+      "source": {
+        "raw": "Mat.26.54#09=NKO\tγενέσθαι;¶ (genesthai)\tbeing?\tG1096=V-2ADN\tγίνομαι=to be\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tllegar a ser?\tto be\t#09\tG1096\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 6765,
-    "ordinal": 534,
-    "reduced": 42
-  }
+  ]
 }

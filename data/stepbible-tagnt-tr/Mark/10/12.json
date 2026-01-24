@@ -4,183 +4,226 @@
     {
       "position": 1,
       "text": "καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "And",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532_A",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "Mrk.10.12#01=NKO\tκαὶ (kai)\tAnd\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tY\tand\t#01\tG2532_A\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "ἐὰν",
-      "lemma": [
+      "lemma": "ἐάν",
+      "morph": "robinson:COND",
+      "strongs": [
         "G1437"
       ],
-      "morph": "robinson:COND",
-      "strongs": "G1437",
       "translation": "if",
-      "metadata": {},
-      "gematria": {
-        "standard": 56,
-        "ordinal": 19,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1437",
+        "subMeaning": "if",
+        "manuscriptType": "NKO",
+        "gloss": "if"
+      },
+      "source": {
+        "raw": "Mrk.10.12#02=NKO\tἐὰν (ean)\tif\tG1437=COND\tἐάν=if\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tsi alguna vez\tif\t#02\tG1437\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "αὐτὴ",
-      "lemma": [
+      "lemma": "αὐτός",
+      "morph": "robinson:P-NSF",
+      "strongs": [
         "G0846"
       ],
-      "morph": "robinson:P-NSF",
-      "strongs": "G0846",
       "translation": "she",
-      "metadata": {},
-      "gematria": {
-        "standard": 709,
-        "ordinal": 47,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg",
+        "extendedStrongs": "G0846_a",
+        "subMeaning": "she",
+        "variants": "γυνὴ (T=gunē) woman - G1135=N-NSF in: TR+Byz",
+        "manuscriptType": "N(K)O",
+        "gloss": "he/she/it/self"
+      },
+      "source": {
+        "raw": "Mrk.10.12#03=N(K)O\tαὐτὴ (autē)\tshe\tG0846=P-NSF\tαὐτός=he/she/it/self\tNA28+NA27+Tyn+SBL+WH+Treg\tγυνὴ (T=gunē) woman - G1135=N-NSF in: TR+Byz\t\tella\tshe\t#03»04:G0630\tG0846_a\tG1135, G3778\tv γυνὴ  (<i>gunē</i>) 'woman' occurs in traditional manuscripts (TR+Byz) instead of αὐτὴ  (<i>autē</i>) 'she' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "ἀπολύσασα",
-      "lemma": [
+      "lemma": "ἀπολύω",
+      "morph": "robinson:V-AAP-NSF",
+      "strongs": [
         "G0630H"
       ],
-      "morph": "robinson:V-AAP-NSF",
-      "strongs": "G0630H",
       "translation": "having divorced",
-      "metadata": {},
-      "gematria": {
-        "standard": 983,
-        "ordinal": 101,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg",
+        "extendedStrongs": "G0630",
+        "subMeaning": ": divorce»to release|2_divorce",
+        "variants": "ἀπολύσῃ (t=apolusē) shall divorce - G0630=V-AAS-3S in: TR+Byz",
+        "manuscriptType": "N(k)O",
+        "gloss": "to release"
+      },
+      "source": {
+        "raw": "Mrk.10.12#04=N(k)O\tἀπολύσασα (apolusasa)\thaving divorced\tG0630H=V-AAP-NSF\tἀπολύω=to release\tNA28+NA27+Tyn+SBL+WH+Treg\tἀπολύσῃ (t=apolusē) shall divorce - G0630=V-AAS-3S in: TR+Byz\t\thabiendo divorciado\t: divorce»to release|2_divorce\t#04\tG0630\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "τὸν",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-ASM",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-ASM",
-      "strongs": "G3588",
       "translation": "the",
-      "metadata": {},
-      "gematria": {
-        "standard": 420,
-        "ordinal": 47,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Mrk.10.12#05=NKO\tτὸν (ton)\tthe\tG3588=T-ASM\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\t(de) el\tthe\t#05»06:G0435\tG3588\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "ἄνδρα",
-      "lemma": [
+      "lemma": "ἀνήρ",
+      "morph": "robinson:N-ASM",
+      "strongs": [
         "G0435H"
       ],
-      "morph": "robinson:N-ASM",
-      "strongs": "G0435H",
       "translation": "husband",
-      "metadata": {},
-      "gematria": {
-        "standard": 156,
-        "ordinal": 36,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0435",
+        "subMeaning": ": husband»man|2_husband",
+        "manuscriptType": "NKO",
+        "gloss": "man"
+      },
+      "source": {
+        "raw": "Mrk.10.12#06=NKO\tἄνδρα (andra)\thusband\tG0435H=N-ASM\tἀνήρ=man\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tesposo\t: husband»man|2_husband\t#06\tG0435\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "αὐτῆς",
-      "lemma": [
+      "lemma": "αὐτός",
+      "morph": "robinson:P-GSF",
+      "strongs": [
         "G0846"
       ],
-      "morph": "robinson:P-GSF",
-      "strongs": "G0846",
       "translation": "of her",
-      "metadata": {},
-      "gematria": {
-        "standard": 909,
-        "ordinal": 65,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0846_B",
+        "subMeaning": "her",
+        "manuscriptType": "NKO",
+        "gloss": "he/she/it/self"
+      },
+      "source": {
+        "raw": "Mrk.10.12#07=NKO\tαὐτῆς (autēs)\tof her\tG0846=P-GSF\tαὐτός=he/she/it/self\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tde ella\ther\t#07«06:G0435\tG0846_B\tG3778\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "and",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "TR+Byz",
+        "extendedStrongs": "G2532_b",
+        "subMeaning": "and",
+        "manuscriptType": "k",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "Mrk.10.12#08=k\tκαὶ (kai)\tand\tG2532=CONJ\tκαί=and\tTR+Byz\t\t\ty\tand\t#08\tG2532_b\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "γαμήσῃ",
-      "lemma": [
+      "lemma": "γαμέω",
+      "morph": "robinson:V-AAS-3S",
+      "strongs": [
         "G1060"
       ],
-      "morph": "robinson:V-AAS-3S",
-      "strongs": "G1060",
       "translation": "shall marry",
-      "metadata": {},
-      "gematria": {
-        "standard": 270,
-        "ordinal": 57,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg",
+        "extendedStrongs": "G1060",
+        "subMeaning": "to marry",
+        "variants": "γαμηθῇ (t=gamēthēa) shall be married - G1060=V-APS-3S in: TR+Byz",
+        "manuscriptType": "N(k)O",
+        "gloss": "to marry"
+      },
+      "source": {
+        "raw": "Mrk.10.12#09=N(k)O\tγαμήσῃ (gamēsē)\tshall marry\tG1060=V-AAS-3S\tγαμέω=to marry\tNA28+NA27+Tyn+SBL+WH+Treg\tγαμηθῇ (t=gamēthēa) shall be married - G1060=V-APS-3S in: TR+Byz\t\t(se) case\tto marry\t#09\tG1060\t\t\t\t\t"
       }
     },
     {
       "position": 10,
       "text": "ἄλλον,",
-      "lemma": [
+      "lemma": "ἄλλος",
+      "morph": "robinson:A-ASM",
+      "strongs": [
         "G0243"
       ],
-      "morph": "robinson:A-ASM",
-      "strongs": "G0243",
       "translation": "another,",
-      "metadata": {},
-      "gematria": {
-        "standard": 181,
-        "ordinal": 51,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg",
+        "extendedStrongs": "G0243",
+        "subMeaning": "another",
+        "variants": "ἄλλῳ (t=allō) to another - G0243=A-DSM in: TR+Byz",
+        "manuscriptType": "N(k)O",
+        "gloss": "another"
+      },
+      "source": {
+        "raw": "Mrk.10.12#10=N(k)O\tἄλλον, (allon)\tanother,\tG0243=A-ASM\tἄλλος=another\tNA28+NA27+Tyn+SBL+WH+Treg\tἄλλῳ (t=allō) to another - G0243=A-DSM in: TR+Byz\t\t(con) otro\tanother\t#10\tG0243\t\t\t\t\t"
       }
     },
     {
       "position": 11,
       "text": "μοιχᾶται.",
-      "lemma": [
+      "lemma": "μοιχάω",
+      "morph": "robinson:V-PNI-3S",
+      "strongs": [
         "G3429"
       ],
-      "morph": "robinson:V-PNI-3S",
-      "strongs": "G3429",
       "translation": "she commits adultery.",
-      "metadata": {},
-      "gematria": {
-        "standard": 1032,
-        "ordinal": 88,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3429",
+        "subMeaning": "to commit adultery",
+        "manuscriptType": "NKO",
+        "gloss": "to commit adultery"
+      },
+      "source": {
+        "raw": "Mrk.10.12#11=NKO\tμοιχᾶται.¶ (moichatai)\tshe commits adultery.\tG3429=V-PNI-3S\tμοιχάω=to commit adultery\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testá cometiendo adulterio\tto commit adultery\t#11\tG3429\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 4778,
-    "ordinal": 551,
-    "reduced": 53
-  }
+  ]
 }

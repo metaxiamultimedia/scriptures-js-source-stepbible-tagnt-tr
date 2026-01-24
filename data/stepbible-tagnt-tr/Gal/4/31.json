@@ -4,151 +4,183 @@
     {
       "position": 1,
       "text": "διό,",
-      "lemma": [
+      "lemma": "διό",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G1352"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G1352",
       "translation": "So then,",
-      "metadata": {},
-      "gematria": {
-        "standard": 84,
-        "ordinal": 28,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg",
+        "extendedStrongs": "G1352",
+        "subMeaning": "therefore",
+        "variants": "Ἄρα (t=Ara) Then - G0686=CONJ in: TR+Byz",
+        "manuscriptType": "N(k)O",
+        "gloss": "for"
+      },
+      "source": {
+        "raw": "Gal.4.31#01=N(k)O\tδιό, (dio)\tSo then,\tG1352=CONJ\tδιό=for\tNA28+NA27+Tyn+SBL+WH+Treg\tἌρα (t=Ara) Then - G0686=CONJ in: TR+Byz\t\tPor cual\ttherefore\t#01\tG1352\tG0686\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "ἀδελφοί,",
-      "lemma": [
+      "lemma": "ἀδελφός",
+      "morph": "robinson:N-VPM",
+      "strongs": [
         "G0080"
       ],
-      "morph": "robinson:N-VPM",
-      "strongs": "G0080",
       "translation": "brothers,",
-      "metadata": {},
-      "gematria": {
-        "standard": 620,
-        "ordinal": 66,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0080",
+        "subMeaning": "brother",
+        "manuscriptType": "NKO",
+        "gloss": "brother"
+      },
+      "source": {
+        "raw": "Gal.4.31#02=NKO\tἀδελφοί, (adelphoi)\tbrothers,\tG0080=N-VPM\tἀδελφός=brother\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\thermanos\tbrother\t#02\tG0080\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "οὐκ",
-      "lemma": [
+      "lemma": "οὐ",
+      "morph": "robinson:PRT-N",
+      "strongs": [
         "G3756"
       ],
-      "morph": "robinson:PRT-N",
-      "strongs": "G3756",
       "translation": "not",
-      "metadata": {},
-      "gematria": {
-        "standard": 490,
-        "ordinal": 45,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3756",
+        "subMeaning": "no",
+        "manuscriptType": "NKO",
+        "gloss": "no"
+      },
+      "source": {
+        "raw": "Gal.4.31#03=NKO\tοὐκ (ouk)\tnot\tG3756=PRT-N\tοὐ=no\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tno\tno\t#03»04:G1510\tG3756\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "ἐσμὲν",
-      "lemma": [
+      "lemma": "εἰμί",
+      "morph": "robinson:V-PAI-1P",
+      "strongs": [
         "G1510"
       ],
-      "morph": "robinson:V-PAI-1P",
-      "strongs": "G1510",
       "translation": "we are",
-      "metadata": {},
-      "gematria": {
-        "standard": 300,
-        "ordinal": 53,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1510",
+        "subMeaning": "to be",
+        "manuscriptType": "NKO",
+        "gloss": "to be"
+      },
+      "source": {
+        "raw": "Gal.4.31#04=NKO\tἐσμὲν (esmen)\twe are\tG1510=V-PAI-1P\tεἰμί=to be\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testamos siendo\tto be\t#04\tG1510\tG2070\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "παιδίσκης",
-      "lemma": [
+      "lemma": "παιδίσκη",
+      "morph": "robinson:N-GSF",
+      "strongs": [
         "G3814"
       ],
-      "morph": "robinson:N-GSF",
-      "strongs": "G3814",
       "translation": "of [the] slave woman",
-      "metadata": {},
-      "gematria": {
-        "standard": 533,
-        "ordinal": 92,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3814",
+        "subMeaning": "maidservant",
+        "manuscriptType": "NKO",
+        "gloss": "maidservant"
+      },
+      "source": {
+        "raw": "Gal.4.31#05=NKO\tπαιδίσκης (paidiskēs)\tof [the] slave woman\tG3814=N-GSF\tπαιδίσκη=maidservant\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tde sirvienta\tmaidservant\t#05\tG3814\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "τέκνα",
-      "lemma": [
+      "lemma": "τέκνον",
+      "morph": "robinson:N-NPN",
+      "strongs": [
         "G5043"
       ],
-      "morph": "robinson:N-NPN",
-      "strongs": "G5043",
       "translation": "children",
-      "metadata": {},
-      "gematria": {
-        "standard": 376,
-        "ordinal": 48,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5043",
+        "subMeaning": "child",
+        "manuscriptType": "NKO",
+        "gloss": "child"
+      },
+      "source": {
+        "raw": "Gal.4.31#06=NKO\tτέκνα (tekna)\tchildren\tG5043=N-NPN\tτέκνον=child\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\thijos\tchild\t#06\tG5043\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "ἀλλὰ",
-      "lemma": [
+      "lemma": "ἀλλά",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G0235"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G0235",
       "translation": "but",
-      "metadata": {},
-      "gematria": {
-        "standard": 62,
-        "ordinal": 24,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0235",
+        "subMeaning": "but",
+        "manuscriptType": "NKO",
+        "gloss": "but"
+      },
+      "source": {
+        "raw": "Gal.4.31#07=NKO\tἀλλὰ (alla)\tbut\tG0235=CONJ\tἀλλά=but\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tsino\tbut\t#07\tG0235\t\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "τῆς",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-GSF",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-GSF",
-      "strongs": "G3588",
       "translation": "of the",
-      "metadata": {},
-      "gematria": {
-        "standard": 508,
-        "ordinal": 44,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Gal.4.31#08=NKO\tτῆς (tēs)\tof the\tG3588=T-GSF\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tde la\tthe\t#08»09:G1658\tG3588\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "ἐλευθέρας·",
-      "lemma": [
+      "lemma": "ἐλεύθερος",
+      "morph": "robinson:A-GSF",
+      "strongs": [
         "G1658"
       ],
-      "morph": "robinson:A-GSF",
-      "strongs": "G1658",
       "translation": "free;",
-      "metadata": {},
-      "gematria": {
-        "standard": 755,
-        "ordinal": 90,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1658",
+        "subMeaning": "free",
+        "manuscriptType": "NKO",
+        "gloss": "free/freedom"
+      },
+      "source": {
+        "raw": "Gal.4.31#09=NKO\tἐλευθέρας· (eleutheras)\tfree;\tG1658=A-GSF\tἐλεύθερος=free/freedom\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\t(mujer) libre\tfree\t#09\tG1658\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 3728,
-    "ordinal": 490,
-    "reduced": 47
-  }
+  ]
 }

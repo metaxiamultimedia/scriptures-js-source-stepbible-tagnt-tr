@@ -4,119 +4,142 @@
     {
       "position": 1,
       "text": "καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "And",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "Mat.19.15#01=NKO\tκαὶ (kai)\tAnd\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tY\tand\t#01\tG2532\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "ἐπιθεὶς",
-      "lemma": [
+      "lemma": "ἐπιτίθημι",
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": [
         "G2007"
       ],
-      "morph": "robinson:V-2AAP-NSM",
-      "strongs": "G2007",
       "translation": "having laid",
-      "metadata": {},
-      "gematria": {
-        "standard": 319,
-        "ordinal": 70,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2007",
+        "subMeaning": "to put",
+        "manuscriptType": "NKO",
+        "gloss": "to put/lay on"
+      },
+      "source": {
+        "raw": "Mat.19.15#02=NKO\tἐπιθεὶς (epitheis)\thaving laid\tG2007=V-2AAP-NSM\tἐπιτίθημι=to put/lay on\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\thabiendo puesto encima\tto put\t#02\tG2007\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "τὰς",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-APF",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-APF",
-      "strongs": "G3588",
       "translation": "the",
-      "metadata": {},
-      "gematria": {
-        "standard": 501,
-        "ordinal": 38,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Mat.19.15#03=NKO\tτὰς (tas)\tthe\tG3588=T-APF\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tlas\tthe\t#03»04:G5495\tG3588\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "χεῖρας",
-      "lemma": [
+      "lemma": "χείρ",
+      "morph": "robinson:N-APF",
+      "strongs": [
         "G5495"
       ],
-      "morph": "robinson:N-APF",
-      "strongs": "G5495",
       "translation": "hands",
-      "metadata": {},
-      "gematria": {
-        "standard": 916,
-        "ordinal": 72,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5495",
+        "subMeaning": "hands",
+        "manuscriptType": "NKO",
+        "gloss": "hand"
+      },
+      "source": {
+        "raw": "Mat.19.15#04=NKO\tχεῖρας (cheiras)\thands\tG5495=N-APF\tχείρ=hand\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tmanos\thands\t#04\tG5495\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "αὐτοῖς",
-      "lemma": [
+      "lemma": "αὐτός",
+      "morph": "robinson:P-DPN",
+      "strongs": [
         "G0846"
       ],
-      "morph": "robinson:P-DPN",
-      "strongs": "G0846",
       "translation": "upon them",
-      "metadata": {},
-      "gematria": {
-        "standard": 981,
-        "ordinal": 82,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR«3+Byz«3",
+        "extendedStrongs": "G0846",
+        "subMeaning": "to them",
+        "manuscriptType": "NKO",
+        "gloss": "he/she/it/self"
+      },
+      "source": {
+        "raw": "Mat.19.15#05=NKO\tαὐτοῖς (autois)\tupon them\tG0846=P-DPN\tαὐτός=he/she/it/self\tNA28+NA27+Tyn+SBL+WH+Treg+TR«3+Byz«3\t\t\ta ellos\tto them\t#05«02:G2007\tG0846\tG3778\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "ἐπορεύθη",
-      "lemma": [
+      "lemma": "πορεύω",
+      "morph": "robinson:V-AOI-3S",
+      "strongs": [
         "G4198"
       ],
-      "morph": "robinson:V-AOI-3S",
-      "strongs": "G4198",
       "translation": "He departed",
-      "metadata": {},
-      "gematria": {
-        "standard": 677,
-        "ordinal": 93,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4198",
+        "subMeaning": "to go",
+        "manuscriptType": "NKO",
+        "gloss": "to travel"
+      },
+      "source": {
+        "raw": "Mat.19.15#06=NKO\tἐπορεύθη (eporeuthē)\tHe departed\tG4198=V-AOI-3S\tπορεύω=to travel\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tvino en camino\tto go\t#06\tG4198\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "ἐκεῖθεν.",
-      "lemma": [
+      "lemma": "ἐκεῖθεν",
+      "morph": "robinson:ADV",
+      "strongs": [
         "G1564"
       ],
-      "morph": "robinson:ADV",
-      "strongs": "G1564",
       "translation": "from there.",
-      "metadata": {},
-      "gematria": {
-        "standard": 104,
-        "ordinal": 55,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1564",
+        "subMeaning": "from there",
+        "manuscriptType": "NKO",
+        "gloss": "from there"
+      },
+      "source": {
+        "raw": "Mat.19.15#07=NKO\tἐκεῖθεν.¶ (ekeithen)\tfrom there.\tG1564=ADV\tἐκεῖθεν=from there\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tdesde allí\tfrom there\t#07\tG1564\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 3529,
-    "ordinal": 430,
-    "reduced": 37
-  }
+  ]
 }

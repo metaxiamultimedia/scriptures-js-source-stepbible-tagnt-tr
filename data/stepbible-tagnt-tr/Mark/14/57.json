@@ -4,119 +4,142 @@
     {
       "position": 1,
       "text": "Καί",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "And",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "Mrk.14.57#01=NKO\tΚαί (Kai)\tAnd\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tY\tand\t#01\tG2532\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "τινες",
-      "lemma": [
+      "lemma": "τις",
+      "morph": "robinson:X-NPM",
+      "strongs": [
         "G5100"
       ],
-      "morph": "robinson:X-NPM",
-      "strongs": "G5100",
       "translation": "some",
-      "metadata": {},
-      "gematria": {
-        "standard": 565,
-        "ordinal": 64,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5100",
+        "subMeaning": "one",
+        "manuscriptType": "NKO",
+        "gloss": "one"
+      },
+      "source": {
+        "raw": "Mrk.14.57#02=NKO\tτινες (tines)\tsome\tG5100=X-NPM\tτις=one\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\talgunos\tone\t#02»03:G0450\tG5100\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "ἀναστάντες",
-      "lemma": [
+      "lemma": "ἀνίστημι",
+      "morph": "robinson:V-2AAP-NPM",
+      "strongs": [
         "G0450"
       ],
-      "morph": "robinson:V-2AAP-NPM",
-      "strongs": "G0450",
       "translation": "having risen up",
-      "metadata": {},
-      "gematria": {
-        "standard": 1108,
-        "ordinal": 108,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0450",
+        "subMeaning": "to arise",
+        "manuscriptType": "NKO",
+        "gloss": "to arise"
+      },
+      "source": {
+        "raw": "Mrk.14.57#03=NKO\tἀναστάντες (anastantes)\thaving risen up\tG0450=V-2AAP-NPM\tἀνίστημι=to arise\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\thabiéndo(se) puesto de pie\tto arise\t#03\tG0450\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "ἐψευδομαρτύρουν",
-      "lemma": [
+      "lemma": "ψευδομαρτυρέω",
+      "morph": "robinson:V-IAI-3P",
+      "strongs": [
         "G5576"
       ],
-      "morph": "robinson:V-IAI-3P",
-      "strongs": "G5576",
       "translation": "were bearing false testimony",
-      "metadata": {},
-      "gematria": {
-        "standard": 2645,
-        "ordinal": 206,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5576",
+        "subMeaning": "to perjure",
+        "manuscriptType": "NKO",
+        "gloss": "to perjure"
+      },
+      "source": {
+        "raw": "Mrk.14.57#04=NKO\tἐψευδομαρτύρουν (epseudomarturoun)\twere bearing false testimony\tG5576=V-IAI-3P\tψευδομαρτυρέω=to perjure\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testaban dando falso testimonio\tto perjure\t#04\tG5576\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "κατ᾽",
-      "lemma": [
+      "lemma": "κατά",
+      "morph": "robinson:PREP",
+      "strongs": [
         "G2596"
       ],
-      "morph": "robinson:PREP",
-      "strongs": "G2596",
       "translation": "against",
-      "metadata": {},
-      "gematria": {
-        "standard": 321,
-        "ordinal": 30,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2596",
+        "subMeaning": "against",
+        "manuscriptType": "NKO",
+        "gloss": "according to"
+      },
+      "source": {
+        "raw": "Mrk.14.57#05=NKO\tκατ᾽ (kat᾽)\tagainst\tG2596=PREP\tκατά=according to\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\thacia abajo\tagainst\t#05\tG2596\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "αὐτοῦ",
-      "lemma": [
+      "lemma": "αὐτός",
+      "morph": "robinson:P-GSM",
+      "strongs": [
         "G0846"
       ],
-      "morph": "robinson:P-GSM",
-      "strongs": "G0846",
       "translation": "Him",
-      "metadata": {},
-      "gematria": {
-        "standard": 1171,
-        "ordinal": 75,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0846",
+        "subMeaning": "of him",
+        "manuscriptType": "NKO",
+        "gloss": "he/she/it/self"
+      },
+      "source": {
+        "raw": "Mrk.14.57#06=NKO\tαὐτοῦ (autou)\tHim\tG0846=P-GSM\tαὐτός=he/she/it/self\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tél\tof him\t#06«05:G2596\tG0846\tG3778\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "λέγοντες",
-      "lemma": [
+      "lemma": "λέγω",
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": [
         "G3004G"
       ],
-      "morph": "robinson:V-PAP-NPM",
-      "strongs": "G3004G",
       "translation": "saying",
-      "metadata": {},
-      "gematria": {
-        "standard": 663,
-        "ordinal": 89,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3004",
+        "subMeaning": ": speak»to speak|1_speak/ask",
+        "manuscriptType": "NKO",
+        "gloss": "to speak"
+      },
+      "source": {
+        "raw": "Mrk.14.57#07=NKO\tλέγοντες (legontes)\tsaying\tG3004G=V-PAP-NPM\tλέγω=to speak\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testando diciendo\t: speak»to speak|1_speak/ask\t#07\tG3004\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 6504,
-    "ordinal": 592,
-    "reduced": 33
-  }
+  ]
 }

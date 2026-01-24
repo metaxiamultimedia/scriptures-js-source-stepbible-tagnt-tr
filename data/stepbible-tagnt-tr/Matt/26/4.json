@@ -4,151 +4,182 @@
     {
       "position": 1,
       "text": "καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "and",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532_A",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "Mat.26.4#01=NKO\tκαὶ (kai)\tand\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tY\tand\t#01\tG2532_A\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "συνεβουλεύσαντο",
-      "lemma": [
+      "lemma": "συμβουλεύω",
+      "morph": "robinson:V-AMI-3P",
+      "strongs": [
         "G4823"
       ],
-      "morph": "robinson:V-AMI-3P",
-      "strongs": "G4823",
       "translation": "they plotted together",
-      "metadata": {},
-      "gematria": {
-        "standard": 2183,
-        "ordinal": 195,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4823",
+        "subMeaning": "to consult",
+        "manuscriptType": "NKO",
+        "gloss": "to consult"
+      },
+      "source": {
+        "raw": "Mat.26.4#02=NKO\tσυνεβουλεύσαντο (sunebouleusanto)\tthey plotted together\tG4823=V-AMI-3P\tσυμβουλεύω=to consult\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ttomaron consejo juntos\tto consult\t#02\tG4823\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "ἵνα",
-      "lemma": [
+      "lemma": "ἵνα",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2443"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2443",
       "translation": "in order that",
-      "metadata": {},
-      "gematria": {
-        "standard": 61,
-        "ordinal": 23,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2443",
+        "subMeaning": "in order to",
+        "manuscriptType": "NKO",
+        "gloss": "in order that/to"
+      },
+      "source": {
+        "raw": "Mat.26.4#03=NKO\tἵνα (ina)\tin order that\tG2443=CONJ\tἵνα=in order that/to\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tpara que\tin order to\t#03\tG2443\tG3363\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "τὸν",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-ASM",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-ASM",
-      "strongs": "G3588",
       "translation": "<the>",
-      "metadata": {},
-      "gematria": {
-        "standard": 420,
-        "ordinal": 47,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Mat.26.4#04=NKO\tτὸν (ton)\t<the>\tG3588=T-ASM\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta el\tthe\t#04»05:G2424\tG3588\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "Ἰησοῦν",
-      "lemma": [
+      "lemma": "Ἰησοῦς",
+      "morph": "robinson:N-ASM-P",
+      "strongs": [
         "G2424G"
       ],
-      "morph": "robinson:N-ASM-P",
-      "strongs": "G2424G",
       "translation": "Jesus",
-      "metadata": {},
-      "gematria": {
-        "standard": 738,
-        "ordinal": 82,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2424",
+        "subMeaning": "Jesus»Jesus|Jesus@Mat.1.1",
+        "manuscriptType": "NKO",
+        "gloss": "Jesus/Joshua"
+      },
+      "source": {
+        "raw": "Mat.26.4#05=NKO\tἸησοῦν (Iēsoun)\tJesus\tG2424G=N-ASM-P\tἸησοῦς=Jesus/Joshua\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tJesús\tJesus»Jesus|Jesus@Mat.1.1\t#05\tG2424\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "δόλῳ",
-      "lemma": [
+      "lemma": "δόλος",
+      "morph": "robinson:N-DSM",
+      "strongs": [
         "G1388"
       ],
-      "morph": "robinson:N-DSM",
-      "strongs": "G1388",
       "translation": "by guile",
-      "metadata": {},
-      "gematria": {
-        "standard": 914,
-        "ordinal": 63,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1388",
+        "subMeaning": "deceit",
+        "manuscriptType": "NKO",
+        "gloss": "deceit"
+      },
+      "source": {
+        "raw": "Mat.26.4#06=NKO\tδόλῳ (dolō)\tby guile\tG1388=N-DSM\tδόλος=deceit\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta ardid astuto\tdeceit\t#06\tG1388\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "κρατήσωσιν",
-      "lemma": [
+      "lemma": "κρατέω",
+      "morph": "robinson:V-AAS-3P",
+      "strongs": [
         "G2902"
       ],
-      "morph": "robinson:V-AAS-3P",
-      "strongs": "G2902",
       "translation": "they may seize",
-      "metadata": {},
-      "gematria": {
-        "standard": 1689,
-        "ordinal": 136,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2902",
+        "subMeaning": "to seize",
+        "manuscriptType": "NKO",
+        "gloss": "to grasp/seize"
+      },
+      "source": {
+        "raw": "Mat.26.4#07=NKO\tκρατήσωσιν (kratēsōsin)\tthey may seize\tG2902=V-AAS-3P\tκρατέω=to grasp/seize\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tasgan firmemente\tto seize\t#07\tG2902\t\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "and",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532_B",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "Mat.26.4#08=NKO\tκαὶ (kai)\tand\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ty\tand\t#08\tG2532_B\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "ἀποκτείνωσιν.",
-      "lemma": [
+      "lemma": "ἀποκτείνω",
+      "morph": "robinson:V-AAS-3P",
+      "strongs": [
         "G0615"
       ],
-      "morph": "robinson:V-AAS-3P",
-      "strongs": "G0615",
       "translation": "may kill.",
-      "metadata": {},
-      "gematria": {
-        "standard": 1596,
-        "ordinal": 152,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0615",
+        "subMeaning": "to kill",
+        "manuscriptType": "NKO",
+        "gloss": "to kill"
+      },
+      "source": {
+        "raw": "Mat.26.4#09=NKO\tἀποκτείνωσιν. (apokteinōsin)\tmay kill.\tG0615=V-AAS-3P\tἀποκτείνω=to kill\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testén matando\tto kill\t#09\tG0615\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 7663,
-    "ordinal": 738,
-    "reduced": 49
-  }
+  ]
 }

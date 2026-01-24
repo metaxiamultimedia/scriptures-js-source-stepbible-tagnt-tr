@@ -4,167 +4,203 @@
     {
       "position": 1,
       "text": "δύο",
-      "lemma": [
+      "lemma": "δύο",
+      "morph": "robinson:A-NUI",
+      "strongs": [
         "G1417"
       ],
-      "morph": "robinson:A-NUI",
-      "strongs": "G1417",
       "translation": "Two [women]",
-      "metadata": {},
-      "gematria": {
-        "standard": 474,
-        "ordinal": 39,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1417",
+        "subMeaning": "two",
+        "manuscriptType": "NKO",
+        "gloss": "two"
+      },
+      "source": {
+        "raw": "Mat.24.41#01=NKO\tδύο (duo)\tTwo [women]\tG1417=A-NUI\tδύο=two\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tDos (mujeres)\ttwo\t#01\tG1417\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "ἀλήθουσαι",
-      "lemma": [
+      "lemma": "ἀλήθω",
+      "morph": "robinson:V-PAP-NPF",
+      "strongs": [
         "G0229"
       ],
-      "morph": "robinson:V-PAP-NPF",
-      "strongs": "G0229",
       "translation": "grinding",
-      "metadata": {},
-      "gematria": {
-        "standard": 729,
-        "ordinal": 90,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0229",
+        "subMeaning": "to grind",
+        "manuscriptType": "NKO",
+        "gloss": "to grind"
+      },
+      "source": {
+        "raw": "Mat.24.41#02=NKO\tἀλήθουσαι (alēthousai)\tgrinding\tG0229=V-PAP-NPF\tἀλήθω=to grind\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testando moliendo\tto grind\t#02\tG0229\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "ἐν",
-      "lemma": [
+      "lemma": "ἐν",
+      "morph": "robinson:PREP",
+      "strongs": [
         "G1722"
       ],
-      "morph": "robinson:PREP",
-      "strongs": "G1722",
       "translation": "at",
-      "metadata": {},
-      "gematria": {
-        "standard": 55,
-        "ordinal": 18,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1722",
+        "subMeaning": "with",
+        "manuscriptType": "NKO",
+        "gloss": "in/on/among"
+      },
+      "source": {
+        "raw": "Mat.24.41#03=NKO\tἐν (en)\tat\tG1722=PREP\tἐν=in/on/among\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ten\twith\t#03\tG1722\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "τῷ",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-DSM",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-DSM",
-      "strongs": "G3588",
       "translation": "the",
-      "metadata": {},
-      "gematria": {
-        "standard": 1110,
-        "ordinal": 52,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Mat.24.41#04=NKO\tτῷ (tō)\tthe\tG3588=T-DSM\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tel\tthe\t#04»05:G3458\tG3588\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "μύλῳ·",
-      "lemma": [
+      "lemma": "μύλος",
+      "morph": "robinson:N-DSM",
+      "strongs": [
         "G3458"
       ],
-      "morph": "robinson:N-DSM",
-      "strongs": "G3458",
       "translation": "mill;",
-      "metadata": {},
-      "gematria": {
-        "standard": 1280,
-        "ordinal": 76,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg",
+        "extendedStrongs": "G3458",
+        "subMeaning": "millstone",
+        "variants": "μύλωνι (t=mulōni) millhouse - G3459=N-DSM in: TR+Byz",
+        "manuscriptType": "N(k)O",
+        "gloss": "millstone"
+      },
+      "source": {
+        "raw": "Mat.24.41#05=N(k)O\tμύλῳ· (mulō)\tmill;\tG3458=N-DSM\tμύλος=millstone\tNA28+NA27+Tyn+SBL+WH+Treg\tμύλωνι (t=mulōni) millhouse - G3459=N-DSM in: TR+Byz\t\tmolino de mano\tmillstone\t#05\tG3458\tG3459\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "μία",
-      "lemma": [
+      "lemma": "εἷς",
+      "morph": "robinson:A-NSF",
+      "strongs": [
         "G1520"
       ],
-      "morph": "robinson:A-NSF",
-      "strongs": "G1520",
       "translation": "one",
-      "metadata": {},
-      "gematria": {
-        "standard": 51,
-        "ordinal": 22,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1520_A",
+        "subMeaning": "one",
+        "manuscriptType": "NKO",
+        "gloss": "one"
+      },
+      "source": {
+        "raw": "Mat.24.41#06=NKO\tμία (mia)\tone\tG1520=A-NSF\tεἷς=one\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tuno\tone\t#06\tG1520_A\tG3391\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "παραλαμβάνεται",
-      "lemma": [
+      "lemma": "παραλαμβάνω",
+      "morph": "robinson:V-PPI-3S",
+      "strongs": [
         "G3880"
       ],
-      "morph": "robinson:V-PPI-3S",
-      "strongs": "G3880",
       "translation": "is taken",
-      "metadata": {},
-      "gematria": {
-        "standard": 622,
-        "ordinal": 109,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3880",
+        "subMeaning": "to take",
+        "manuscriptType": "NKO",
+        "gloss": "to take"
+      },
+      "source": {
+        "raw": "Mat.24.41#07=NKO\tπαραλαμβάνεται (paralambanetai)\tis taken\tG3880=V-PPI-3S\tπαραλαμβάνω=to take\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testá siendo tomada al lado de\tto take\t#07\tG3880\t\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "and",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "Mat.24.41#08=NKO\tκαὶ (kai)\tand\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ty\tand\t#08\tG2532\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "μία",
-      "lemma": [
+      "lemma": "εἷς",
+      "morph": "robinson:A-NSF",
+      "strongs": [
         "G1520"
       ],
-      "morph": "robinson:A-NSF",
-      "strongs": "G1520",
       "translation": "one",
-      "metadata": {},
-      "gematria": {
-        "standard": 51,
-        "ordinal": 22,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1520_B",
+        "subMeaning": "one",
+        "manuscriptType": "NKO",
+        "gloss": "one"
+      },
+      "source": {
+        "raw": "Mat.24.41#09=NKO\tμία (mia)\tone\tG1520=A-NSF\tεἷς=one\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tuno\tone\t#09\tG1520_B\tG3391\t\t\t\t"
       }
     },
     {
       "position": 10,
       "text": "ἀφίεται.",
-      "lemma": [
+      "lemma": "ἀφίημι",
+      "morph": "robinson:V-PPI-3S",
+      "strongs": [
         "G0863G"
       ],
-      "morph": "robinson:V-PPI-3S",
-      "strongs": "G0863G",
       "translation": "is left.",
-      "metadata": {},
-      "gematria": {
-        "standard": 827,
-        "ordinal": 65,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0863",
+        "subMeaning": ": leave»to release|1_leave/abandon",
+        "manuscriptType": "NKO",
+        "gloss": "to release"
+      },
+      "source": {
+        "raw": "Mat.24.41#10=NKO\tἀφίεται. (aphietai)\tis left.\tG0863G=V-PPI-3S\tἀφίημι=to release\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testá siendo dejada completamente\t: leave»to release|1_leave/abandon\t#10\tG0863\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 5230,
-    "ordinal": 513,
-    "reduced": 46
-  }
+  ]
 }

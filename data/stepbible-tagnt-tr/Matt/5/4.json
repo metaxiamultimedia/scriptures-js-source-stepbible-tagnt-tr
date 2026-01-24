@@ -4,103 +4,122 @@
     {
       "position": 1,
       "text": "Μακάριοι",
-      "lemma": [
+      "lemma": "μακάριος",
+      "morph": "robinson:A-NPM",
+      "strongs": [
         "G3107"
       ],
-      "morph": "robinson:A-NPM",
-      "strongs": "G3107",
       "translation": "Blessed [are]",
-      "metadata": {},
-      "gematria": {
-        "standard": 252,
-        "ordinal": 74,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3107",
+        "subMeaning": "blessed",
+        "manuscriptType": "NKO",
+        "gloss": "blessed"
+      },
+      "source": {
+        "raw": "Mat.5.4#01=NKO\tΜακάριοι (Makarioi)\tBlessed [are]\tG3107=A-NPM\tμακάριος=blessed \tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tDichosos\tblessed\t#01\tG3107\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "οἱ",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-NPM",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-NPM",
-      "strongs": "G3588",
       "translation": "those",
-      "metadata": {},
-      "gematria": {
-        "standard": 80,
-        "ordinal": 24,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588",
+        "subMeaning": "[those] which",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Mat.5.4#02=NKO\tοἱ (hoi)\tthose\tG3588=T-NPM\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tlos\t[those] which\t#02»03:G3996\tG3588\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "πενθοῦντες,",
-      "lemma": [
+      "lemma": "πενθέω",
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": [
         "G3996"
       ],
-      "morph": "robinson:V-PAP-NPM",
-      "strongs": "G3996",
       "translation": "mourning,",
-      "metadata": {},
-      "gematria": {
-        "standard": 1169,
-        "ordinal": 132,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3996",
+        "subMeaning": "to mourn",
+        "manuscriptType": "NKO",
+        "gloss": "to mourn"
+      },
+      "source": {
+        "raw": "Mat.5.4#03=NKO\tπενθοῦντες, (penthountes)\tmourning,\tG3996=V-PAP-NPM\tπενθέω=to mourn\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testando lamentando\tto mourn\t#03\tG3996\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "ὅτι",
-      "lemma": [
+      "lemma": "ὅτι",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G3754H"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G3754H",
       "translation": "for",
-      "metadata": {},
-      "gematria": {
-        "standard": 380,
-        "ordinal": 43,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3754",
+        "subMeaning": ": since»that/since|2_since",
+        "manuscriptType": "NKO",
+        "gloss": "that/since"
+      },
+      "source": {
+        "raw": "Mat.5.4#04=NKO\tὅτι (hoti)\tfor\tG3754H=CONJ\tὅτι=that/since\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tporque\t: since»that/since|2_since\t#04\tG3754\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "αὐτοὶ",
-      "lemma": [
+      "lemma": "αὐτός",
+      "morph": "robinson:P-NPM",
+      "strongs": [
         "G0846"
       ],
-      "morph": "robinson:P-NPM",
-      "strongs": "G0846",
       "translation": "they themselves",
-      "metadata": {},
-      "gematria": {
-        "standard": 781,
-        "ordinal": 64,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0846",
+        "subMeaning": "they",
+        "manuscriptType": "NKO",
+        "gloss": "he/she/it/self"
+      },
+      "source": {
+        "raw": "Mat.5.4#05=NKO\tαὐτοὶ (autoi)\tthey themselves\tG0846=P-NPM\tαὐτός=he/she/it/self\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tellos\tthey\t#05»06:G3870\tG0846\tG3778\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "παρακληθήσονται.",
-      "lemma": [
+      "lemma": "παρακαλέω",
+      "morph": "robinson:V-FPI-3P",
+      "strongs": [
         "G3870"
       ],
-      "morph": "robinson:V-FPI-3P",
-      "strongs": "G3870",
       "translation": "will be comforted.",
-      "metadata": {},
-      "gematria": {
-        "standard": 888,
-        "ordinal": 153,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3870",
+        "subMeaning": "to comfort",
+        "manuscriptType": "NKO",
+        "gloss": "to plead/comfort"
+      },
+      "source": {
+        "raw": "Mat.5.4#06=NKO\tπαρακληθήσονται.¶ (paraklēthēsontai)\twill be comforted.\tG3870=V-FPI-3P\tπαρακαλέω=to plead/comfort\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tserán consolados\tto comfort\t#06\tG3870\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 3550,
-    "ordinal": 490,
-    "reduced": 40
-  }
+  ]
 }

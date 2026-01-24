@@ -4,87 +4,102 @@
     {
       "position": 1,
       "text": "ὑμεῖς",
-      "lemma": [
+      "lemma": "σύ",
+      "morph": "robinson:P-2NP",
+      "strongs": [
         "G4771"
       ],
-      "morph": "robinson:P-2NP",
-      "strongs": "G4771",
       "translation": "You yourselves",
-      "metadata": {},
-      "gematria": {
-        "standard": 655,
-        "ordinal": 64,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4771",
+        "subMeaning": "you",
+        "manuscriptType": "NKO",
+        "gloss": "you"
+      },
+      "source": {
+        "raw": "Luk.24.48#01=NKO\tὑμεῖς (humeis)\tYou yourselves\tG4771=P-2NP\tσύ=you\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tUstedes\tyou\t#01»03:G1510\tG4771\tG5210\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "δέ",
-      "lemma": [
+      "lemma": "δέ",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G1161"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G1161",
       "translation": "now",
-      "metadata": {},
-      "gematria": {
-        "standard": 9,
-        "ordinal": 9,
-        "reduced": 9
+      "metadata": {
+        "editions": "TR+Byz",
+        "extendedStrongs": "G1161",
+        "subMeaning": "and",
+        "manuscriptType": "k",
+        "gloss": "but/and"
+      },
+      "source": {
+        "raw": "Luk.24.48#02=k\tδέ (de)\tnow\tG1161=CONJ\tδέ=but/and\tTR+Byz\t\t\tpero\tand\t#02\tG1161\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "ἐστε",
-      "lemma": [
+      "lemma": "εἰμί",
+      "morph": "robinson:V-PAI-2P",
+      "strongs": [
         "G1510"
       ],
-      "morph": "robinson:V-PAI-2P",
-      "strongs": "G1510",
       "translation": "are",
-      "metadata": {},
-      "gematria": {
-        "standard": 510,
-        "ordinal": 47,
-        "reduced": 6
+      "metadata": {
+        "editions": "Tyn+SBL+Treg+TR+Byz",
+        "extendedStrongs": "G1510",
+        "subMeaning": "to be",
+        "manuscriptType": "ko",
+        "gloss": "to be"
+      },
+      "source": {
+        "raw": "Luk.24.48#03=ko\tἐστε (este)\tare\tG1510=V-PAI-2P\tεἰμί=to be\tTyn+SBL+Treg+TR+Byz\t\t\testán siendo\tto be\t#03\tG1510\tG2075\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "μάρτυρες",
-      "lemma": [
+      "lemma": "μάρτυς",
+      "morph": "robinson:N-NPM",
+      "strongs": [
         "G3144"
       ],
-      "morph": "robinson:N-NPM",
-      "strongs": "G3144",
       "translation": "witnesses",
-      "metadata": {},
-      "gematria": {
-        "standard": 1146,
-        "ordinal": 109,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3144",
+        "subMeaning": "witness",
+        "manuscriptType": "NKO",
+        "gloss": "witness"
+      },
+      "source": {
+        "raw": "Luk.24.48#04=NKO\tμάρτυρες (martures)\twitnesses\tG3144=N-NPM\tμάρτυς=witness\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ttestigos\twitness\t#04\tG3144\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "τούτων,",
-      "lemma": [
+      "lemma": "οὗτος",
+      "morph": "robinson:D-GPN",
+      "strongs": [
         "G3778"
       ],
-      "morph": "robinson:D-GPN",
-      "strongs": "G3778",
       "translation": "of these things,",
-      "metadata": {},
-      "gematria": {
-        "standard": 1920,
-        "ordinal": 110,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3778",
+        "subMeaning": "of these",
+        "manuscriptType": "NKO",
+        "gloss": "this/he/she/it"
+      },
+      "source": {
+        "raw": "Luk.24.48#05=NKO\tτούτων, (toutōn)\tof these things,\tG3778=D-GPN\tοὗτος=this/he/she/it\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tde estas (cosas)\tof these\t#05«04:G3144\tG3778\tG5130\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 4240,
-    "ordinal": 339,
-    "reduced": 28
-  }
+  ]
 }

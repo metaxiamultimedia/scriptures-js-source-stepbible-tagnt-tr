@@ -4,167 +4,204 @@
     {
       "position": 1,
       "text": "Τί",
-      "lemma": [
+      "lemma": "τίς",
+      "morph": "robinson:I-ASN",
+      "strongs": [
         "G5101"
       ],
-      "morph": "robinson:I-ASN",
-      "strongs": "G5101",
       "translation": "What",
-      "metadata": {},
-      "gematria": {
-        "standard": 310,
-        "ordinal": 28,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5101",
+        "subMeaning": "what?",
+        "manuscriptType": "NKO",
+        "gloss": "which?"
+      },
+      "source": {
+        "raw": "Rom.4.1#01=NKO\tΤί (Ti)\tWhat\tG5101=I-ASN\tτίς=which?\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\t¿Qué\twhat?\t#01»03:G4483\tG5101\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "οὖν",
-      "lemma": [
+      "lemma": "οὖν",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G3767"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G3767",
       "translation": "then",
-      "metadata": {},
-      "gematria": {
-        "standard": 520,
-        "ordinal": 48,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3767",
+        "subMeaning": "then",
+        "manuscriptType": "NKO",
+        "gloss": "therefore/then"
+      },
+      "source": {
+        "raw": "Rom.4.1#02=NKO\tοὖν (oun)\tthen\tG3767=CONJ\tοὖν=therefore/then\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tpor lo tanto\tthen\t#02\tG3767\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "ἐροῦμεν",
-      "lemma": [
+      "lemma": "ἔπω, ἐρῶ, εἶπον",
+      "morph": "robinson:V-FAI-1P",
+      "strongs": [
         "G4483"
       ],
-      "morph": "robinson:V-FAI-1P",
-      "strongs": "G4483",
       "translation": "will we say",
-      "metadata": {},
-      "gematria": {
-        "standard": 670,
-        "ordinal": 87,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4483",
+        "subMeaning": "shall we say",
+        "manuscriptType": "NKO",
+        "gloss": "to say"
+      },
+      "source": {
+        "raw": "Rom.4.1#03=NKO\tἐροῦμεν (eroumen)\twill we say\tG4483=V-FAI-1P\tἔπω, ἐρῶ, εἶπον=to say\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tdiremos\tshall we say\t#03\tG4483\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "εὑρηκέναι",
-      "lemma": [
+      "lemma": "εὑρίσκω",
+      "morph": "robinson:V-RAN",
+      "strongs": [
         "G2147"
       ],
-      "morph": "robinson:V-RAN",
-      "strongs": "G2147",
       "translation": "to have discovered",
-      "metadata": {},
-      "gematria": {
-        "standard": 599,
-        "ordinal": 87,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+Treg+TR»4+Byz»4",
+        "extendedStrongs": "G2147",
+        "subMeaning": "has discovered",
+        "manuscriptType": "NKO",
+        "gloss": "to find/meet"
+      },
+      "source": {
+        "raw": "Rom.4.1#04=NKO\tεὑρηκέναι (heurēkenai)\tto have discovered\tG2147=V-RAN\tεὑρίσκω=to find/meet\tNA28+NA27+Tyn+SBL+Treg+TR»4+Byz»4\t\t\thaber hallado\thas discovered\t#04\tG2147\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "Ἀβραὰμ",
-      "lemma": [
+      "lemma": "Ἀβραάμ",
+      "morph": "robinson:N-ASM-P",
+      "strongs": [
         "G0011"
       ],
-      "morph": "robinson:N-ASM-P",
-      "strongs": "G0011",
       "translation": "Abraham",
-      "metadata": {},
-      "gematria": {
-        "standard": 145,
-        "ordinal": 34,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0011",
+        "subMeaning": "Abraham»Abraham|Abraham@Gen.11.26",
+        "variants": "Tyn: Ἁβραὰμ ;",
+        "manuscriptType": "NKO",
+        "gloss": "Abraham"
+      },
+      "source": {
+        "raw": "Rom.4.1#05=NKO\tἈβραὰμ (Abraam)\tAbraham\tG0011=N-ASM-P\tἈβραάμ=Abraham\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\tTyn: Ἁβραὰμ ; \tde Abrahán\tAbraham»Abraham|Abraham@Gen.11.26\t#05\tG0011\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "τὸν",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-ASM",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-ASM",
-      "strongs": "G3588",
       "translation": "the",
-      "metadata": {},
-      "gematria": {
-        "standard": 420,
-        "ordinal": 47,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Rom.4.1#06=NKO\tτὸν (ton)\tthe\tG3588=T-ASM\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tel\tthe\t#06»07:G6074\tG3588\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "προπάτορα",
-      "lemma": [
+      "lemma": "προπάτωρ",
+      "morph": "robinson:N-ASM",
+      "strongs": [
         "G6074"
       ],
-      "morph": "robinson:N-ASM",
-      "strongs": "G6074",
       "translation": "ancestor",
-      "metadata": {},
-      "gematria": {
-        "standard": 802,
-        "ordinal": 117,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg",
+        "extendedStrongs": "G6074",
+        "subMeaning": "ancestor",
+        "variants": "πατέρα (T=patera) father - G3962=N-ASM in: TR+Byz",
+        "manuscriptType": "N(K)O",
+        "gloss": "ancestor"
+      },
+      "source": {
+        "raw": "Rom.4.1#07=N(K)O\tπροπάτορα (propatora)\tancestor\tG6074=N-ASM\tπροπάτωρ=ancestor\tNA28+NA27+Tyn+SBL+WH+Treg\tπατέρα (T=patera) father - G3962=N-ASM in: TR+Byz\t\tpadre\tancestor\t#07\tG6074\tG3962\tv πατέρα  (<i>patera</i>) 'father' occurs in traditional manuscripts (TR+Byz) instead of προπάτορα  (<i>propatora</i>) 'ancestor' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "ἡμῶν",
-      "lemma": [
+      "lemma": "ἐγώ",
+      "morph": "robinson:P-1GP",
+      "strongs": [
         "G3165"
       ],
-      "morph": "robinson:P-1GP",
-      "strongs": "G3165",
       "translation": "of us",
-      "metadata": {},
-      "gematria": {
-        "standard": 898,
-        "ordinal": 56,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3165",
+        "subMeaning": "our",
+        "manuscriptType": "NKO",
+        "gloss": "I/we"
+      },
+      "source": {
+        "raw": "Rom.4.1#08=NKO\tἡμῶν (hēmōn)\tof us\tG3165=P-1GP\tἐγώ=I/we\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tde nosotros\tour\t#08«07:G6074\tG3165\tG2257\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "κατὰ",
-      "lemma": [
+      "lemma": "κατά",
+      "morph": "robinson:PREP",
+      "strongs": [
         "G2596"
       ],
-      "morph": "robinson:PREP",
-      "strongs": "G2596",
       "translation": "according to",
-      "metadata": {},
-      "gematria": {
-        "standard": 322,
-        "ordinal": 31,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2596",
+        "subMeaning": "according to",
+        "manuscriptType": "NKO",
+        "gloss": "according to"
+      },
+      "source": {
+        "raw": "Rom.4.1#09=NKO\tκατὰ (kata)\taccording to\tG2596=PREP\tκατά=according to\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tsegún\taccording to\t#09\tG2596\t\t\t\t\t"
       }
     },
     {
       "position": 10,
       "text": "σάρκα;",
-      "lemma": [
+      "lemma": "σάρξ",
+      "morph": "robinson:N-ASF",
+      "strongs": [
         "G4561"
       ],
-      "morph": "robinson:N-ASF",
-      "strongs": "G4561",
       "translation": "[the] flesh?",
-      "metadata": {},
-      "gematria": {
-        "standard": 322,
-        "ordinal": 47,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4561",
+        "subMeaning": "flesh",
+        "manuscriptType": "NKO",
+        "gloss": "flesh"
+      },
+      "source": {
+        "raw": "Rom.4.1#10=NKO\tσάρκα; (sarka)\t[the] flesh?\tG4561=N-ASF\tσάρξ=flesh\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tcarne?\tflesh\t#10\tG4561\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 5008,
-    "ordinal": 582,
-    "reduced": 49
-  }
+  ]
 }

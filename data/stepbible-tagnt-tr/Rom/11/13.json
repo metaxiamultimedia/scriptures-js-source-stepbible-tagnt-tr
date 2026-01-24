@@ -4,263 +4,323 @@
     {
       "position": 1,
       "text": "Ὑμῖν",
-      "lemma": [
+      "lemma": "σύ",
+      "morph": "robinson:P-2DP",
+      "strongs": [
         "G4771"
       ],
-      "morph": "robinson:P-2DP",
-      "strongs": "G4771",
       "translation": "To you",
-      "metadata": {},
-      "gematria": {
-        "standard": 500,
-        "ordinal": 54,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4771",
+        "subMeaning": "to you",
+        "manuscriptType": "NKO",
+        "gloss": "you"
+      },
+      "source": {
+        "raw": "Rom.11.13#01=NKO\tὙμῖν (Humin)\tTo you\tG4771=P-2DP\tσύ=you\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tA ustedes\tto you\t#01»03:G3004\tG4771\tG5213\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "δὲ",
-      "lemma": [
+      "lemma": "δέ",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G1161"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G1161",
       "translation": "now",
-      "metadata": {},
-      "gematria": {
-        "standard": 9,
-        "ordinal": 9,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg",
+        "extendedStrongs": "G1161",
+        "subMeaning": "and",
+        "variants": "γὰρ (t=gar) for - G1063=CONJ in: TR+Byz",
+        "manuscriptType": "N(k)O",
+        "gloss": "but/and"
+      },
+      "source": {
+        "raw": "Rom.11.13#02=N(k)O\tδὲ (de)\tnow\tG1161=CONJ\tδέ=but/and\tNA28+NA27+Tyn+SBL+WH+Treg\tγὰρ (t=gar) for - G1063=CONJ in: TR+Byz\t\tpero\tand\t#02\tG1161\tG1063\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "λέγω",
-      "lemma": [
+      "lemma": "λέγω",
+      "morph": "robinson:V-PAI-1S",
+      "strongs": [
         "G3004G"
       ],
-      "morph": "robinson:V-PAI-1S",
-      "strongs": "G3004G",
       "translation": "I am speaking",
-      "metadata": {},
-      "gematria": {
-        "standard": 838,
-        "ordinal": 43,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3004",
+        "subMeaning": ": speak»to speak|1_speak/ask",
+        "manuscriptType": "NKO",
+        "gloss": "to speak"
+      },
+      "source": {
+        "raw": "Rom.11.13#03=NKO\tλέγω (legō)\tI am speaking\tG3004G=V-PAI-1S\tλέγω=to speak\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testoy diciendo\t: speak»to speak|1_speak/ask\t#03\tG3004\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "τοῖς",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-DPN",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-DPN",
-      "strongs": "G3588",
       "translation": "<the>",
-      "metadata": {},
-      "gematria": {
-        "standard": 580,
-        "ordinal": 61,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588_A",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Rom.11.13#04=NKO\tτοῖς (tois)\t<the>\tG3588=T-DPN\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta las\tthe\t#04»05:G1484\tG3588_A\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "ἔθνεσιν·",
-      "lemma": [
+      "lemma": "ἔθνος",
+      "morph": "robinson:N-DPN",
+      "strongs": [
         "G1484"
       ],
-      "morph": "robinson:N-DPN",
-      "strongs": "G1484",
       "translation": "Gentiles;",
-      "metadata": {},
-      "gematria": {
-        "standard": 329,
-        "ordinal": 71,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1484_A",
+        "subMeaning": "Gentiles»Gentile@Gen.10.5",
+        "manuscriptType": "NKO",
+        "gloss": "Gentile nation"
+      },
+      "source": {
+        "raw": "Rom.11.13#05=NKO\tἔθνεσιν· (ethnesin)\tGentiles;\tG1484=N-DPN\tἔθνος=Gentile nation\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tnaciones\tGentiles»Gentile@Gen.10.5\t#05\tG1484_A\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "ἐφ᾽",
-      "lemma": [
+      "lemma": "ἐπί",
+      "morph": "robinson:PREP",
+      "strongs": [
         "G1909"
       ],
-      "morph": "robinson:PREP",
-      "strongs": "G1909",
       "translation": "Upon",
-      "metadata": {},
-      "gematria": {
-        "standard": 505,
-        "ordinal": 26,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1909",
+        "subMeaning": "upon",
+        "manuscriptType": "NKO",
+        "gloss": "upon/to/against"
+      },
+      "source": {
+        "raw": "Rom.11.13#06=NKO\tἐφ᾽ (eph᾽)\tUpon\tG1909=PREP\tἐπί=upon/to/against\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tsobre\tupon\t#06\tG1909\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "ὅσον",
-      "lemma": [
+      "lemma": "ὅσος",
+      "morph": "robinson:K-ASN",
+      "strongs": [
         "G3745"
       ],
-      "morph": "robinson:K-ASN",
-      "strongs": "G3745",
       "translation": "as much as",
-      "metadata": {},
-      "gematria": {
-        "standard": 390,
-        "ordinal": 61,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3745",
+        "subMeaning": "as much as",
+        "manuscriptType": "NKO",
+        "gloss": "just as/how much"
+      },
+      "source": {
+        "raw": "Rom.11.13#07=NKO\tὅσον (hoson)\tas much as\tG3745=K-ASN\tὅσος=just as/how much\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ttanto como\tas much as\t#07\tG3745\t\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "μὲν",
-      "lemma": [
+      "lemma": "μέν",
+      "morph": "robinson:PRT",
+      "strongs": [
         "G3303"
       ],
-      "morph": "robinson:PRT",
-      "strongs": "G3303",
       "translation": "indeed",
-      "metadata": {},
-      "gematria": {
-        "standard": 95,
-        "ordinal": 30,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3303",
+        "subMeaning": "on one hand",
+        "manuscriptType": "NKO",
+        "gloss": "on one hand"
+      },
+      "source": {
+        "raw": "Rom.11.13#08=NKO\tμὲν (men)\tindeed\tG3303=PRT\tμέν=on one hand\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tde hecho\ton one hand\t#08\tG3303\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "εἰμι",
-      "lemma": [
+      "lemma": "εἰμί",
+      "morph": "robinson:V-PAI-1S",
+      "strongs": [
         "G1510"
       ],
-      "morph": "robinson:V-PAI-1S",
-      "strongs": "G1510",
       "translation": "am",
-      "metadata": {},
-      "gematria": {
-        "standard": 65,
-        "ordinal": 35,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1510",
+        "subMeaning": "to be",
+        "manuscriptType": "NKO",
+        "gloss": "to be"
+      },
+      "source": {
+        "raw": "Rom.11.13#10=NKO\tεἰμι (eimi)\tam\tG1510=V-PAI-1S\tεἰμί=to be\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testoy siendo\tto be\t#10\tG1510\t\t\t\t\t"
       }
     },
     {
       "position": 10,
       "text": "ἐγὼ",
-      "lemma": [
+      "lemma": "ἐγώ",
+      "morph": "robinson:P-1NS",
+      "strongs": [
         "G1473"
       ],
-      "morph": "robinson:P-1NS",
-      "strongs": "G1473",
       "translation": "I myself",
-      "metadata": {},
-      "gematria": {
-        "standard": 808,
-        "ordinal": 32,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1473",
+        "subMeaning": "I",
+        "manuscriptType": "NKO",
+        "gloss": "I/we"
+      },
+      "source": {
+        "raw": "Rom.11.13#11=NKO\tἐγὼ (egō)\tI myself\tG1473=P-1NS\tἐγώ=I/we\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tyo\tI\t#11«10:G1510\tG1473\t\t\t\t\t"
       }
     },
     {
       "position": 11,
       "text": "ἐθνῶν",
-      "lemma": [
+      "lemma": "ἔθνος",
+      "morph": "robinson:N-GPN",
+      "strongs": [
         "G1484"
       ],
-      "morph": "robinson:N-GPN",
-      "strongs": "G1484",
       "translation": "of [the] Gentiles",
-      "metadata": {},
-      "gematria": {
-        "standard": 914,
-        "ordinal": 63,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1484_B",
+        "subMeaning": "Gentiles»Gentile@Gen.10.5",
+        "manuscriptType": "NKO",
+        "gloss": "Gentile nation"
+      },
+      "source": {
+        "raw": "Rom.11.13#12=NKO\tἐθνῶν (ethnōn)\tof [the] Gentiles\tG1484=N-GPN\tἔθνος=Gentile nation\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tde naciones\tGentiles»Gentile@Gen.10.5\t#12\tG1484_B\t\t\t\t\t"
       }
     },
     {
       "position": 12,
       "text": "ἀπόστολος,",
-      "lemma": [
+      "lemma": "ἀπόστολος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
         "G0652"
       ],
-      "morph": "robinson:N-NSM",
-      "strongs": "G0652",
       "translation": "apostle,",
-      "metadata": {},
-      "gematria": {
-        "standard": 1021,
-        "ordinal": 128,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0652",
+        "subMeaning": "apostle",
+        "manuscriptType": "NKO",
+        "gloss": "apostle"
+      },
+      "source": {
+        "raw": "Rom.11.13#13=NKO\tἀπόστολος, (apostolos)\tapostle,\tG0652=N-NSM\tἀπόστολος=apostle\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tenviado como emisario\tapostle\t#13\tG0652\t\t\t\t\t"
       }
     },
     {
       "position": 13,
       "text": "τὴν",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-ASF",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-ASF",
-      "strongs": "G3588",
       "translation": "the",
-      "metadata": {},
-      "gematria": {
-        "standard": 358,
-        "ordinal": 39,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588_B",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Rom.11.13#14=NKO\tτὴν (tēn)\tthe\tG3588=T-ASF\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta el\tthe\t#14»15:G1248\tG3588_B\t\t\t\t\t"
       }
     },
     {
       "position": 14,
       "text": "διακονίαν",
-      "lemma": [
+      "lemma": "διακονία",
+      "morph": "robinson:N-ASF",
+      "strongs": [
         "G1248"
       ],
-      "morph": "robinson:N-ASF",
-      "strongs": "G1248",
       "translation": "ministry",
-      "metadata": {},
-      "gematria": {
-        "standard": 216,
-        "ordinal": 75,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1248",
+        "subMeaning": "service",
+        "manuscriptType": "NKO",
+        "gloss": "service"
+      },
+      "source": {
+        "raw": "Rom.11.13#15=NKO\tδιακονίαν (diakonian)\tministry\tG1248=N-ASF\tδιακονία=service\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tservicio\tservice\t#15\tG1248\t\t\t\t\t"
       }
     },
     {
       "position": 15,
       "text": "μου",
-      "lemma": [
+      "lemma": "ἐγώ",
+      "morph": "robinson:P-1GS",
+      "strongs": [
         "G3165"
       ],
-      "morph": "robinson:P-1GS",
-      "strongs": "G3165",
       "translation": "of mine",
-      "metadata": {},
-      "gematria": {
-        "standard": 510,
-        "ordinal": 47,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3165",
+        "subMeaning": "my",
+        "manuscriptType": "NKO",
+        "gloss": "I/we"
+      },
+      "source": {
+        "raw": "Rom.11.13#16=NKO\tμου (mou)\tof mine\tG3165=P-1GS\tἐγώ=I/we\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tmío\tmy\t#16«15:G1248\tG3165\tG3450\t\t\t\t"
       }
     },
     {
       "position": 16,
       "text": "δοξάζω,",
-      "lemma": [
+      "lemma": "δοξάζω",
+      "morph": "robinson:V-PAI-1S",
+      "strongs": [
         "G1392"
       ],
-      "morph": "robinson:V-PAI-1S",
-      "strongs": "G1392",
       "translation": "I magnify,",
-      "metadata": {},
-      "gematria": {
-        "standard": 942,
-        "ordinal": 64,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1392",
+        "subMeaning": "to glorify",
+        "manuscriptType": "NKO",
+        "gloss": "to glorify"
+      },
+      "source": {
+        "raw": "Rom.11.13#17=NKO\tδοξάζω, (doxazō)\tI magnify,\tG1392=V-PAI-1S\tδοξάζω=to glorify\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tdoy esplendor\tto glorify\t#17\tG1392\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 8080,
-    "ordinal": 838,
-    "reduced": 79
-  }
+  ]
 }

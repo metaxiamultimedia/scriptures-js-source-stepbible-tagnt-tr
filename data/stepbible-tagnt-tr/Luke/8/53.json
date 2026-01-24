@@ -4,103 +4,122 @@
     {
       "position": 1,
       "text": "καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "And",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "Luk.8.53#01=NKO\tκαὶ (kai)\tAnd\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tY\tand\t#01\tG2532\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "κατεγέλων",
-      "lemma": [
+      "lemma": "καταγελάω",
+      "morph": "robinson:V-IAI-3P",
+      "strongs": [
         "G2606"
       ],
-      "morph": "robinson:V-IAI-3P",
-      "strongs": "G2606",
       "translation": "they were laughing",
-      "metadata": {},
-      "gematria": {
-        "standard": 1214,
-        "ordinal": 91,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2606",
+        "subMeaning": "to mock",
+        "manuscriptType": "NKO",
+        "gloss": "to mock"
+      },
+      "source": {
+        "raw": "Luk.8.53#02=NKO\tκατεγέλων (kategelōn)\tthey were laughing\tG2606=V-IAI-3P\tκαταγελάω=to mock\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testaban riendo despreciativamente\tto mock\t#02\tG2606\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "αὐτοῦ,",
-      "lemma": [
+      "lemma": "αὐτός",
+      "morph": "robinson:P-GSM",
+      "strongs": [
         "G0846"
       ],
-      "morph": "robinson:P-GSM",
-      "strongs": "G0846",
       "translation": "at Him,",
-      "metadata": {},
-      "gematria": {
-        "standard": 1171,
-        "ordinal": 75,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0846",
+        "subMeaning": "of him",
+        "manuscriptType": "NKO",
+        "gloss": "he/she/it/self"
+      },
+      "source": {
+        "raw": "Luk.8.53#03=NKO\tαὐτοῦ, (autou)\tat Him,\tG0846=P-GSM\tαὐτός=he/she/it/self\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tde él\tof him\t#03«02:G2606\tG0846\tG3778\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "εἰδότες",
-      "lemma": [
+      "lemma": "εἴδω",
+      "morph": "robinson:V-RAP-NPM",
+      "strongs": [
         "G6063"
       ],
-      "morph": "robinson:V-RAP-NPM",
-      "strongs": "G6063",
       "translation": "knowing",
-      "metadata": {},
-      "gematria": {
-        "standard": 594,
-        "ordinal": 75,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G6063",
+        "subMeaning": ": know»to perceive|1_know/understand",
+        "manuscriptType": "NKO",
+        "gloss": "to perceive"
+      },
+      "source": {
+        "raw": "Luk.8.53#04=NKO\tεἰδότες (eidotes)\tknowing\tG6063=V-RAP-NPM\tεἴδω=to perceive\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\than sabido\t: know»to perceive|1_know/understand\t#04\tG6063\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "ὅτι",
-      "lemma": [
+      "lemma": "ὅτι",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G3754G"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G3754G",
       "translation": "that",
-      "metadata": {},
-      "gematria": {
-        "standard": 380,
-        "ordinal": 43,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3754",
+        "subMeaning": ": that»that/since|1_that",
+        "manuscriptType": "NKO",
+        "gloss": "that/since"
+      },
+      "source": {
+        "raw": "Luk.8.53#05=NKO\tὅτι (hoti)\tthat\tG3754G=CONJ\tὅτι=that/since\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tque\t: that»that/since|1_that\t#05«04:G6063\tG3754\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "ἀπέθανεν.",
-      "lemma": [
+      "lemma": "ἀποθνήσκω",
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": [
         "G0599"
       ],
-      "morph": "robinson:V-2AAI-3S",
-      "strongs": "G0599",
       "translation": "she was dead.",
-      "metadata": {},
-      "gematria": {
-        "standard": 201,
-        "ordinal": 62,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0599",
+        "subMeaning": "to die",
+        "manuscriptType": "NKO",
+        "gloss": "to die"
+      },
+      "source": {
+        "raw": "Luk.8.53#06=NKO\tἀπέθανεν. (apethanen)\tshe was dead.\tG0599=V-2AAI-3S\tἀποθνήσκω=to die\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tmurió\tto die\t#06\tG0599\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 3591,
-    "ordinal": 366,
-    "reduced": 27
-  }
+  ]
 }

@@ -4,119 +4,143 @@
     {
       "position": 1,
       "text": "[[Καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "{8.1} And",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+WH+TR+Byz",
+        "extendedStrongs": "G2532",
+        "subMeaning": "and",
+        "manuscriptType": "KO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "Jhn.7.53{8.1}#01=KO\t[[Καὶ (Kai)\t{8.1} And\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+WH+TR+Byz\t\t\t[[Y\tand\t#01\tG2532\t\t^ \t\t\t"
       }
     },
     {
       "position": 2,
       "text": "ἐπορεύθη",
-      "lemma": [
+      "lemma": "πορεύω",
+      "morph": "robinson:V-AOI-3S",
+      "strongs": [
         "G4198"
       ],
-      "morph": "robinson:V-AOI-3S",
-      "strongs": "G4198",
       "translation": "he went",
-      "metadata": {},
-      "gematria": {
-        "standard": 677,
-        "ordinal": 93,
-        "reduced": 2
+      "metadata": {
+        "editions": "Tyn+TR+Byz",
+        "extendedStrongs": "G4198",
+        "subMeaning": "to go",
+        "variants": "ἐπορεύθησαν (o=eporeuthēsan) they went - G4198=V-AOI-3P in: NA28+NA27+WH",
+        "manuscriptType": "K(o)",
+        "gloss": "to travel"
+      },
+      "source": {
+        "raw": "Jhn.7.53{8.1}#02=K(o)\tἐπορεύθη (eporeuthē)\the went\tG4198=V-AOI-3S\tπορεύω=to travel\tTyn+TR+Byz\tἐπορεύθησαν (o=eporeuthēsan) they went - G4198=V-AOI-3P in: NA28+NA27+WH\t\tvino en camino\tto go\t#02\tG4198\t\t^ \t\t\t"
       }
     },
     {
       "position": 3,
       "text": "ἕκαστος",
-      "lemma": [
+      "lemma": "ἕκαστος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
         "G1538"
       ],
-      "morph": "robinson:A-NSM",
-      "strongs": "G1538",
       "translation": "each",
-      "metadata": {},
-      "gematria": {
-        "standard": 796,
-        "ordinal": 86,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+WH+TR+Byz",
+        "extendedStrongs": "G1538",
+        "subMeaning": "each",
+        "manuscriptType": "KO",
+        "gloss": "each"
+      },
+      "source": {
+        "raw": "Jhn.7.53{8.1}#03=KO\tἕκαστος (hekastos)\teach\tG1538=A-NSM\tἕκαστος=each\tNA28+NA27+Tyn+WH+TR+Byz\t\t\tcada uno\teach\t#03\tG1538\t\t^ \t\t\t"
       }
     },
     {
       "position": 4,
       "text": "εἰς",
-      "lemma": [
+      "lemma": "εἰς",
+      "morph": "robinson:PREP",
+      "strongs": [
         "G1519"
       ],
-      "morph": "robinson:PREP",
-      "strongs": "G1519",
       "translation": "to",
-      "metadata": {},
-      "gematria": {
-        "standard": 215,
-        "ordinal": 32,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+WH+TR+Byz",
+        "extendedStrongs": "G1519",
+        "subMeaning": "to",
+        "manuscriptType": "KO",
+        "gloss": "toward"
+      },
+      "source": {
+        "raw": "Jhn.7.53{8.1}#04=KO\tεἰς (eis)\tto\tG1519=PREP\tεἰς=toward\tNA28+NA27+Tyn+WH+TR+Byz\t\t\thacia dentro\tto\t#04\tG1519\t\t^ \t\t\t"
       }
     },
     {
       "position": 5,
       "text": "τὸν",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-ASM",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-ASM",
-      "strongs": "G3588",
       "translation": "the",
-      "metadata": {},
-      "gematria": {
-        "standard": 420,
-        "ordinal": 47,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+WH+TR+Byz",
+        "extendedStrongs": "G3588",
+        "subMeaning": "the",
+        "manuscriptType": "KO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Jhn.7.53{8.1}#05=KO\tτὸν (ton)\tthe\tG3588=T-ASM\tὁ=the/this/who\tNA28+NA27+Tyn+WH+TR+Byz\t\t\ta la\tthe\t#05»06:G3624\tG3588\t\t^ \t\t\t"
       }
     },
     {
       "position": 6,
       "text": "οἶκον",
-      "lemma": [
+      "lemma": "οἶκος",
+      "morph": "robinson:N-ASM",
+      "strongs": [
         "G3624G"
       ],
-      "morph": "robinson:N-ASM",
-      "strongs": "G3624G",
       "translation": "home",
-      "metadata": {},
-      "gematria": {
-        "standard": 220,
-        "ordinal": 62,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+WH+TR+Byz",
+        "extendedStrongs": "G3624",
+        "subMeaning": ": home»home|1_home/temple/building",
+        "manuscriptType": "KO",
+        "gloss": "house"
+      },
+      "source": {
+        "raw": "Jhn.7.53{8.1}#06=KO\tοἶκον (oikon)\thome\tG3624G=N-ASM\tοἶκος=house\tNA28+NA27+Tyn+WH+TR+Byz\t\t\tcasa\t: home»home|1_home/temple/building\t#06\tG3624\t\t^ \t\t\t"
       }
     },
     {
       "position": 7,
       "text": "αὐτοῦ,",
-      "lemma": [
+      "lemma": "αὐτός",
+      "morph": "robinson:P-GSM",
+      "strongs": [
         "G0846"
       ],
-      "morph": "robinson:P-GSM",
-      "strongs": "G0846",
       "translation": "of him,",
-      "metadata": {},
-      "gematria": {
-        "standard": 1171,
-        "ordinal": 75,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+WH+TR+Byz",
+        "extendedStrongs": "G0846",
+        "subMeaning": "his",
+        "manuscriptType": "KO",
+        "gloss": "he/she/it/self"
+      },
+      "source": {
+        "raw": "Jhn.7.53{8.1}#07=KO\tαὐτοῦ, (autou)\tof him,\tG0846=P-GSM\tαὐτός=he/she/it/self\tNA28+NA27+Tyn+WH+TR+Byz\t\t\tde él]]\this\t#07«06:G3624\tG0846\tG3778\t^ [[Καὶ   ἐπορεύθη    ἕκαστος    εἰς    τὸν    οἶκον    αὐτοῦ,   (<i>Kai eporeuthē hekastos eis ton oikon autou</i>) '{8.1} And he went each to the home of him,' is only in traditional manuscripts \t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 3530,
-    "ordinal": 415,
-    "reduced": 29
-  }
+  ]
 }

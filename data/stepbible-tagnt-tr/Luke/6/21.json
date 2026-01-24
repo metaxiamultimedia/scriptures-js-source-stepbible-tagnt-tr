@@ -4,199 +4,242 @@
     {
       "position": 1,
       "text": "Μακάριοι",
-      "lemma": [
+      "lemma": "μακάριος",
+      "morph": "robinson:A-NPM",
+      "strongs": [
         "G3107"
       ],
-      "morph": "robinson:A-NPM",
-      "strongs": "G3107",
       "translation": "Blessed [are]",
-      "metadata": {},
-      "gematria": {
-        "standard": 252,
-        "ordinal": 74,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3107_A",
+        "subMeaning": "blessed",
+        "manuscriptType": "NKO",
+        "gloss": "blessed"
+      },
+      "source": {
+        "raw": "Luk.6.21#01=NKO\tΜακάριοι (Makarioi)\tBlessed [are]\tG3107=A-NPM\tμακάριος=blessed \tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tDichosos\tblessed\t#01\tG3107_A\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "οἱ",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-NPM",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-NPM",
-      "strongs": "G3588",
       "translation": "those",
-      "metadata": {},
-      "gematria": {
-        "standard": 80,
-        "ordinal": 24,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588_A",
+        "subMeaning": "[those] which",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Luk.6.21#02=NKO\tοἱ (hoi)\tthose\tG3588=T-NPM\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tlos\t[those] which\t#02»03:G3983\tG3588_A\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "πεινῶντες",
-      "lemma": [
+      "lemma": "πεινάω",
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": [
         "G3983"
       ],
-      "morph": "robinson:V-PAP-NPM",
-      "strongs": "G3983",
       "translation": "hungering",
-      "metadata": {},
-      "gematria": {
-        "standard": 1500,
-        "ordinal": 122,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3983",
+        "subMeaning": "to hunger",
+        "manuscriptType": "NKO",
+        "gloss": "to hunger"
+      },
+      "source": {
+        "raw": "Luk.6.21#03=NKO\tπεινῶντες (peinōntes)\thungering\tG3983=V-PAP-NPM\tπεινάω=to hunger\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testando teniendo hambre\tto hunger\t#03\tG3983\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "νῦν,",
-      "lemma": [
+      "lemma": "νῦν",
+      "morph": "robinson:ADV",
+      "strongs": [
         "G3568"
       ],
-      "morph": "robinson:ADV",
-      "strongs": "G3568",
       "translation": "now,",
-      "metadata": {},
-      "gematria": {
-        "standard": 500,
-        "ordinal": 46,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3568_A",
+        "subMeaning": "now",
+        "manuscriptType": "NKO",
+        "gloss": "now"
+      },
+      "source": {
+        "raw": "Luk.6.21#04=NKO\tνῦν, (nun)\tnow,\tG3568=ADV\tνῦν=now\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tahora\tnow\t#04\tG3568_A\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "ὅτι",
-      "lemma": [
+      "lemma": "ὅτι",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G3754H"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G3754H",
       "translation": "for",
-      "metadata": {},
-      "gematria": {
-        "standard": 380,
-        "ordinal": 43,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3754_A",
+        "subMeaning": ": since»that/since|2_since",
+        "manuscriptType": "NKO",
+        "gloss": "that/since"
+      },
+      "source": {
+        "raw": "Luk.6.21#05=NKO\tὅτι (hoti)\tfor\tG3754H=CONJ\tὅτι=that/since\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tporque\t: since»that/since|2_since\t#05\tG3754_A\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "χορτασθήσεσθε.",
-      "lemma": [
+      "lemma": "χορτάζω",
+      "morph": "robinson:V-FPI-2P",
+      "strongs": [
         "G5526"
       ],
-      "morph": "robinson:V-FPI-2P",
-      "strongs": "G5526",
       "translation": "you will be filled.",
-      "metadata": {},
-      "gematria": {
-        "standard": 1707,
-        "ordinal": 161,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5526",
+        "subMeaning": "to feed",
+        "manuscriptType": "NKO",
+        "gloss": "to feed"
+      },
+      "source": {
+        "raw": "Luk.6.21#06=NKO\tχορτασθήσεσθε.¶ (chortasthēsesthe)\tyou will be filled.\tG5526=V-FPI-2P\tχορτάζω=to feed\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tserán satisfechos\tto feed\t#06\tG5526\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "Μακάριοι",
-      "lemma": [
+      "lemma": "μακάριος",
+      "morph": "robinson:A-NPM",
+      "strongs": [
         "G3107"
       ],
-      "morph": "robinson:A-NPM",
-      "strongs": "G3107",
       "translation": "Blessed [are]",
-      "metadata": {},
-      "gematria": {
-        "standard": 252,
-        "ordinal": 74,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3107_B",
+        "subMeaning": "blessed",
+        "manuscriptType": "NKO",
+        "gloss": "blessed"
+      },
+      "source": {
+        "raw": "Luk.6.21#07=NKO\tΜακάριοι (Makarioi)\tBlessed [are]\tG3107=A-NPM\tμακάριος=blessed \tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tDichosos\tblessed\t#07\tG3107_B\t\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "οἱ",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-NPM",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-NPM",
-      "strongs": "G3588",
       "translation": "those",
-      "metadata": {},
-      "gematria": {
-        "standard": 80,
-        "ordinal": 24,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588_B",
+        "subMeaning": "[those] which",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Luk.6.21#08=NKO\tοἱ (hoi)\tthose\tG3588=T-NPM\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tlos\t[those] which\t#08»09:G2799\tG3588_B\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "κλαίοντες",
-      "lemma": [
+      "lemma": "κλαίω",
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": [
         "G2799"
       ],
-      "morph": "robinson:V-PAP-NPM",
-      "strongs": "G2799",
       "translation": "weeping",
-      "metadata": {},
-      "gematria": {
-        "standard": 686,
-        "ordinal": 101,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2799",
+        "subMeaning": "to weep",
+        "manuscriptType": "NKO",
+        "gloss": "to weep"
+      },
+      "source": {
+        "raw": "Luk.6.21#09=NKO\tκλαίοντες (klaiontes)\tweeping\tG2799=V-PAP-NPM\tκλαίω=to weep\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testando llorando\tto weep\t#09\tG2799\t\t\t\t\t"
       }
     },
     {
       "position": 10,
       "text": "νῦν,",
-      "lemma": [
+      "lemma": "νῦν",
+      "morph": "robinson:ADV",
+      "strongs": [
         "G3568"
       ],
-      "morph": "robinson:ADV",
-      "strongs": "G3568",
       "translation": "now,",
-      "metadata": {},
-      "gematria": {
-        "standard": 500,
-        "ordinal": 46,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3568_B",
+        "subMeaning": "now",
+        "manuscriptType": "NKO",
+        "gloss": "now"
+      },
+      "source": {
+        "raw": "Luk.6.21#10=NKO\tνῦν, (nun)\tnow,\tG3568=ADV\tνῦν=now\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tahora\tnow\t#10\tG3568_B\t\t\t\t\t"
       }
     },
     {
       "position": 11,
       "text": "ὅτι",
-      "lemma": [
+      "lemma": "ὅτι",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G3754H"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G3754H",
       "translation": "for",
-      "metadata": {},
-      "gematria": {
-        "standard": 380,
-        "ordinal": 43,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3754_B",
+        "subMeaning": ": since»that/since|2_since",
+        "manuscriptType": "NKO",
+        "gloss": "that/since"
+      },
+      "source": {
+        "raw": "Luk.6.21#11=NKO\tὅτι (hoti)\tfor\tG3754H=CONJ\tὅτι=that/since\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tporque\t: since»that/since|2_since\t#11\tG3754_B\t\t\t\t\t"
       }
     },
     {
       "position": 12,
       "text": "γελάσετε.",
-      "lemma": [
+      "lemma": "γελάω",
+      "morph": "robinson:V-FAI-2P",
+      "strongs": [
         "G1070"
       ],
-      "morph": "robinson:V-FAI-2P",
-      "strongs": "G1070",
       "translation": "you will laugh.",
-      "metadata": {},
-      "gematria": {
-        "standard": 549,
-        "ordinal": 67,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1070",
+        "subMeaning": "to laugh",
+        "manuscriptType": "NKO",
+        "gloss": "to laugh"
+      },
+      "source": {
+        "raw": "Luk.6.21#12=NKO\tγελάσετε.¶ (gelasete)\tyou will laugh.\tG1070=V-FAI-2P\tγελάω=to laugh\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\treirán\tto laugh\t#12\tG1070\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 6866,
-    "ordinal": 825,
-    "reduced": 71
-  }
+  ]
 }

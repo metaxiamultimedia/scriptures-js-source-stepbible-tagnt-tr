@@ -58,18 +58,11 @@ describe.skipIf(!dataExists)('loadVerse', () => {
     expect(verse.text.normalize('NFD')).toContain('λόγος'.normalize('NFD'));
   });
 
-  it('should have gematria values', async () => {
-    const verse = await loadVerse('John', 1, 1);
-    expect(verse.gematria).toBeDefined();
-    expect(verse.gematria.standard).toBeGreaterThan(0);
-  });
-
   it('should have word-level data', async () => {
     const verse = await loadVerse('Matthew', 1, 1);
     const firstWord = verse.words[0];
     expect(firstWord.text).toBeDefined();
     expect(firstWord.position).toBe(1);
-    expect(firstWord.gematria).toBeDefined();
   });
 
   it('should throw for non-existent verse', async () => {
@@ -93,34 +86,6 @@ describe.skipIf(!dataExists)('loadChapter', () => {
 
   it('should throw for non-existent chapter', async () => {
     await expect(loadChapter('Matthew', 999)).rejects.toThrow();
-  });
-});
-
-describe.skipIf(!dataExists)('gematria integrity', () => {
-  it('John 1:1 verse total should equal 3627', async () => {
-    const verse = await loadVerse('John', 1, 1);
-    expect(verse.gematria.standard).toBe(3627);
-  });
-
-  it('verse gematria should equal sum of word gematria', async () => {
-    const testCases = [
-      { book: 'John', chapter: 1, verse: 1 },
-      { book: 'Matthew', chapter: 1, verse: 1 },
-      { book: 'Revelation', chapter: 13, verse: 18 },
-      { book: 'Romans', chapter: 8, verse: 28 },
-    ];
-
-    for (const { book, chapter, verse: verseNum } of testCases) {
-      const verse = await loadVerse(book, chapter, verseNum);
-
-      const wordSumStandard = verse.words.reduce((sum, w) => sum + (w.gematria?.standard || 0), 0);
-      const wordSumOrdinal = verse.words.reduce((sum, w) => sum + (w.gematria?.ordinal || 0), 0);
-      const wordSumReduced = verse.words.reduce((sum, w) => sum + (w.gematria?.reduced || 0), 0);
-
-      expect(verse.gematria.standard).toBe(wordSumStandard);
-      expect(verse.gematria.ordinal).toBe(wordSumOrdinal);
-      expect(verse.gematria.reduced).toBe(wordSumReduced);
-    }
   });
 });
 

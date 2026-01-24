@@ -4,231 +4,284 @@
     {
       "position": 1,
       "text": "δεῖ",
-      "lemma": [
+      "lemma": "δεῖ",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
         "G1163"
       ],
-      "morph": "robinson:V-PAI-3S",
-      "strongs": "G1163",
       "translation": "It behooves",
-      "metadata": {},
-      "gematria": {
-        "standard": 19,
-        "ordinal": 18,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1163",
+        "subMeaning": "be necessary",
+        "manuscriptType": "NKO",
+        "gloss": "be necessary"
+      },
+      "source": {
+        "raw": "1Ti.3.2#01=NKO\tδεῖ (dei)\tIt behooves\tG1163=V-PAI-3S\tδεῖ=be necessary\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testá siendo necesario\tbe necessary\t#01\tG1163\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "οὖν",
-      "lemma": [
+      "lemma": "οὖν",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G3767"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G3767",
       "translation": "therefore",
-      "metadata": {},
-      "gematria": {
-        "standard": 520,
-        "ordinal": 48,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3767",
+        "subMeaning": "then",
+        "manuscriptType": "NKO",
+        "gloss": "therefore/then"
+      },
+      "source": {
+        "raw": "1Ti.3.2#02=NKO\tοὖν (oun)\ttherefore\tG3767=CONJ\tοὖν=therefore/then\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tpor lo tanto\tthen\t#02\tG3767\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "τὸν",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-ASM",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-ASM",
-      "strongs": "G3588",
       "translation": "the",
-      "metadata": {},
-      "gematria": {
-        "standard": 420,
-        "ordinal": 47,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "1Ti.3.2#03=NKO\tτὸν (ton)\tthe\tG3588=T-ASM\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta el\tthe\t#03»04:G1985\tG3588\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "ἐπίσκοπον",
-      "lemma": [
+      "lemma": "ἐπίσκοπος",
+      "morph": "robinson:N-ASM",
+      "strongs": [
         "G1985"
       ],
-      "morph": "robinson:N-ASM",
-      "strongs": "G1985",
       "translation": "overseer",
-      "metadata": {},
-      "gematria": {
-        "standard": 585,
-        "ordinal": 117,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1985",
+        "subMeaning": "overseer",
+        "manuscriptType": "NKO",
+        "gloss": "overseer"
+      },
+      "source": {
+        "raw": "1Ti.3.2#04=NKO\tἐπίσκοπον (episkopon)\toverseer\tG1985=N-ASM\tἐπίσκοπος=overseer\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tsupervisor\toverseer\t#04\tG1985\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "ἀνεπίλημπτον",
-      "lemma": [
+      "lemma": "ἀνεπίληπτος",
+      "morph": "robinson:A-ASM",
+      "strongs": [
         "G0423"
       ],
-      "morph": "robinson:A-ASM",
-      "strongs": "G0423",
       "translation": "above reproach",
-      "metadata": {},
-      "gematria": {
-        "standard": 724,
-        "ordinal": 137,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0423",
+        "subMeaning": "irreproachable",
+        "variants": "TR: ἀνεπίληπτον ;",
+        "manuscriptType": "NKO",
+        "gloss": "irreproachable"
+      },
+      "source": {
+        "raw": "1Ti.3.2#05=NKO\tἀνεπίλημπτον (anepilēmpton)\tabove reproach\tG0423=A-ASM\tἀνεπίληπτος=irreproachable\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\tTR: ἀνεπίληπτον ; \tirreprensible\tirreproachable\t#05\tG0423\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "εἶναι,",
-      "lemma": [
+      "lemma": "εἰμί",
+      "morph": "robinson:V-PAN",
+      "strongs": [
         "G1511"
       ],
-      "morph": "robinson:V-PAN",
-      "strongs": "G1511",
       "translation": "to be,",
-      "metadata": {},
-      "gematria": {
-        "standard": 76,
-        "ordinal": 37,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1511",
+        "subMeaning": "to be",
+        "manuscriptType": "NKO",
+        "gloss": "to be"
+      },
+      "source": {
+        "raw": "1Ti.3.2#06=NKO\tεἶναι, (einai)\tto be,\tG1511=V-PAN\tεἰμί=to be\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testar siendo\tto be\t#06\tG1511\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "μιᾶς",
-      "lemma": [
+      "lemma": "εἷς",
+      "morph": "robinson:A-GSF",
+      "strongs": [
         "G1520"
       ],
-      "morph": "robinson:A-GSF",
-      "strongs": "G1520",
       "translation": "of one",
-      "metadata": {},
-      "gematria": {
-        "standard": 251,
-        "ordinal": 40,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1520",
+        "subMeaning": "one",
+        "manuscriptType": "NKO",
+        "gloss": "one"
+      },
+      "source": {
+        "raw": "1Ti.3.2#07=NKO\tμιᾶς (mias)\tof one\tG1520=A-GSF\tεἷς=one\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tde uno\tone\t#07\tG1520\tG3391\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "γυναικὸς",
-      "lemma": [
+      "lemma": "γυνή",
+      "morph": "robinson:N-GSF",
+      "strongs": [
         "G1135H"
       ],
-      "morph": "robinson:N-GSF",
-      "strongs": "G1135H",
       "translation": "wife",
-      "metadata": {},
-      "gematria": {
-        "standard": 754,
-        "ordinal": 89,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1135",
+        "subMeaning": ": wife»woman|2_wife",
+        "manuscriptType": "NKO",
+        "gloss": "woman"
+      },
+      "source": {
+        "raw": "1Ti.3.2#08=NKO\tγυναικὸς (gunaikos)\twife\tG1135H=N-GSF\tγυνή=woman\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tmujer\t: wife»woman|2_wife\t#08\tG1135\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "ἄνδρα,",
-      "lemma": [
+      "lemma": "ἀνήρ",
+      "morph": "robinson:N-ASM",
+      "strongs": [
         "G0435H"
       ],
-      "morph": "robinson:N-ASM",
-      "strongs": "G0435H",
       "translation": "[the] husband,",
-      "metadata": {},
-      "gematria": {
-        "standard": 156,
-        "ordinal": 36,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0435",
+        "subMeaning": ": husband»man|2_husband",
+        "manuscriptType": "NKO",
+        "gloss": "man"
+      },
+      "source": {
+        "raw": "1Ti.3.2#09=NKO\tἄνδρα, (andra)\t[the] husband,\tG0435H=N-ASM\tἀνήρ=man\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tesposo\t: husband»man|2_husband\t#09\tG0435\t\t\t\t\t"
       }
     },
     {
       "position": 10,
       "text": "νηφάλιον,",
-      "lemma": [
+      "lemma": "νηφαλέος",
+      "morph": "robinson:A-ASM",
+      "strongs": [
         "G3524"
       ],
-      "morph": "robinson:A-ASM",
-      "strongs": "G3524",
       "translation": "sober,",
-      "metadata": {},
-      "gematria": {
-        "standard": 719,
-        "ordinal": 90,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3524",
+        "subMeaning": "sober",
+        "variants": "TR: νηφάλεον ;",
+        "manuscriptType": "NKO",
+        "gloss": "sober"
+      },
+      "source": {
+        "raw": "1Ti.3.2#10=NKO\tνηφάλιον, (nēphalion)\tsober,\tG3524=A-ASM\tνηφαλέος=sober\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\tTR: νηφάλεον ; \tsobrio\tsober\t#10\tG3524\t\t\t\t\t"
       }
     },
     {
       "position": 11,
       "text": "σώφρονα,",
-      "lemma": [
+      "lemma": "σώφρων",
+      "morph": "robinson:A-ASM",
+      "strongs": [
         "G4998"
       ],
-      "morph": "robinson:A-ASM",
-      "strongs": "G4998",
       "translation": "self-controlled,",
-      "metadata": {},
-      "gematria": {
-        "standard": 1721,
-        "ordinal": 109,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4998",
+        "subMeaning": "self-controlled",
+        "manuscriptType": "NKO",
+        "gloss": "self-controlled"
+      },
+      "source": {
+        "raw": "1Ti.3.2#11=NKO\tσώφρονα, (sōphrona)\tself-controlled,\tG4998=A-ASM\tσώφρων=self-controlled\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\trecto juicio de mente\tself-controlled\t#11\tG4998\t\t\t\t\t"
       }
     },
     {
       "position": 12,
       "text": "κόσμιον,",
-      "lemma": [
+      "lemma": "κόσμιος",
+      "morph": "robinson:A-ASM",
+      "strongs": [
         "G2887"
       ],
-      "morph": "robinson:A-ASM",
-      "strongs": "G2887",
       "translation": "respectable,",
-      "metadata": {},
-      "gematria": {
-        "standard": 460,
-        "ordinal": 92,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2887",
+        "subMeaning": "respectable",
+        "manuscriptType": "NKO",
+        "gloss": "respectable"
+      },
+      "source": {
+        "raw": "1Ti.3.2#12=NKO\tκόσμιον, (kosmion)\trespectable,\tG2887=A-ASM\tκόσμιος=respectable\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tordenado\trespectable\t#12\tG2887\t\t\t\t\t"
       }
     },
     {
       "position": 13,
       "text": "φιλόξενον,",
-      "lemma": [
+      "lemma": "φιλόξενος",
+      "morph": "robinson:A-ASM",
+      "strongs": [
         "G5382"
       ],
-      "morph": "robinson:A-ASM",
-      "strongs": "G5382",
       "translation": "hospitable,",
-      "metadata": {},
-      "gematria": {
-        "standard": 845,
-        "ordinal": 116,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5382",
+        "subMeaning": "hospitable",
+        "manuscriptType": "NKO",
+        "gloss": "hospitable"
+      },
+      "source": {
+        "raw": "1Ti.3.2#13=NKO\tφιλόξενον, (philoxenon)\thospitable,\tG5382=A-ASM\tφιλόξενος=hospitable\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tencariñado de extraños\thospitable\t#13\tG5382\t\t\t\t\t"
       }
     },
     {
       "position": 14,
       "text": "διδακτικόν,",
-      "lemma": [
+      "lemma": "διδακτικός",
+      "morph": "robinson:A-ASM",
+      "strongs": [
         "G1317"
       ],
-      "morph": "robinson:A-ASM",
-      "strongs": "G1317",
       "translation": "able to teach,",
-      "metadata": {},
-      "gematria": {
-        "standard": 489,
-        "ordinal": 94,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1317",
+        "subMeaning": "able to teach",
+        "manuscriptType": "NKO",
+        "gloss": "able to teach"
+      },
+      "source": {
+        "raw": "1Ti.3.2#14=NKO\tδιδακτικόν, (didaktikon)\table to teach,\tG1317=A-ASM\tδιδακτικός=able to teach\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tcualificado para enseñar\table to teach\t#14\tG1317\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 7739,
-    "ordinal": 1070,
-    "reduced": 71
-  }
+  ]
 }

@@ -4,343 +4,423 @@
     {
       "position": 1,
       "text": "ὁ",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-NSM",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-NSM",
-      "strongs": "G3588",
       "translation": "<the>",
-      "metadata": {},
-      "gematria": {
-        "standard": 70,
-        "ordinal": 15,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588",
+        "subMeaning": "[that] which",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Mrk.6.37#01=NKO\tὁ (ho)\t<the>\tG3588=T-NSM\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tEl\t[that] which\t#01»03:G0611\tG3588\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "δὲ",
-      "lemma": [
+      "lemma": "δέ",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G1161"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G1161",
       "translation": "But",
-      "metadata": {},
-      "gematria": {
-        "standard": 9,
-        "ordinal": 9,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1161",
+        "subMeaning": "but",
+        "manuscriptType": "NKO",
+        "gloss": "but/and"
+      },
+      "source": {
+        "raw": "Mrk.6.37#02=NKO\tδὲ (de)\tBut\tG1161=CONJ\tδέ=but/and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tpero\tbut\t#02\tG1161\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "ἀποκριθεὶς",
-      "lemma": [
+      "lemma": "ἀποκρίνω",
+      "morph": "robinson:V-AOP-NSM",
+      "strongs": [
         "G0611"
       ],
-      "morph": "robinson:V-AOP-NSM",
-      "strongs": "G0611",
       "translation": "answering",
-      "metadata": {},
-      "gematria": {
-        "standard": 505,
-        "ordinal": 108,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0611",
+        "subMeaning": "to answer",
+        "manuscriptType": "NKO",
+        "gloss": "to answer"
+      },
+      "source": {
+        "raw": "Mrk.6.37#03=NKO\tἀποκριθεὶς (apokritheis)\tanswering\tG0611=V-AOP-NSM\tἀποκρίνω=to answer\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\thabiendo respondido\tto answer\t#03\tG0611\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "εἶπεν",
-      "lemma": [
+      "lemma": "ἔπω, ἐρῶ, εἶπον",
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": [
         "G2036"
       ],
-      "morph": "robinson:V-2AAI-3S",
-      "strongs": "G2036",
       "translation": "He said",
-      "metadata": {},
-      "gematria": {
-        "standard": 150,
-        "ordinal": 48,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2036",
+        "subMeaning": "to say",
+        "manuscriptType": "NKO",
+        "gloss": "to say"
+      },
+      "source": {
+        "raw": "Mrk.6.37#04=NKO\tεἶπεν (eipen)\tHe said\tG2036=V-2AAI-3S\tἔπω, ἐρῶ, εἶπον=to say\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tdijo\tto say\t#04\tG2036\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "αὐτοῖς·",
-      "lemma": [
+      "lemma": "αὐτός",
+      "morph": "robinson:P-DPM",
+      "strongs": [
         "G0846"
       ],
-      "morph": "robinson:P-DPM",
-      "strongs": "G0846",
       "translation": "to them;",
-      "metadata": {},
-      "gematria": {
-        "standard": 981,
-        "ordinal": 82,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0846_A",
+        "subMeaning": "to them",
+        "manuscriptType": "NKO",
+        "gloss": "he/she/it/self"
+      },
+      "source": {
+        "raw": "Mrk.6.37#05=NKO\tαὐτοῖς· (autois)\tto them;\tG0846=P-DPM\tαὐτός=he/she/it/self\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta ellos\tto them\t#05«04:G2036\tG0846_A\tG3778\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "δότε",
-      "lemma": [
+      "lemma": "δίδωμι",
+      "morph": "robinson:V-2AAM-2P",
+      "strongs": [
         "G1325"
       ],
-      "morph": "robinson:V-2AAM-2P",
-      "strongs": "G1325",
       "translation": "do give",
-      "metadata": {},
-      "gematria": {
-        "standard": 379,
-        "ordinal": 43,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1325_A",
+        "subMeaning": "to give",
+        "manuscriptType": "NKO",
+        "gloss": "to give"
+      },
+      "source": {
+        "raw": "Mrk.6.37#06=NKO\tδότε (dote)\tdo give\tG1325=V-2AAM-2P\tδίδωμι=to give\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tDen\tto give\t#06\tG1325_A\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "αὐτοῖς",
-      "lemma": [
+      "lemma": "αὐτός",
+      "morph": "robinson:P-DPM",
+      "strongs": [
         "G0846"
       ],
-      "morph": "robinson:P-DPM",
-      "strongs": "G0846",
       "translation": "to them",
-      "metadata": {},
-      "gematria": {
-        "standard": 981,
-        "ordinal": 82,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0846_B",
+        "subMeaning": "to them",
+        "manuscriptType": "NKO",
+        "gloss": "he/she/it/self"
+      },
+      "source": {
+        "raw": "Mrk.6.37#07=NKO\tαὐτοῖς (autois)\tto them\tG0846=P-DPM\tαὐτός=he/she/it/self\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta ellos\tto them\t#07«06:G1325\tG0846_B\tG3778\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "ὑμεῖς",
-      "lemma": [
+      "lemma": "σύ",
+      "morph": "robinson:P-2NP",
+      "strongs": [
         "G4771"
       ],
-      "morph": "robinson:P-2NP",
-      "strongs": "G4771",
       "translation": "you yourselves",
-      "metadata": {},
-      "gematria": {
-        "standard": 655,
-        "ordinal": 64,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4771",
+        "subMeaning": "you",
+        "manuscriptType": "NKO",
+        "gloss": "you"
+      },
+      "source": {
+        "raw": "Mrk.6.37#08=NKO\tὑμεῖς (humeis)\tyou yourselves\tG4771=P-2NP\tσύ=you\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tustedes\tyou\t#08«06:G1325\tG4771\tG5210\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "φαγεῖν.",
-      "lemma": [
+      "lemma": "φαγεῖν",
+      "morph": "robinson:V-AAN",
+      "strongs": [
         "G5315"
       ],
-      "morph": "robinson:V-AAN",
-      "strongs": "G5315",
       "translation": "[something] to eat.",
-      "metadata": {},
-      "gematria": {
-        "standard": 569,
-        "ordinal": 52,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5315_A",
+        "subMeaning": "to eat",
+        "manuscriptType": "NKO",
+        "gloss": "to eat"
+      },
+      "source": {
+        "raw": "Mrk.6.37#09=NKO\tφαγεῖν. (phagein)\t[something] to eat.\tG5315=V-AAN\tφαγεῖν=to eat\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\t(de) comer\tto eat\t#09\tG5315_A\t\t\t\t\t"
       }
     },
     {
       "position": 10,
       "text": "καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "And",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532_A",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "Mrk.6.37#10=NKO\tκαὶ (kai)\tAnd\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tY\tand\t#10\tG2532_A\t\t\t\t\t"
       }
     },
     {
       "position": 11,
       "text": "λέγουσιν",
-      "lemma": [
+      "lemma": "λέγω",
+      "morph": "robinson:V-PAI-3P",
+      "strongs": [
         "G3004G"
       ],
-      "morph": "robinson:V-PAI-3P",
-      "strongs": "G3004G",
       "translation": "they say",
-      "metadata": {},
-      "gematria": {
-        "standard": 768,
-        "ordinal": 94,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3004",
+        "subMeaning": ": speak»to speak|1_speak/ask",
+        "manuscriptType": "NKO",
+        "gloss": "to speak"
+      },
+      "source": {
+        "raw": "Mrk.6.37#11=NKO\tλέγουσιν (legousin)\tthey say\tG3004G=V-PAI-3P\tλέγω=to speak\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testán diciendo\t: speak»to speak|1_speak/ask\t#11\tG3004\t\t\t\t\t"
       }
     },
     {
       "position": 12,
       "text": "αὐτῷ·",
-      "lemma": [
+      "lemma": "αὐτός",
+      "morph": "robinson:P-DSM",
+      "strongs": [
         "G0846"
       ],
-      "morph": "robinson:P-DSM",
-      "strongs": "G0846",
       "translation": "to Him;",
-      "metadata": {},
-      "gematria": {
-        "standard": 1511,
-        "ordinal": 73,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0846_C",
+        "subMeaning": "to him",
+        "manuscriptType": "NKO",
+        "gloss": "he/she/it/self"
+      },
+      "source": {
+        "raw": "Mrk.6.37#12=NKO\tαὐτῷ· (autō)\tto Him;\tG0846=P-DSM\tαὐτός=he/she/it/self\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta él\tto him\t#12«11:G3004\tG0846_C\tG3778\t\t\t\t"
       }
     },
     {
       "position": 13,
       "text": "ἀπελθόντες",
-      "lemma": [
+      "lemma": "ἀπέρχομαι",
+      "morph": "robinson:V-2AAP-NPM",
+      "strongs": [
         "G0565"
       ],
-      "morph": "robinson:V-2AAP-NPM",
-      "strongs": "G0565",
       "translation": "Having gone",
-      "metadata": {},
-      "gematria": {
-        "standard": 750,
-        "ordinal": 111,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0565",
+        "subMeaning": "to go away",
+        "manuscriptType": "NKO",
+        "gloss": "to go away"
+      },
+      "source": {
+        "raw": "Mrk.6.37#13=NKO\tἀπελθόντες (apelthontes)\tHaving gone\tG0565=V-2AAP-NPM\tἀπέρχομαι=to go away\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\t¿Habiendo venido desde\tto go away\t#13\tG0565\t\t\t\t\t"
       }
     },
     {
       "position": 14,
       "text": "ἀγοράσωμεν",
-      "lemma": [
+      "lemma": "ἀγοράζω",
+      "morph": "robinson:V-AAS-1P",
+      "strongs": [
         "G0059"
       ],
-      "morph": "robinson:V-AAS-1P",
-      "strongs": "G0059",
       "translation": "shall we buy",
-      "metadata": {},
-      "gematria": {
-        "standard": 1270,
-        "ordinal": 109,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0059",
+        "subMeaning": "to buy",
+        "manuscriptType": "NKO",
+        "gloss": "to buy"
+      },
+      "source": {
+        "raw": "Mrk.6.37#14=NKO\tἀγοράσωμεν (agorasōmen)\tshall we buy\tG0059=V-AAS-1P\tἀγοράζω=to buy\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tcompremos\tto buy\t#14\tG0059\t\t\t\t\t"
       }
     },
     {
       "position": 15,
       "text": "δηναρίων",
-      "lemma": [
+      "lemma": "δηνάριον",
+      "morph": "robinson:N-GPN",
+      "strongs": [
         "G1220"
       ],
-      "morph": "robinson:N-GPN",
-      "strongs": "G1220",
       "translation": "denarii",
-      "metadata": {},
-      "gematria": {
-        "standard": 1023,
-        "ordinal": 88,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1220",
+        "subMeaning": "denarius",
+        "manuscriptType": "NKO",
+        "gloss": "denarius"
+      },
+      "source": {
+        "raw": "Mrk.6.37#15=NKO\tδηναρίων (dēnariōn)\tdenarii\tG1220=N-GPN\tδηνάριον=denarius\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tde denarios\tdenarius\t#15\tG1220\t\t\t\t\t"
       }
     },
     {
       "position": 16,
       "text": "διακοσίων",
-      "lemma": [
+      "lemma": "διακόσιοι",
+      "morph": "robinson:A-GPN",
+      "strongs": [
         "G1250"
       ],
-      "morph": "robinson:A-GPN",
-      "strongs": "G1250",
       "translation": "two hundred",
-      "metadata": {},
-      "gematria": {
-        "standard": 1165,
-        "ordinal": 103,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1250",
+        "subMeaning": "two hundred",
+        "manuscriptType": "NKO",
+        "gloss": "two hundred"
+      },
+      "source": {
+        "raw": "Mrk.6.37#16=NKO\tδιακοσίων (diakosiōn)\ttwo hundred\tG1250=A-GPN\tδιακόσιοι=two hundred\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tdoscientos\ttwo hundred\t#16\tG1250\t\t\t\t\t"
       }
     },
     {
       "position": 17,
       "text": "ἄρτους",
-      "lemma": [
+      "lemma": "ἄρτος",
+      "morph": "robinson:N-APM",
+      "strongs": [
         "G0740"
       ],
-      "morph": "robinson:N-APM",
-      "strongs": "G0740",
       "translation": "of bread",
-      "metadata": {},
-      "gematria": {
-        "standard": 1071,
-        "ordinal": 90,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0740",
+        "subMeaning": "bread",
+        "manuscriptType": "NKO",
+        "gloss": "bread"
+      },
+      "source": {
+        "raw": "Mrk.6.37#17=NKO\tἄρτους (artous)\tof bread\tG0740=N-APM\tἄρτος=bread\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tpanes\tbread\t#17\tG0740\t\t\t\t\t"
       }
     },
     {
       "position": 18,
       "text": "καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "and [then]",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532_B",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "Mrk.6.37#18=NKO\tκαὶ (kai)\tand [then]\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ty\tand\t#18\tG2532_B\t\t\t\t\t"
       }
     },
     {
       "position": 19,
       "text": "δώσομεν",
-      "lemma": [
+      "lemma": "δίδωμι",
+      "morph": "robinson:V-FAI-1P",
+      "strongs": [
         "G1325"
       ],
-      "morph": "robinson:V-FAI-1P",
-      "strongs": "G1325",
       "translation": "we will give",
-      "metadata": {},
-      "gematria": {
-        "standard": 1169,
-        "ordinal": 91,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg",
+        "extendedStrongs": "G1325_B",
+        "subMeaning": "to give",
+        "variants": "δῶμεν (t=dōmen) let us give - G1325=V-2AAS-1P in: TR+Byz",
+        "manuscriptType": "N(k)O",
+        "gloss": "to give"
+      },
+      "source": {
+        "raw": "Mrk.6.37#19=N(k)O\tδώσομεν (dōsomen)\twe will give\tG1325=V-FAI-1P\tδίδωμι=to give\tNA28+NA27+Tyn+SBL+WH+Treg\tδῶμεν (t=dōmen) let us give - G1325=V-2AAS-1P in: TR+Byz\t\tdaremos\tto give\t#19\tG1325_B\t\t\t\t\t"
       }
     },
     {
       "position": 20,
       "text": "αὐτοῖς",
-      "lemma": [
+      "lemma": "αὐτός",
+      "morph": "robinson:P-DPM",
+      "strongs": [
         "G0846"
       ],
-      "morph": "robinson:P-DPM",
-      "strongs": "G0846",
       "translation": "them [it]",
-      "metadata": {},
-      "gematria": {
-        "standard": 981,
-        "ordinal": 82,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0846_D",
+        "subMeaning": "to them",
+        "manuscriptType": "NKO",
+        "gloss": "he/she/it/self"
+      },
+      "source": {
+        "raw": "Mrk.6.37#20=NKO\tαὐτοῖς (autois)\tthem [it]\tG0846=P-DPM\tαὐτός=he/she/it/self\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta ellos\tto them\t#20«19:G1325\tG0846_D\tG3778\t\t\t\t"
       }
     },
     {
       "position": 21,
       "text": "φαγεῖν;",
-      "lemma": [
+      "lemma": "φαγεῖν",
+      "morph": "robinson:V-AAN",
+      "strongs": [
         "G5315"
       ],
-      "morph": "robinson:V-AAN",
-      "strongs": "G5315",
       "translation": "to eat?",
-      "metadata": {},
-      "gematria": {
-        "standard": 569,
-        "ordinal": 52,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5315_B",
+        "subMeaning": "to eat",
+        "manuscriptType": "NKO",
+        "gloss": "to eat"
+      },
+      "source": {
+        "raw": "Mrk.6.37#21=NKO\tφαγεῖν;¶ (phagein)\tto eat?\tG5315=V-AAN\tφαγεῖν=to eat\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\t(de) comer?\tto eat\t#21\tG5315_B\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 14638,
-    "ordinal": 1436,
-    "reduced": 112
-  }
+  ]
 }

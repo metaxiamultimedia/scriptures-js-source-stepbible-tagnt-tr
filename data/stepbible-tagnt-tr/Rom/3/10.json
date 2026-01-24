@@ -4,135 +4,162 @@
     {
       "position": 1,
       "text": "καθὼς",
-      "lemma": [
+      "lemma": "καθώς",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2531"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2531",
       "translation": "Even as",
-      "metadata": {},
-      "gematria": {
-        "standard": 1030,
-        "ordinal": 61,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2531",
+        "subMeaning": "just as",
+        "manuscriptType": "NKO",
+        "gloss": "as/just as"
+      },
+      "source": {
+        "raw": "Rom.3.10#01=NKO\tκαθὼς (kathōs)\tEven as\tG2531=CONJ\tκαθώς=as/just as\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tSegún como\tjust as\t#01\tG2531\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "γέγραπται",
-      "lemma": [
+      "lemma": "γράφω",
+      "morph": "robinson:V-RPI-3S",
+      "strongs": [
         "G1125"
       ],
-      "morph": "robinson:V-RPI-3S",
-      "strongs": "G1125",
       "translation": "it has been written",
-      "metadata": {},
-      "gematria": {
-        "standard": 503,
-        "ordinal": 74,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1125",
+        "subMeaning": "it is written",
+        "manuscriptType": "NKO",
+        "gloss": "to write"
+      },
+      "source": {
+        "raw": "Rom.3.10#02=NKO\tγέγραπται (gegraptai)\tit has been written\tG1125=V-RPI-3S\tγράφω=to write\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tha sido escrito\tit is written\t#02\tG1125\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "ὅτι",
-      "lemma": [
+      "lemma": "ὅτι",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G3754G"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G3754G",
       "translation": "that",
-      "metadata": {},
-      "gematria": {
-        "standard": 380,
-        "ordinal": 43,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3754",
+        "subMeaning": ": that»that/since|1_that",
+        "manuscriptType": "NKO",
+        "gloss": "that/since"
+      },
+      "source": {
+        "raw": "Rom.3.10#03=NKO\tὅτι (hoti)\tthat\tG3754G=CONJ\tὅτι=that/since\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tque\t: that»that/since|1_that\t#03«02:G1125\tG3754\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "οὐκ",
-      "lemma": [
+      "lemma": "οὐ",
+      "morph": "robinson:PRT-N",
+      "strongs": [
         "G3756"
       ],
-      "morph": "robinson:PRT-N",
-      "strongs": "G3756",
       "translation": "None",
-      "metadata": {},
-      "gematria": {
-        "standard": 490,
-        "ordinal": 45,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3756",
+        "subMeaning": "no one",
+        "manuscriptType": "NKO",
+        "gloss": "no"
+      },
+      "source": {
+        "raw": "Rom.3.10#04=NKO\tοὐκ (ouk)\tNone\tG3756=PRT-N\tοὐ=no\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tNo\tno one\t#04»05:G1510\tG3756\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "ἔστιν",
-      "lemma": [
+      "lemma": "εἰμί",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
         "G1510"
       ],
-      "morph": "robinson:V-PAI-3S",
-      "strongs": "G1510",
       "translation": "there is",
-      "metadata": {},
-      "gematria": {
-        "standard": 565,
-        "ordinal": 64,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1510",
+        "subMeaning": "there is",
+        "manuscriptType": "NKO",
+        "gloss": "to be"
+      },
+      "source": {
+        "raw": "Rom.3.10#05=NKO\tἔστιν (estin)\tthere is\tG1510=V-PAI-3S\tεἰμί=to be\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testá siendo\tthere is\t#05\tG1510\tG2076\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "δίκαιος",
-      "lemma": [
+      "lemma": "δίκαιος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
         "G1342"
       ],
-      "morph": "robinson:A-NSM",
-      "strongs": "G1342",
       "translation": "righteous",
-      "metadata": {},
-      "gematria": {
-        "standard": 315,
-        "ordinal": 66,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1342",
+        "subMeaning": "just",
+        "manuscriptType": "NKO",
+        "gloss": "just"
+      },
+      "source": {
+        "raw": "Rom.3.10#06=NKO\tδίκαιος (dikaios)\trighteous\tG1342=A-NSM\tδίκαιος=just\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tjusto\tjust\t#06\tG1342\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "οὐδὲ",
-      "lemma": [
+      "lemma": "οὐδέ",
+      "morph": "robinson:CONJ-N",
+      "strongs": [
         "G3761"
       ],
-      "morph": "robinson:CONJ-N",
-      "strongs": "G3761",
       "translation": "not even",
-      "metadata": {},
-      "gematria": {
-        "standard": 479,
-        "ordinal": 44,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3761",
+        "subMeaning": "and not",
+        "manuscriptType": "NKO",
+        "gloss": "and not"
+      },
+      "source": {
+        "raw": "Rom.3.10#07=NKO\tοὐδὲ (oude)\tnot even\tG3761=CONJ-N\tοὐδέ=and not\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tni\tand not\t#07»08:G1520\tG3761\t\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "εἷς·",
-      "lemma": [
+      "lemma": "εἷς",
+      "morph": "robinson:A-NSM",
+      "strongs": [
         "G1520"
       ],
-      "morph": "robinson:A-NSM",
-      "strongs": "G1520",
       "translation": "one;",
-      "metadata": {},
-      "gematria": {
-        "standard": 215,
-        "ordinal": 32,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1520",
+        "subMeaning": "one",
+        "manuscriptType": "NKO",
+        "gloss": "one"
+      },
+      "source": {
+        "raw": "Rom.3.10#08=NKO\tεἷς· (heis)\tone;\tG1520=A-NSM\tεἷς=one\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tuno\tone\t#08\tG1520\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 3977,
-    "ordinal": 429,
-    "reduced": 44
-  }
+  ]
 }

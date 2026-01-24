@@ -4,231 +4,283 @@
     {
       "position": 1,
       "text": "ἡ",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-NSF",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-NSF",
-      "strongs": "G3588",
       "translation": "<the>",
-      "metadata": {},
-      "gematria": {
-        "standard": 8,
-        "ordinal": 7,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "1Co.13.8#01=NKO\tἡ (hē)\t<the>\tG3588=T-NSF\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tEl\tthe\t#01»02:G0026\tG3588\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "ἀγάπη",
-      "lemma": [
+      "lemma": "ἀγάπη",
+      "morph": "robinson:N-NSF",
+      "strongs": [
         "G0026"
       ],
-      "morph": "robinson:N-NSF",
-      "strongs": "G0026",
       "translation": "Love",
-      "metadata": {},
-      "gematria": {
-        "standard": 93,
-        "ordinal": 28,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0026",
+        "subMeaning": "love",
+        "manuscriptType": "NKO",
+        "gloss": "love"
+      },
+      "source": {
+        "raw": "1Co.13.8#02=NKO\tἀγάπη (agapē)\tLove\tG0026=N-NSF\tἀγάπη=love\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tamor\tlove\t#02\tG0026\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "οὐδέποτε",
-      "lemma": [
+      "lemma": "οὐδέποτε",
+      "morph": "robinson:ADV-N",
+      "strongs": [
         "G3763"
       ],
-      "morph": "robinson:ADV-N",
-      "strongs": "G3763",
       "translation": "never",
-      "metadata": {},
-      "gematria": {
-        "standard": 934,
-        "ordinal": 99,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3763",
+        "subMeaning": "never",
+        "manuscriptType": "NKO",
+        "gloss": "never"
+      },
+      "source": {
+        "raw": "1Co.13.8#03=NKO\tοὐδέποτε (oudepote)\tnever\tG3763=ADV-N\tοὐδέποτε=never\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tnunca\tnever\t#03»04:G4098\tG3763\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "πίπτει.",
-      "lemma": [
+      "lemma": "πίπτω",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
         "G4098"
       ],
-      "morph": "robinson:V-PAI-3S",
-      "strongs": "G4098",
       "translation": "falls.",
-      "metadata": {},
-      "gematria": {
-        "standard": 485,
-        "ordinal": 74,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg",
+        "extendedStrongs": "G4098",
+        "subMeaning": "to collapse",
+        "variants": "ἐκπίπτει (t=ekpiptei) falls out - G1601=V-PAI-3S in: TR+Byz",
+        "manuscriptType": "N(k)O",
+        "gloss": "to collapse"
+      },
+      "source": {
+        "raw": "1Co.13.8#04=N(k)O\tπίπτει.¶ (piptei)\tfalls.\tG4098=V-PAI-3S\tπίπτω=to collapse\tNA28+NA27+Tyn+SBL+WH+Treg\tἐκπίπτει (t=ekpiptei) falls out - G1601=V-PAI-3S in: TR+Byz\t\testá cayendo\tto collapse\t#04\tG4098\tG1601\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "Εἴτε",
-      "lemma": [
+      "lemma": "εἴτε",
+      "morph": "robinson:COND",
+      "strongs": [
         "G1535"
       ],
-      "morph": "robinson:COND",
-      "strongs": "G1535",
       "translation": "if",
-      "metadata": {},
-      "gematria": {
-        "standard": 320,
-        "ordinal": 38,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1535_A",
+        "subMeaning": "if",
+        "manuscriptType": "NKO",
+        "gloss": "whether"
+      },
+      "source": {
+        "raw": "1Co.13.8#05=NKO\tΕἴτε (Eite)\tif\tG1535=COND\tεἴτε=whether\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tsea\tif\t#05\tG1535_A\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "δὲ",
-      "lemma": [
+      "lemma": "δέ",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G1161"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G1161",
       "translation": "however",
-      "metadata": {},
-      "gematria": {
-        "standard": 9,
-        "ordinal": 9,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1161",
+        "subMeaning": "but",
+        "manuscriptType": "NKO",
+        "gloss": "but/and"
+      },
+      "source": {
+        "raw": "1Co.13.8#06=NKO\tδὲ (de)\thowever\tG1161=CONJ\tδέ=but/and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tpero\tbut\t#06\tG1161\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "προφητεῖαι,",
-      "lemma": [
+      "lemma": "προφητεία",
+      "morph": "robinson:N-NPF",
+      "strongs": [
         "G4394"
       ],
-      "morph": "robinson:N-NPF",
-      "strongs": "G4394",
       "translation": "[there are] prophesies,",
-      "metadata": {},
-      "gematria": {
-        "standard": 1084,
-        "ordinal": 119,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4394",
+        "subMeaning": "prophecy",
+        "manuscriptType": "NKO",
+        "gloss": "prophecy"
+      },
+      "source": {
+        "raw": "1Co.13.8#07=NKO\tπροφητεῖαι, (prophēteiai)\t[there are] prophesies,\tG4394=N-NPF\tπροφητεία=prophecy\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tprofecías\tprophecy\t#07\tG4394\t\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "καταργηθήσονται·",
-      "lemma": [
+      "lemma": "καταργέω",
+      "morph": "robinson:V-FPI-3P",
+      "strongs": [
         "G2673"
       ],
-      "morph": "robinson:V-FPI-3P",
-      "strongs": "G2673",
       "translation": "they will be abated;",
-      "metadata": {},
-      "gematria": {
-        "standard": 1081,
-        "ordinal": 148,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2673_A",
+        "subMeaning": "to end",
+        "manuscriptType": "NKO",
+        "gloss": "to abate"
+      },
+      "source": {
+        "raw": "1Co.13.8#08=NKO\tκαταργηθήσονται· (katargēthēsontai)\tthey will be abated;\tG2673=V-FPI-3P\tκαταργέω=to abate\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tserán hechas ineficaces\tto end\t#08\tG2673_A\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "εἴτε",
-      "lemma": [
+      "lemma": "εἴτε",
+      "morph": "robinson:COND",
+      "strongs": [
         "G1535"
       ],
-      "morph": "robinson:COND",
-      "strongs": "G1535",
       "translation": "if",
-      "metadata": {},
-      "gematria": {
-        "standard": 320,
-        "ordinal": 38,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1535_B",
+        "subMeaning": "if",
+        "manuscriptType": "NKO",
+        "gloss": "whether"
+      },
+      "source": {
+        "raw": "1Co.13.8#09=NKO\tεἴτε (eite)\tif\tG1535=COND\tεἴτε=whether\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tsea\tif\t#09\tG1535_B\t\t\t\t\t"
       }
     },
     {
       "position": 10,
       "text": "γλῶσσαι,",
-      "lemma": [
+      "lemma": "γλῶσσα",
+      "morph": "robinson:N-NPF",
+      "strongs": [
         "G1100"
       ],
-      "morph": "robinson:N-NPF",
-      "strongs": "G1100",
       "translation": "tongues,",
-      "metadata": {},
-      "gematria": {
-        "standard": 1244,
-        "ordinal": 84,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1100",
+        "subMeaning": "tongue",
+        "manuscriptType": "NKO",
+        "gloss": "tongue"
+      },
+      "source": {
+        "raw": "1Co.13.8#10=NKO\tγλῶσσαι, (glōssai)\ttongues,\tG1100=N-NPF\tγλῶσσα=tongue\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tlenguas\ttongue\t#10\tG1100\t\t\t\t\t"
       }
     },
     {
       "position": 11,
       "text": "παύσονται·",
-      "lemma": [
+      "lemma": "παύω",
+      "morph": "robinson:V-FDI-3P",
+      "strongs": [
         "G3973"
       ],
-      "morph": "robinson:V-FDI-3P",
-      "strongs": "G3973",
       "translation": "they will cease;",
-      "metadata": {},
-      "gematria": {
-        "standard": 1112,
-        "ordinal": 112,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3973",
+        "subMeaning": "to cease",
+        "manuscriptType": "NKO",
+        "gloss": "to cease"
+      },
+      "source": {
+        "raw": "1Co.13.8#11=NKO\tπαύσονται· (pausontai)\tthey will cease;\tG3973=V-FDI-3P\tπαύω=to cease\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tcesarán\tto cease\t#11\tG3973\t\t\t\t\t"
       }
     },
     {
       "position": 12,
       "text": "εἴτε",
-      "lemma": [
+      "lemma": "εἴτε",
+      "morph": "robinson:COND",
+      "strongs": [
         "G1535"
       ],
-      "morph": "robinson:COND",
-      "strongs": "G1535",
       "translation": "if",
-      "metadata": {},
-      "gematria": {
-        "standard": 320,
-        "ordinal": 38,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1535_C",
+        "subMeaning": "if",
+        "manuscriptType": "NKO",
+        "gloss": "whether"
+      },
+      "source": {
+        "raw": "1Co.13.8#12=NKO\tεἴτε (eite)\tif\tG1535=COND\tεἴτε=whether\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tsea\tif\t#12\tG1535_C\t\t\t\t\t"
       }
     },
     {
       "position": 13,
       "text": "γνῶσις,",
-      "lemma": [
+      "lemma": "γνῶσις",
+      "morph": "robinson:N-NSF",
+      "strongs": [
         "G1108"
       ],
-      "morph": "robinson:N-NSF",
-      "strongs": "G1108",
       "translation": "knowledge",
-      "metadata": {},
-      "gematria": {
-        "standard": 1263,
-        "ordinal": 85,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1108",
+        "subMeaning": "knowledge",
+        "manuscriptType": "NKO",
+        "gloss": "knowledge"
+      },
+      "source": {
+        "raw": "1Co.13.8#13=NKO\tγνῶσις, (gnōsis)\tknowledge\tG1108=N-NSF\tγνῶσις=knowledge\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tconocimiento\tknowledge\t#13\tG1108\t\t\t\t\t"
       }
     },
     {
       "position": 14,
       "text": "καταργηθήσεται.",
-      "lemma": [
+      "lemma": "καταργέω",
+      "morph": "robinson:V-FPI-3S",
+      "strongs": [
         "G2673"
       ],
-      "morph": "robinson:V-FPI-3S",
-      "strongs": "G2673",
       "translation": "it will be abated.",
-      "metadata": {},
-      "gematria": {
-        "standard": 966,
-        "ordinal": 125,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2673_B",
+        "subMeaning": "to end",
+        "manuscriptType": "NKO",
+        "gloss": "to abate"
+      },
+      "source": {
+        "raw": "1Co.13.8#14=NKO\tκαταργηθήσεται. (katargēthēsetai)\tit will be abated.\tG2673=V-FPI-3S\tκαταργέω=to abate\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tserá hecho ineficaz\tto end\t#14\tG2673_B\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 9239,
-    "ordinal": 1004,
-    "reduced": 68
-  }
+  ]
 }

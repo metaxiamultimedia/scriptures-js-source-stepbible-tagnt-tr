@@ -4,199 +4,242 @@
     {
       "position": 1,
       "text": "μὴ",
-      "lemma": [
+      "lemma": "μή",
+      "morph": "robinson:PRT-N",
+      "strongs": [
         "G3361"
       ],
-      "morph": "robinson:PRT-N",
-      "strongs": "G3361",
       "translation": "Not",
-      "metadata": {},
-      "gematria": {
-        "standard": 48,
-        "ordinal": 19,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3361",
+        "subMeaning": "not",
+        "manuscriptType": "NKO",
+        "gloss": "not"
+      },
+      "source": {
+        "raw": "Mat.6.31#01=NKO\tμὴ (mē)\tNot\tG3361=PRT-N\tμή=not\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tNo\tnot\t#01»03:G3309\tG3361\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "οὖν",
-      "lemma": [
+      "lemma": "οὖν",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G3767"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G3767",
       "translation": "therefore",
-      "metadata": {},
-      "gematria": {
-        "standard": 520,
-        "ordinal": 48,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3767",
+        "subMeaning": "then",
+        "manuscriptType": "NKO",
+        "gloss": "therefore/then"
+      },
+      "source": {
+        "raw": "Mat.6.31#02=NKO\tοὖν (oun)\ttherefore\tG3767=CONJ\tοὖν=therefore/then\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tpor lo tanto\tthen\t#02\tG3767\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "μεριμνήσητε",
-      "lemma": [
+      "lemma": "μεριμνάω",
+      "morph": "robinson:V-AAS-2P",
+      "strongs": [
         "G3309"
       ],
-      "morph": "robinson:V-AAS-2P",
-      "strongs": "G3309",
       "translation": "shall you be anxious",
-      "metadata": {},
-      "gematria": {
-        "standard": 766,
-        "ordinal": 124,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3309",
+        "subMeaning": "to worry",
+        "manuscriptType": "NKO",
+        "gloss": "to worry"
+      },
+      "source": {
+        "raw": "Mat.6.31#03=NKO\tμεριμνήσητε (merimnēsēte)\tshall you be anxious\tG3309=V-AAS-2P\tμεριμνάω=to worry\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ttengan ansiedad\tto worry\t#03\tG3309\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "λέγοντες·",
-      "lemma": [
+      "lemma": "λέγω",
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": [
         "G3004G"
       ],
-      "morph": "robinson:V-PAP-NPM",
-      "strongs": "G3004G",
       "translation": "saying;",
-      "metadata": {},
-      "gematria": {
-        "standard": 663,
-        "ordinal": 89,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3004",
+        "subMeaning": ": speak»to speak|1_speak/ask",
+        "manuscriptType": "NKO",
+        "gloss": "to speak"
+      },
+      "source": {
+        "raw": "Mat.6.31#04=NKO\tλέγοντες· (legontes)\tsaying;\tG3004G=V-PAP-NPM\tλέγω=to speak\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testando diciendo\t: speak»to speak|1_speak/ask\t#04\tG3004\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "τί",
-      "lemma": [
+      "lemma": "τίς",
+      "morph": "robinson:I-ASN",
+      "strongs": [
         "G5101"
       ],
-      "morph": "robinson:I-ASN",
-      "strongs": "G5101",
       "translation": "What",
-      "metadata": {},
-      "gematria": {
-        "standard": 310,
-        "ordinal": 28,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5101_A",
+        "subMeaning": "which?",
+        "manuscriptType": "NKO",
+        "gloss": "which?"
+      },
+      "source": {
+        "raw": "Mat.6.31#05=NKO\tτί (ti)\tWhat\tG5101=I-ASN\tτίς=which?\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\t¿Qué\twhich?\t#05»06:G5315\tG5101_A\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "φάγωμεν",
-      "lemma": [
+      "lemma": "φαγεῖν",
+      "morph": "robinson:V-AAS-1P",
+      "strongs": [
         "G5315"
       ],
-      "morph": "robinson:V-AAS-1P",
-      "strongs": "G5315",
       "translation": "shall we eat",
-      "metadata": {},
-      "gematria": {
-        "standard": 1399,
-        "ordinal": 79,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5315",
+        "subMeaning": "to eat",
+        "manuscriptType": "NKO",
+        "gloss": "to eat"
+      },
+      "source": {
+        "raw": "Mat.6.31#06=NKO\tφάγωμεν (phagōmen)\tshall we eat\tG5315=V-AAS-1P\tφαγεῖν=to eat\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tcomamos?\tto eat\t#06\tG5315\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "ἢ",
-      "lemma": [
+      "lemma": "ἤ",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2228"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2228",
       "translation": "Or",
-      "metadata": {},
-      "gematria": {
-        "standard": 8,
-        "ordinal": 7,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2228_A",
+        "subMeaning": "or",
+        "manuscriptType": "NKO",
+        "gloss": "or/than"
+      },
+      "source": {
+        "raw": "Mat.6.31#07=NKO\tἢ (ē)\tOr\tG2228=CONJ\tἤ=or/than\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\to\tor\t#07\tG2228_A\t\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "τί",
-      "lemma": [
+      "lemma": "τίς",
+      "morph": "robinson:I-ASN",
+      "strongs": [
         "G5101"
       ],
-      "morph": "robinson:I-ASN",
-      "strongs": "G5101",
       "translation": "what",
-      "metadata": {},
-      "gematria": {
-        "standard": 310,
-        "ordinal": 28,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5101_B",
+        "subMeaning": "which?",
+        "manuscriptType": "NKO",
+        "gloss": "which?"
+      },
+      "source": {
+        "raw": "Mat.6.31#08=NKO\tτί (ti)\twhat\tG5101=I-ASN\tτίς=which?\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\t¿Qué\twhich?\t#08»09:G4095\tG5101_B\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "πίωμεν",
-      "lemma": [
+      "lemma": "πίνω",
+      "morph": "robinson:V-2AAS-1P",
+      "strongs": [
         "G4095"
       ],
-      "morph": "robinson:V-2AAS-1P",
-      "strongs": "G4095",
       "translation": "shall we drink",
-      "metadata": {},
-      "gematria": {
-        "standard": 985,
-        "ordinal": 79,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4095",
+        "subMeaning": "to drink",
+        "manuscriptType": "NKO",
+        "gloss": "to drink"
+      },
+      "source": {
+        "raw": "Mat.6.31#09=NKO\tπίωμεν (piōmen)\tshall we drink\tG4095=V-2AAS-1P\tπίνω=to drink\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tbebamos?\tto drink\t#09\tG4095\t\t\t\t\t"
       }
     },
     {
       "position": 10,
       "text": "ἢ",
-      "lemma": [
+      "lemma": "ἤ",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2228"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2228",
       "translation": "Or",
-      "metadata": {},
-      "gematria": {
-        "standard": 8,
-        "ordinal": 7,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2228_B",
+        "subMeaning": "or",
+        "manuscriptType": "NKO",
+        "gloss": "or/than"
+      },
+      "source": {
+        "raw": "Mat.6.31#10=NKO\tἢ (ē)\tOr\tG2228=CONJ\tἤ=or/than\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\to\tor\t#10\tG2228_B\t\t\t\t\t"
       }
     },
     {
       "position": 11,
       "text": "τί",
-      "lemma": [
+      "lemma": "τίς",
+      "morph": "robinson:I-ASN",
+      "strongs": [
         "G5101"
       ],
-      "morph": "robinson:I-ASN",
-      "strongs": "G5101",
       "translation": "what",
-      "metadata": {},
-      "gematria": {
-        "standard": 310,
-        "ordinal": 28,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5101_C",
+        "subMeaning": "which?",
+        "manuscriptType": "NKO",
+        "gloss": "which?"
+      },
+      "source": {
+        "raw": "Mat.6.31#11=NKO\tτί (ti)\twhat\tG5101=I-ASN\tτίς=which?\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\t¿Qué\twhich?\t#11»12:G4016\tG5101_C\t\t\t\t\t"
       }
     },
     {
       "position": 12,
       "text": "περιβαλώμεθα;",
-      "lemma": [
+      "lemma": "περιβάλλω",
+      "morph": "robinson:V-2AMS-1P",
+      "strongs": [
         "G4016"
       ],
-      "morph": "robinson:V-2AMS-1P",
-      "strongs": "G4016",
       "translation": "shall we wear?",
-      "metadata": {},
-      "gematria": {
-        "standard": 1083,
-        "ordinal": 111,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4016",
+        "subMeaning": "to clothe",
+        "manuscriptType": "NKO",
+        "gloss": "to clothe"
+      },
+      "source": {
+        "raw": "Mat.6.31#12=NKO\tπεριβαλώμεθα; (peribalōmetha)\tshall we wear?\tG4016=V-2AMS-1P\tπεριβάλλω=to clothe\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tnos pongamos alrededor?\tto clothe\t#12\tG4016\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 6410,
-    "ordinal": 647,
-    "reduced": 56
-  }
+  ]
 }

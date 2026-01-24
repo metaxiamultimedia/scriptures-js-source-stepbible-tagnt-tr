@@ -4,183 +4,223 @@
     {
       "position": 1,
       "text": "διὸ",
-      "lemma": [
+      "lemma": "διό",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G1352"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G1352",
       "translation": "Therefore",
-      "metadata": {},
-      "gematria": {
-        "standard": 84,
-        "ordinal": 28,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1352",
+        "subMeaning": "therefore",
+        "manuscriptType": "NKO",
+        "gloss": "for"
+      },
+      "source": {
+        "raw": "Act.10.29#01=NKO\tδιὸ (dio)\tTherefore\tG1352=CONJ\tδιό=for\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tPor cual\ttherefore\t#01\tG1352\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "also",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "Act.10.29#02=NKO\tκαὶ (kai)\talso\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ty\tand\t#02\tG2532\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "ἀναντιρρήτως",
-      "lemma": [
+      "lemma": "ἀναντιρρήτως",
+      "morph": "robinson:ADV",
+      "strongs": [
         "G0369"
       ],
-      "morph": "robinson:ADV",
-      "strongs": "G0369",
       "translation": "without objection",
-      "metadata": {},
-      "gematria": {
-        "standard": 1920,
-        "ordinal": 158,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0369",
+        "subMeaning": "without objection",
+        "variants": "WH: ἀναντιρήτως ;",
+        "manuscriptType": "NKO",
+        "gloss": "without objection"
+      },
+      "source": {
+        "raw": "Act.10.29#03=NKO\tἀναντιρρήτως (anantirrētōs)\twithout objection\tG0369=ADV\tἀναντιρρήτως=without objection\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\tWH: ἀναντιρήτως ; \tsin contradecir\twithout objection\t#03\tG0369\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "ἦλθον",
-      "lemma": [
+      "lemma": "ἔρχομαι",
+      "morph": "robinson:V-2AAI-1S",
+      "strongs": [
         "G2064"
       ],
-      "morph": "robinson:V-2AAI-1S",
-      "strongs": "G2064",
       "translation": "I came",
-      "metadata": {},
-      "gematria": {
-        "standard": 167,
-        "ordinal": 54,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2064",
+        "subMeaning": "to come",
+        "manuscriptType": "NKO",
+        "gloss": "to come/go"
+      },
+      "source": {
+        "raw": "Act.10.29#04=NKO\tἦλθον (ēlthon)\tI came\tG2064=V-2AAI-1S\tἔρχομαι=to come/go\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tvine\tto come\t#04\tG2064\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "μεταπεμφθείς.",
-      "lemma": [
+      "lemma": "μεταπέμπω",
+      "morph": "robinson:V-APP-NSM",
+      "strongs": [
         "G3343"
       ],
-      "morph": "robinson:V-APP-NSM",
-      "strongs": "G3343",
       "translation": "having been summoned.",
-      "metadata": {},
-      "gematria": {
-        "standard": 1195,
-        "ordinal": 131,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3343_A",
+        "subMeaning": "to summon",
+        "manuscriptType": "NKO",
+        "gloss": "to summon"
+      },
+      "source": {
+        "raw": "Act.10.29#05=NKO\tμεταπεμφθείς. (metapemphtheis)\thaving been summoned.\tG3343=V-APP-NSM\tμεταπέμπω=to summon\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\thabiendo sido enviado para (venir)\tto summon\t#05\tG3343_A\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "πυνθάνομαι",
-      "lemma": [
+      "lemma": "πυνθάνομαι",
+      "morph": "robinson:V-PNI-1S",
+      "strongs": [
         "G4441"
       ],
-      "morph": "robinson:V-PNI-1S",
-      "strongs": "G4441",
       "translation": "I inquire",
-      "metadata": {},
-      "gematria": {
-        "standard": 711,
-        "ordinal": 108,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4441",
+        "subMeaning": "to inquire",
+        "manuscriptType": "NKO",
+        "gloss": "to inquire"
+      },
+      "source": {
+        "raw": "Act.10.29#06=NKO\tπυνθάνομαι (punthanomai)\tI inquire\tG4441=V-PNI-1S\tπυνθάνομαι=to inquire\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testoy inquiriendo\tto inquire\t#06\tG4441\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "οὖν,",
-      "lemma": [
+      "lemma": "οὖν",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G3767"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G3767",
       "translation": "therefore,",
-      "metadata": {},
-      "gematria": {
-        "standard": 520,
-        "ordinal": 48,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3767",
+        "subMeaning": "then",
+        "manuscriptType": "NKO",
+        "gloss": "therefore/then"
+      },
+      "source": {
+        "raw": "Act.10.29#07=NKO\tοὖν, (oun)\ttherefore,\tG3767=CONJ\tοὖν=therefore/then\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tpor lo tanto\tthen\t#07\tG3767\t\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "τίνι",
-      "lemma": [
+      "lemma": "τίς",
+      "morph": "robinson:I-DSM",
+      "strongs": [
         "G5101"
       ],
-      "morph": "robinson:I-DSM",
-      "strongs": "G5101",
       "translation": "for what",
-      "metadata": {},
-      "gematria": {
-        "standard": 370,
-        "ordinal": 50,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5101",
+        "subMeaning": "which?",
+        "manuscriptType": "NKO",
+        "gloss": "which?"
+      },
+      "source": {
+        "raw": "Act.10.29#08=NKO\tτίνι (tini)\tfor what\tG5101=I-DSM\tτίς=which?\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta qué\twhich?\t#08»10:G3343\tG5101\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "λόγῳ",
-      "lemma": [
+      "lemma": "λόγος",
+      "morph": "robinson:N-DSM",
+      "strongs": [
         "G3056"
       ],
-      "morph": "robinson:N-DSM",
-      "strongs": "G3056",
       "translation": "reason",
-      "metadata": {},
-      "gematria": {
-        "standard": 913,
-        "ordinal": 62,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3056",
+        "subMeaning": "word",
+        "manuscriptType": "NKO",
+        "gloss": "word"
+      },
+      "source": {
+        "raw": "Act.10.29#09=NKO\tλόγῳ (logō)\treason\tG3056=N-DSM\tλόγος=word\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tpalabra\tword\t#09\tG3056\t\t\t\t\t"
       }
     },
     {
       "position": 10,
       "text": "μετεπέμψασθέ",
-      "lemma": [
+      "lemma": "μεταπέμπω",
+      "morph": "robinson:V-AMI-2P",
+      "strongs": [
         "G3343"
       ],
-      "morph": "robinson:V-AMI-2P",
-      "strongs": "G3343",
       "translation": "did you summon",
-      "metadata": {},
-      "gematria": {
-        "standard": 1390,
-        "ordinal": 129,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3343_B",
+        "subMeaning": "to summon",
+        "manuscriptType": "NKO",
+        "gloss": "to summon"
+      },
+      "source": {
+        "raw": "Act.10.29#10=NKO\tμετεπέμψασθέ (metepempsasthe)\tdid you summon\tG3343=V-AMI-2P\tμεταπέμπω=to summon\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tenviaron por\tto summon\t#10\tG3343_B\t\t\t\t\t"
       }
     },
     {
       "position": 11,
       "text": "με;",
-      "lemma": [
+      "lemma": "ἐγώ",
+      "morph": "robinson:P-1AS",
+      "strongs": [
         "G3165"
       ],
-      "morph": "robinson:P-1AS",
-      "strongs": "G3165",
       "translation": "me?",
-      "metadata": {},
-      "gematria": {
-        "standard": 45,
-        "ordinal": 17,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3165",
+        "subMeaning": "me",
+        "manuscriptType": "NKO",
+        "gloss": "I/we"
+      },
+      "source": {
+        "raw": "Act.10.29#11=NKO\tμε;¶ (me)\tme?\tG3165=P-1AS\tἐγώ=I/we\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tmí\tme\t#11«10:G3343\tG3165\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 7346,
-    "ordinal": 805,
-    "reduced": 56
-  }
+  ]
 }

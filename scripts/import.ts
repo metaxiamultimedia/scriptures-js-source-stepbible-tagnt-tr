@@ -16,7 +16,6 @@ import { mkdir, writeFile, readFile } from 'fs/promises';
 import { existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
-import { computeGreek } from '@metaxia/scriptures-core';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -45,18 +44,26 @@ const BOOK_MAP: Record<string, string> = {
 interface WordEntry {
   position: number;
   text: string;
-  lemma: string[] | null;
+  /** Greek dictionary form (lemma) extracted from gloss column */
+  lemma: string | null;
+  /** Robinson morphological tag with prefix */
   morph: string | null;
-  strongs: string | null;
+  /** Strong's number(s) as array */
+  strongs: string[] | null;
+  /** English translation */
   translation: string | null;
+  /** Additional metadata */
   metadata: Record<string, unknown>;
-  gematria: Record<string, number>;
+  /** Raw source data preserved for reference */
+  source: {
+    /** Complete raw TSV line from source file */
+    raw: string;
+  };
 }
 
 interface VerseData {
   text: string;
   words: WordEntry[];
-  gematria: Record<string, number>;
 }
 
 interface ParsedWord {
@@ -64,13 +71,24 @@ interface ParsedWord {
   chapter: number;
   verse: number;
   wordNum: number;
+  /** Manuscript type indicator (e.g., NKO, K, k) */
   type: string;
   greek: string;
   translation: string;
   strongs: string;
   morph: string;
+  /** Dictionary form column: "υἱός=son" */
   gloss: string;
+  /** Manuscript editions (NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz) */
   editions: string;
+  /** Extended Strong's with disambiguation suffix (e.g., G5207_A) */
+  extendedStrongs: string;
+  /** Sub-meaning / detailed gloss */
+  subMeaning: string;
+  /** Variant notes */
+  variants: string;
+  /** Complete raw TSV line from source */
+  rawLine: string;
 }
 
 /**
@@ -152,6 +170,21 @@ function parseStrongsAndMorph(combined: string): { strongs: string; morph: strin
   };
 }
 
+/**
+ * Extract Greek lemma from the gloss column.
+ * Format: "υἱός=son" -> "υἱός"
+ * Format: "λόγος=word, statement" -> "λόγος"
+ */
+function extractGreekLemma(gloss: string): string | null {
+  if (!gloss) return null;
+  const match = gloss.match(/^([^=]+)/);
+  if (!match) return null;
+  const lemma = match[1].trim();
+  // Return null if it's empty or doesn't contain Greek characters
+  if (!lemma || !/[\u0370-\u03FF\u1F00-\u1FFF]/.test(lemma)) return null;
+  return lemma;
+}
+
 async function downloadFiles(): Promise<string[]> {
   const files: string[] = [];
 
@@ -216,6 +249,14 @@ function parseTagntFile(content: string): Map<string, ParsedWord[]> {
     const { strongs, morph } = parseStrongsAndMorph(cols[3] || '');
     const gloss = cols[4]?.trim() || '';
     const editions = cols[5]?.trim() || '';
+    // Cols 6-7 are variant notes (often empty)
+    const variants = ((cols[6]?.trim() || '') + ' ' + (cols[7]?.trim() || '')).trim();
+    // Col 8 is Spanish (skip for now)
+    // Col 9 is sub-meaning / detailed gloss
+    const subMeaning = cols[9]?.trim() || '';
+    // Col 10 is instance number (redundant with wordNum)
+    // Col 11 is extended Strong's with disambiguation suffix
+    const extendedStrongs = cols[11]?.trim() || '';
 
     // Skip if no Greek text
     if (!greek) continue;
@@ -241,6 +282,10 @@ function parseTagntFile(content: string): Map<string, ParsedWord[]> {
       morph,
       gloss,
       editions,
+      extendedStrongs,
+      subMeaning,
+      variants,
+      rawLine: line,
     });
   }
 
@@ -254,24 +299,34 @@ async function saveVerse(book: string, chapter: number, verse: number, words: Pa
   const verseDir = join(DATA_DIR, book, String(chapter));
   await mkdir(verseDir, { recursive: true });
 
-  const wordEntries: WordEntry[] = words.map((w, idx) => ({
-    position: idx + 1,
-    text: w.greek,
-    lemma: w.strongs ? [w.strongs] : null,
-    morph: w.morph ? `robinson:${w.morph}` : null,
-    strongs: w.strongs || null,
-    translation: w.translation || null,
-    metadata: {},
-    gematria: computeGreek(w.greek),
-  }));
+  const wordEntries: WordEntry[] = words.map((w, idx) => {
+    // Build metadata with all parsed TAGNT-specific fields
+    const metadata: Record<string, unknown> = {};
+    if (w.editions) metadata.editions = w.editions;
+    if (w.extendedStrongs) metadata.extendedStrongs = w.extendedStrongs;
+    if (w.subMeaning) metadata.subMeaning = w.subMeaning;
+    if (w.variants) metadata.variants = w.variants;
+    if (w.type) metadata.manuscriptType = w.type;
+    // Extract English gloss from the gloss column (the part after =)
+    const glossMatch = w.gloss.match(/=(.+)$/);
+    if (glossMatch) metadata.gloss = glossMatch[1].trim();
 
-  // Calculate verse totals
-  const totals: Record<string, number> = {};
-  for (const entry of wordEntries) {
-    for (const [k, v] of Object.entries(entry.gematria)) {
-      totals[k] = (totals[k] || 0) + v;
-    }
-  }
+    return {
+      position: idx + 1,
+      text: w.greek,
+      // Greek lemma extracted from gloss column (e.g., "υἱός" from "υἱός=son")
+      lemma: extractGreekLemma(w.gloss),
+      morph: w.morph ? `robinson:${w.morph}` : null,
+      // Strong's as array for consistency with other sources
+      strongs: w.strongs ? [w.strongs] : null,
+      translation: w.translation || null,
+      metadata: Object.keys(metadata).length > 0 ? metadata : {},
+      // Preserve complete raw source line
+      source: {
+        raw: w.rawLine,
+      },
+    };
+  });
 
   // Build text with proper punctuation handling
   let text = wordEntries.map(w => w.text).join(' ');
@@ -280,7 +335,6 @@ async function saveVerse(book: string, chapter: number, verse: number, words: Pa
   const data: VerseData = {
     text,
     words: wordEntries,
-    gematria: totals,
   };
 
   const filePath = join(verseDir, `${verse}.json`);

@@ -4,87 +4,104 @@
     {
       "position": 1,
       "text": "μὴ",
-      "lemma": [
+      "lemma": "μή",
+      "morph": "robinson:PRT-N",
+      "strongs": [
         "G3361"
       ],
-      "morph": "robinson:PRT-N",
-      "strongs": "G3361",
       "translation": "Not",
-      "metadata": {},
-      "gematria": {
-        "standard": 48,
-        "ordinal": 19,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3361",
+        "subMeaning": "not",
+        "manuscriptType": "NKO",
+        "gloss": "not"
+      },
+      "source": {
+        "raw": "Eph.5.7#01=NKO\tμὴ (mē)\tNot\tG3361=PRT-N\tμή=not\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tNo\tnot\t#01»03:G1096\tG3361\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "οὖν",
-      "lemma": [
+      "lemma": "οὖν",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G3767"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G3767",
       "translation": "therefore",
-      "metadata": {},
-      "gematria": {
-        "standard": 520,
-        "ordinal": 48,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3767",
+        "subMeaning": "therefore",
+        "manuscriptType": "NKO",
+        "gloss": "therefore/then"
+      },
+      "source": {
+        "raw": "Eph.5.7#02=NKO\tοὖν (oun)\ttherefore\tG3767=CONJ\tοὖν=therefore/then\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tpor lo tanto\ttherefore\t#02\tG3767\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "γίνεσθε",
-      "lemma": [
+      "lemma": "γίνομαι",
+      "morph": "robinson:V-PNM-2P",
+      "strongs": [
         "G1096"
       ],
-      "morph": "robinson:V-PNM-2P",
-      "strongs": "G1096",
       "translation": "do be",
-      "metadata": {},
-      "gematria": {
-        "standard": 282,
-        "ordinal": 61,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1096",
+        "subMeaning": "to be",
+        "variants": "Tyn: γείνεσθε ;",
+        "manuscriptType": "NKO",
+        "gloss": "to be"
+      },
+      "source": {
+        "raw": "Eph.5.7#03=NKO\tγίνεσθε (ginesthe)\tdo be\tG1096=V-PNM-2P\tγίνομαι=to be\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\tTyn: γείνεσθε ; \testén llegando a ser\tto be\t#03\tG1096\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "συμμέτοχοι",
-      "lemma": [
+      "lemma": "συμμέτοχος",
+      "morph": "robinson:A-NPM",
+      "strongs": [
         "G4830"
       ],
-      "morph": "robinson:A-NPM",
-      "strongs": "G4830",
       "translation": "partakers",
-      "metadata": {},
-      "gematria": {
-        "standard": 1735,
-        "ordinal": 147,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4830",
+        "subMeaning": "sharer",
+        "variants": "Tyn+WH: συνμέτοχοι ;",
+        "manuscriptType": "NKO",
+        "gloss": "sharer"
+      },
+      "source": {
+        "raw": "Eph.5.7#04=NKO\tσυμμέτοχοι (summetochoi)\tpartakers\tG4830=A-NPM\tσυμμέτοχος=sharer\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\tTyn+WH: συνμέτοχοι ; \tcopartícipes\tsharer\t#04\tG4830\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "αὐτῶν.",
-      "lemma": [
+      "lemma": "αὐτός",
+      "morph": "robinson:P-GPM",
+      "strongs": [
         "G0846"
       ],
-      "morph": "robinson:P-GPM",
-      "strongs": "G0846",
       "translation": "with them.",
-      "metadata": {},
-      "gematria": {
-        "standard": 1551,
-        "ordinal": 77,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0846",
+        "subMeaning": "of them",
+        "manuscriptType": "NKO",
+        "gloss": "he/she/it/self"
+      },
+      "source": {
+        "raw": "Eph.5.7#05=NKO\tαὐτῶν. (autōn)\twith them.\tG0846=P-GPM\tαὐτός=he/she/it/self\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tde ellos\tof them\t#05«03:G1096\tG0846\tG3778\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 4136,
-    "ordinal": 352,
-    "reduced": 23
-  }
+  ]
 }

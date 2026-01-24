@@ -72,5 +72,9 @@ This package processes the original STEPBible TAGNT data as follows:
 - Filtered to Textus Receptus (K) readings only
 - Properly handles alternate versification markers
 - Converted from TSV to JSON format
-- Restructured into per-verse files by book/chapter
-- Added computed gematria values (standard, ordinal, reduced)
+- Restructured into per-verse files organized by book/chapter
+- Standardized word structure with position, text, lemma, morph, strongs fields
+- Polytonic Greek text with diacritics is preserved
+
+Gematria/isopsephy values are NOT pre-computed in the stored data; they are
+computed on-demand by the scriptures-core library when accessed.
