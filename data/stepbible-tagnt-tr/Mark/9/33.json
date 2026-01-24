@@ -4,295 +4,364 @@
     {
       "position": 1,
       "text": "Καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "And",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532_A",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "Mrk.9.33#01=NKO\tΚαὶ (Kai)\tAnd\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tY\tand\t#01\tG2532_A\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "ἦλθον",
-      "lemma": [
+      "lemma": "ἔρχομαι",
+      "morph": "robinson:V-2AAI-3P",
+      "strongs": [
         "G2064"
       ],
-      "morph": "robinson:V-2AAI-3P",
-      "strongs": "G2064",
       "translation": "they came",
-      "metadata": {},
-      "gematria": {
-        "standard": 167,
-        "ordinal": 54,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg",
+        "extendedStrongs": "G2064",
+        "subMeaning": "to come",
+        "variants": "ἦλθεν (T=ēlthen) he came - G2064=V-2AAI-3S in: TR+Byz",
+        "manuscriptType": "N(K)O",
+        "gloss": "to come/go"
+      },
+      "source": {
+        "raw": "Mrk.9.33#02=N(K)O\tἦλθον (ēlthon)\tthey came\tG2064=V-2AAI-3P\tἔρχομαι=to come/go\tNA28+NA27+Tyn+SBL+WH+Treg\tἦλθεν (T=ēlthen) he came - G2064=V-2AAI-3S in: TR+Byz\t\tvinieron\tto come\t#02\tG2064\t\tv ἦλθεν  (<i>ēlthen</i>) 'he came' occurs in traditional manuscripts (TR+Byz) instead of ἦλθον  (<i>ēlthon</i>) 'they came' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "εἰς",
-      "lemma": [
+      "lemma": "εἰς",
+      "morph": "robinson:PREP",
+      "strongs": [
         "G1519"
       ],
-      "morph": "robinson:PREP",
-      "strongs": "G1519",
       "translation": "to",
-      "metadata": {},
-      "gematria": {
-        "standard": 215,
-        "ordinal": 32,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1519",
+        "subMeaning": "to",
+        "manuscriptType": "NKO",
+        "gloss": "toward"
+      },
+      "source": {
+        "raw": "Mrk.9.33#03=NKO\tεἰς (eis)\tto\tG1519=PREP\tεἰς=toward\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\thacia dentro\tto\t#03\tG1519\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "Καφαρναούμ·",
-      "lemma": [
+      "lemma": "Καπερναούμ",
+      "morph": "robinson:N-ASF-L",
+      "strongs": [
         "G2584"
       ],
-      "morph": "robinson:N-ASF-L",
-      "strongs": "G2584",
       "translation": "Capernaum;",
-      "metadata": {},
-      "gematria": {
-        "standard": 1183,
-        "ordinal": 111,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2584",
+        "subMeaning": "Capernaum»Capernaum@Mat.4.13",
+        "variants": "TR: Καπερναούμ ;",
+        "manuscriptType": "NKO",
+        "gloss": "Capernaum"
+      },
+      "source": {
+        "raw": "Mrk.9.33#04=NKO\tΚαφαρναούμ· (Kapharnaoum)\tCapernaum;\tG2584=N-ASF-L\tΚαπερναούμ=Capernaum\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\tTR: Καπερναούμ ; \tCapernaum\tCapernaum»Capernaum@Mat.4.13\t#04\tG2584\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "And",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532_B",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "Mrk.9.33#05=NKO\tκαὶ (kai)\tAnd\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ty\tand\t#05\tG2532_B\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "ἐν",
-      "lemma": [
+      "lemma": "ἐν",
+      "morph": "robinson:PREP",
+      "strongs": [
         "G1722"
       ],
-      "morph": "robinson:PREP",
-      "strongs": "G1722",
       "translation": "in",
-      "metadata": {},
-      "gematria": {
-        "standard": 55,
-        "ordinal": 18,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1722_A",
+        "subMeaning": "in",
+        "manuscriptType": "NKO",
+        "gloss": "in/on/among"
+      },
+      "source": {
+        "raw": "Mrk.9.33#06=NKO\tἐν (en)\tin\tG1722=PREP\tἐν=in/on/among\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ten\tin\t#06\tG1722_A\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "τῇ",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-DSF",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-DSF",
-      "strongs": "G3588",
       "translation": "the",
-      "metadata": {},
-      "gematria": {
-        "standard": 318,
-        "ordinal": 35,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588_A",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Mrk.9.33#07=NKO\tτῇ (tēa)\tthe\tG3588=T-DSF\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tla\tthe\t#07»08:G3614\tG3588_A\t\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "οἰκίᾳ",
-      "lemma": [
+      "lemma": "οἰκία",
+      "morph": "robinson:N-DSF",
+      "strongs": [
         "G3614G"
       ],
-      "morph": "robinson:N-DSF",
-      "strongs": "G3614G",
       "translation": "house",
-      "metadata": {},
-      "gematria": {
-        "standard": 121,
-        "ordinal": 53,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3614",
+        "subMeaning": ": home»home|1_home/temple/building",
+        "manuscriptType": "NKO",
+        "gloss": "home"
+      },
+      "source": {
+        "raw": "Mrk.9.33#08=NKO\tοἰκίᾳ (oikia)\thouse\tG3614G=N-DSF\tοἰκία=home\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tcasa\t: home»home|1_home/temple/building\t#08\tG3614\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "γενόμενος",
-      "lemma": [
+      "lemma": "γίνομαι",
+      "morph": "robinson:V-2ADP-NSM",
+      "strongs": [
         "G1096"
       ],
-      "morph": "robinson:V-2ADP-NSM",
-      "strongs": "G1096",
       "translation": "having been",
-      "metadata": {},
-      "gematria": {
-        "standard": 493,
-        "ordinal": 99,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1096",
+        "subMeaning": "to be",
+        "manuscriptType": "NKO",
+        "gloss": "to be"
+      },
+      "source": {
+        "raw": "Mrk.9.33#09=NKO\tγενόμενος (genomenos)\thaving been\tG1096=V-2ADP-NSM\tγίνομαι=to be\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\thabiendo llegado a ser\tto be\t#09\tG1096\t\t\t\t\t"
       }
     },
     {
       "position": 10,
       "text": "ἐπηρώτα",
-      "lemma": [
+      "lemma": "ἐπερωτάω",
+      "morph": "robinson:V-IAI-3S",
+      "strongs": [
         "G1905"
       ],
-      "morph": "robinson:V-IAI-3S",
-      "strongs": "G1905",
       "translation": "He was asking",
-      "metadata": {},
-      "gematria": {
-        "standard": 1294,
-        "ordinal": 89,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1905",
+        "subMeaning": "to question",
+        "manuscriptType": "NKO",
+        "gloss": "to question"
+      },
+      "source": {
+        "raw": "Mrk.9.33#10=NKO\tἐπηρώτα (epērōta)\tHe was asking\tG1905=V-IAI-3S\tἐπερωτάω=to question\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testaba inquiriendo\tto question\t#10\tG1905\t\t\t\t\t"
       }
     },
     {
       "position": 11,
       "text": "αὐτούς·",
-      "lemma": [
+      "lemma": "αὐτός",
+      "morph": "robinson:P-APM",
+      "strongs": [
         "G0846"
       ],
-      "morph": "robinson:P-APM",
-      "strongs": "G0846",
       "translation": "them;",
-      "metadata": {},
-      "gematria": {
-        "standard": 1371,
-        "ordinal": 93,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0846",
+        "subMeaning": "them",
+        "manuscriptType": "NKO",
+        "gloss": "he/she/it/self"
+      },
+      "source": {
+        "raw": "Mrk.9.33#11=NKO\tαὐτούς· (autous)\tthem;\tG0846=P-APM\tαὐτός=he/she/it/self\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\t(de) ellos\tthem\t#11«10:G1905\tG0846\tG3778\t\t\t\t"
       }
     },
     {
       "position": 12,
       "text": "τί",
-      "lemma": [
+      "lemma": "τίς",
+      "morph": "robinson:I-ASN",
+      "strongs": [
         "G5101"
       ],
-      "morph": "robinson:I-ASN",
-      "strongs": "G5101",
       "translation": "What",
-      "metadata": {},
-      "gematria": {
-        "standard": 310,
-        "ordinal": 28,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5101",
+        "subMeaning": "which?",
+        "manuscriptType": "NKO",
+        "gloss": "which?"
+      },
+      "source": {
+        "raw": "Mrk.9.33#12=NKO\tτί (ti)\tWhat\tG5101=I-ASN\tτίς=which?\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\t¿Qué\twhich?\t#12»18:G1260\tG5101\t\t\t\t\t"
       }
     },
     {
       "position": 13,
       "text": "ἐν",
-      "lemma": [
+      "lemma": "ἐν",
+      "morph": "robinson:PREP",
+      "strongs": [
         "G1722"
       ],
-      "morph": "robinson:PREP",
-      "strongs": "G1722",
       "translation": "on",
-      "metadata": {},
-      "gematria": {
-        "standard": 55,
-        "ordinal": 18,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1722_B",
+        "subMeaning": "on",
+        "manuscriptType": "NKO",
+        "gloss": "in/on/among"
+      },
+      "source": {
+        "raw": "Mrk.9.33#13=NKO\tἐν (en)\ton\tG1722=PREP\tἐν=in/on/among\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ten\ton\t#13\tG1722_B\t\t\t\t\t"
       }
     },
     {
       "position": 14,
       "text": "τῇ",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-DSF",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-DSF",
-      "strongs": "G3588",
       "translation": "the",
-      "metadata": {},
-      "gematria": {
-        "standard": 318,
-        "ordinal": 35,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588_B",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Mrk.9.33#14=NKO\tτῇ (tēa)\tthe\tG3588=T-DSF\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tel\tthe\t#14»15:G3598\tG3588_B\t\t\t\t\t"
       }
     },
     {
       "position": 15,
       "text": "ὁδῷ",
-      "lemma": [
+      "lemma": "ὁδός",
+      "morph": "robinson:N-DSF",
+      "strongs": [
         "G3598"
       ],
-      "morph": "robinson:N-DSF",
-      "strongs": "G3598",
       "translation": "way",
-      "metadata": {},
-      "gematria": {
-        "standard": 884,
-        "ordinal": 52,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3598",
+        "subMeaning": "road",
+        "manuscriptType": "NKO",
+        "gloss": "road"
+      },
+      "source": {
+        "raw": "Mrk.9.33#15=NKO\tὁδῷ (hodō)\tway\tG3598=N-DSF\tὁδός=road\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tcamino\troad\t#15\tG3598\t\t\t\t\t"
       }
     },
     {
       "position": 16,
       "text": "πρὸς",
-      "lemma": [
+      "lemma": "πρός",
+      "morph": "robinson:PREP",
+      "strongs": [
         "G4314"
       ],
-      "morph": "robinson:PREP",
-      "strongs": "G4314",
       "translation": "to",
-      "metadata": {},
-      "gematria": {
-        "standard": 450,
-        "ordinal": 66,
-        "reduced": 9
+      "metadata": {
+        "editions": "TR+Byz",
+        "extendedStrongs": "G4314",
+        "subMeaning": "to",
+        "manuscriptType": "K",
+        "gloss": "to/with"
+      },
+      "source": {
+        "raw": "Mrk.9.33#16=K\tπρὸς (pros)\tto\tG4314=PREP\tπρός=to/with\tTR+Byz\t\t\thacia\tto\t#16\tG4314\t\t^ \t\t\t"
       }
     },
     {
       "position": 17,
       "text": "ἑαυτοὺς",
-      "lemma": [
+      "lemma": "ἑαυτοῦ",
+      "morph": "robinson:F-2APM",
+      "strongs": [
         "G1438"
       ],
-      "morph": "robinson:F-2APM",
-      "strongs": "G1438",
       "translation": "yourselves",
-      "metadata": {},
-      "gematria": {
-        "standard": 1376,
-        "ordinal": 98,
-        "reduced": 8
+      "metadata": {
+        "editions": "TR+Byz",
+        "extendedStrongs": "G1438",
+        "subMeaning": "yourselves",
+        "manuscriptType": "K",
+        "gloss": "my/your/him-self"
+      },
+      "source": {
+        "raw": "Mrk.9.33#17=K\tἑαυτοὺς (he'autous)\tyourselves\tG1438=F-2APM\tἑαυτοῦ=my/your/him-self\tTR+Byz\t\t\ta ustedes mismos\tyourselves\t#17«16:G4314\tG1438\t\t^ πρὸς   ἑαυτοὺς   (<i>pros he'autous</i>) 'to yourselves' is only in traditional manuscripts (TR+Byz)\t\t\t"
       }
     },
     {
       "position": 18,
       "text": "διελογίζεσθε;",
-      "lemma": [
+      "lemma": "διαλογίζομαι",
+      "morph": "robinson:V-INI-2P",
+      "strongs": [
         "G1260"
       ],
-      "morph": "robinson:V-INI-2P",
-      "strongs": "G1260",
       "translation": "were you discussing?",
-      "metadata": {},
-      "gematria": {
-        "standard": 358,
-        "ordinal": 98,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1260",
+        "subMeaning": "to reason",
+        "manuscriptType": "NKO",
+        "gloss": "to reason"
+      },
+      "source": {
+        "raw": "Mrk.9.33#18=NKO\tδιελογίζεσθε; (dielogizesthe)\twere you discussing?\tG1260=V-INI-2P\tδιαλογίζομαι=to reason\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testaban discutiendo?\tto reason\t#18\tG1260\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 9030,
-    "ordinal": 1019,
-    "reduced": 84
-  }
+  ]
 }

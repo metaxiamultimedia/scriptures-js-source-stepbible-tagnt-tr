@@ -4,151 +4,182 @@
     {
       "position": 1,
       "text": "ἦν",
-      "lemma": [
+      "lemma": "εἰμί",
+      "morph": "robinson:V-IAI-3S",
+      "strongs": [
         "G1510"
       ],
-      "morph": "robinson:V-IAI-3S",
-      "strongs": "G1510",
       "translation": "There was",
-      "metadata": {},
-      "gematria": {
-        "standard": 58,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1510",
+        "subMeaning": "to be",
+        "manuscriptType": "NKO",
+        "gloss": "to be"
+      },
+      "source": {
+        "raw": "Mat.8.30#01=NKO\tἦν (ēn)\tThere was\tG1510=V-IAI-3S\tεἰμί=to be\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tEstaba siendo\tto be\t#01\tG1510\tG2258\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "δὲ",
-      "lemma": [
+      "lemma": "δέ",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G1161"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G1161",
       "translation": "now",
-      "metadata": {},
-      "gematria": {
-        "standard": 9,
-        "ordinal": 9,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1161",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "but/and"
+      },
+      "source": {
+        "raw": "Mat.8.30#02=NKO\tδὲ (de)\tnow\tG1161=CONJ\tδέ=but/and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tpero\tand\t#02\tG1161\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "μακρὰν",
-      "lemma": [
+      "lemma": "μακρός",
+      "morph": "robinson:ADV",
+      "strongs": [
         "G3112"
       ],
-      "morph": "robinson:ADV",
-      "strongs": "G3112",
       "translation": "far off",
-      "metadata": {},
-      "gematria": {
-        "standard": 212,
-        "ordinal": 54,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3112",
+        "subMeaning": "distant",
+        "manuscriptType": "NKO",
+        "gloss": "long/distant"
+      },
+      "source": {
+        "raw": "Mat.8.30#03=NKO\tμακρὰν (makran)\tfar off\tG3112=ADV\tμακρός=long/distant\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tlejanamente\tdistant\t#03\tG3112\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "ἀπ᾽",
-      "lemma": [
+      "lemma": "ἀπό",
+      "morph": "robinson:PREP",
+      "strongs": [
         "G0575"
       ],
-      "morph": "robinson:PREP",
-      "strongs": "G0575",
       "translation": "from",
-      "metadata": {},
-      "gematria": {
-        "standard": 81,
-        "ordinal": 17,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0575",
+        "subMeaning": "from",
+        "manuscriptType": "NKO",
+        "gloss": "away from"
+      },
+      "source": {
+        "raw": "Mat.8.30#04=NKO\tἀπ᾽ (ap᾽)\tfrom\tG0575=PREP\tἀπό=away from\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tdesde\tfrom\t#04\tG0575\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "αὐτῶν",
-      "lemma": [
+      "lemma": "αὐτός",
+      "morph": "robinson:P-GPM",
+      "strongs": [
         "G0846"
       ],
-      "morph": "robinson:P-GPM",
-      "strongs": "G0846",
       "translation": "them",
-      "metadata": {},
-      "gematria": {
-        "standard": 1551,
-        "ordinal": 77,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0846",
+        "subMeaning": "of them",
+        "manuscriptType": "NKO",
+        "gloss": "he/she/it/self"
+      },
+      "source": {
+        "raw": "Mat.8.30#05=NKO\tαὐτῶν (autōn)\tthem\tG0846=P-GPM\tαὐτός=he/she/it/self\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tellos\tof them\t#05«04:G0575\tG0846\tG3778\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "ἀγέλη",
-      "lemma": [
+      "lemma": "ἀγέλη",
+      "morph": "robinson:N-NSF",
+      "strongs": [
         "G0034"
       ],
-      "morph": "robinson:N-NSF",
-      "strongs": "G0034",
       "translation": "a herd",
-      "metadata": {},
-      "gematria": {
-        "standard": 47,
-        "ordinal": 27,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0034",
+        "subMeaning": "herd",
+        "manuscriptType": "NKO",
+        "gloss": "herd"
+      },
+      "source": {
+        "raw": "Mat.8.30#06=NKO\tἀγέλη (agelē)\ta herd\tG0034=N-NSF\tἀγέλη=herd\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\trebaño\therd\t#06\tG0034\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "χοίρων",
-      "lemma": [
+      "lemma": "χοῖρος",
+      "morph": "robinson:N-GPM",
+      "strongs": [
         "G5519"
       ],
-      "morph": "robinson:N-GPM",
-      "strongs": "G5519",
       "translation": "of pigs",
-      "metadata": {},
-      "gematria": {
-        "standard": 1630,
-        "ordinal": 100,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5519",
+        "subMeaning": "pig",
+        "manuscriptType": "NKO",
+        "gloss": "pig"
+      },
+      "source": {
+        "raw": "Mat.8.30#07=NKO\tχοίρων (choirōn)\tof pigs\tG5519=N-GPM\tχοῖρος=pig\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tde cerdos\tpig\t#07\tG5519\t\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "πολλῶν",
-      "lemma": [
+      "lemma": "πολύς",
+      "morph": "robinson:A-GPM",
+      "strongs": [
         "G4183"
       ],
-      "morph": "robinson:A-GPM",
-      "strongs": "G4183",
       "translation": "many",
-      "metadata": {},
-      "gematria": {
-        "standard": 1060,
-        "ordinal": 90,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4183",
+        "subMeaning": "much",
+        "manuscriptType": "NKO",
+        "gloss": "much"
+      },
+      "source": {
+        "raw": "Mat.8.30#08=NKO\tπολλῶν (pollōn)\tmany\tG4183=A-GPM\tπολύς=much\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tmuchos\tmuch\t#08\tG4183\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "βοσκομένη.",
-      "lemma": [
+      "lemma": "βόσκω",
+      "morph": "robinson:V-PPP-NSF",
+      "strongs": [
         "G1006"
       ],
-      "morph": "robinson:V-PPP-NSF",
-      "strongs": "G1006",
       "translation": "feeding.",
-      "metadata": {},
-      "gematria": {
-        "standard": 465,
-        "ordinal": 97,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1006",
+        "subMeaning": "to feed",
+        "manuscriptType": "NKO",
+        "gloss": "to feed"
+      },
+      "source": {
+        "raw": "Mat.8.30#09=NKO\tβοσκομένη. (boskomenē)\tfeeding.\tG1006=V-PPP-NSF\tβόσκω=to feed\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testando siendo dado de pastar\tto feed\t#09\tG1006\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 5113,
-    "ordinal": 491,
-    "reduced": 46
-  }
+  ]
 }

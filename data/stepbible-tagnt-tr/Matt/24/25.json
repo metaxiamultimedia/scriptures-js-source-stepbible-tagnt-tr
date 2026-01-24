@@ -4,55 +4,62 @@
     {
       "position": 1,
       "text": "ἰδοὺ",
-      "lemma": [
+      "lemma": "ἰδού",
+      "morph": "robinson:INJ",
+      "strongs": [
         "G2400"
       ],
-      "morph": "robinson:INJ",
-      "strongs": "G2400",
       "translation": "Behold",
-      "metadata": {},
-      "gematria": {
-        "standard": 484,
-        "ordinal": 48,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2400",
+        "subMeaning": "look!",
+        "manuscriptType": "NKO",
+        "gloss": "look!"
+      },
+      "source": {
+        "raw": "Mat.24.25#01=NKO\tἰδοὺ (idou)\tBehold\tG2400=INJ\tἰδού=look!\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tMira\tlook!\t#01\tG2400\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "προείρηκα",
-      "lemma": [
+      "lemma": "προερέω",
+      "morph": "robinson:V-RAI-1S",
+      "strongs": [
         "G4280"
       ],
-      "morph": "robinson:V-RAI-1S",
-      "strongs": "G4280",
       "translation": "I have foretold [it]",
-      "metadata": {},
-      "gematria": {
-        "standard": 394,
-        "ordinal": 97,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4280",
+        "subMeaning": "to predict",
+        "manuscriptType": "NKO",
+        "gloss": "to predict"
+      },
+      "source": {
+        "raw": "Mat.24.25#02=NKO\tπροείρηκα (proeirēka)\tI have foretold [it]\tG4280=V-RAI-1S\tπροερέω=to predict\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\the predicho\tto predict\t#02\tG4280\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "ὑμῖν.",
-      "lemma": [
+      "lemma": "σύ",
+      "morph": "robinson:P-2DP",
+      "strongs": [
         "G4771"
       ],
-      "morph": "robinson:P-2DP",
-      "strongs": "G4771",
       "translation": "to you.",
-      "metadata": {},
-      "gematria": {
-        "standard": 500,
-        "ordinal": 54,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4771",
+        "subMeaning": "to you",
+        "manuscriptType": "NKO",
+        "gloss": "you"
+      },
+      "source": {
+        "raw": "Mat.24.25#03=NKO\tὑμῖν. (humin)\tto you.\tG4771=P-2DP\tσύ=you\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta ustedes\tto you\t#03«02:G4280\tG4771\tG5213\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1378,
-    "ordinal": 199,
-    "reduced": 19
-  }
+  ]
 }

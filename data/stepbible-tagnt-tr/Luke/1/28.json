@@ -4,279 +4,342 @@
     {
       "position": 1,
       "text": "Καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "And",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "Luk.1.28#01=NKO\tΚαὶ (Kai)\tAnd\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tY\tand\t#01\tG2532\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "εἰσελθὼν",
-      "lemma": [
+      "lemma": "εἰσέρχομαι",
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": [
         "G1525"
       ],
-      "morph": "robinson:V-2AAP-NSM",
-      "strongs": "G1525",
       "translation": "having come",
-      "metadata": {},
-      "gematria": {
-        "standard": 1109,
-        "ordinal": 93,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1525",
+        "subMeaning": "to enter",
+        "manuscriptType": "NKO",
+        "gloss": "to enter"
+      },
+      "source": {
+        "raw": "Luk.1.28#02=NKO\tεἰσελθὼν (eiselthōn)\thaving come\tG1525=V-2AAP-NSM\tεἰσέρχομαι=to enter\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\thabiendo venido hacia dentro\tto enter\t#02\tG1525\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "ὁ",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-NSM",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-NSM",
-      "strongs": "G3588",
       "translation": "<the>",
-      "metadata": {},
-      "gematria": {
-        "standard": 70,
-        "ordinal": 15,
-        "reduced": 7
+      "metadata": {
+        "editions": "Treg+TR+Byz",
+        "extendedStrongs": "G3588_a",
+        "subMeaning": "the",
+        "manuscriptType": "ko",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Luk.1.28#03=ko\tὁ (ho)\t<the>\tG3588=T-NSM\tὁ=the/this/who\tTreg+TR+Byz\t\t\tel\tthe\t#03»04:G0032\tG3588_a\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "ἄγγελος",
-      "lemma": [
+      "lemma": "ἄγγελος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
         "G0032G"
       ],
-      "morph": "robinson:N-NSM",
-      "strongs": "G0032G",
       "translation": "angel",
-      "metadata": {},
-      "gematria": {
-        "standard": 312,
-        "ordinal": 56,
-        "reduced": 6
+      "metadata": {
+        "editions": "Treg+TR+Byz",
+        "extendedStrongs": "G0032",
+        "subMeaning": ": angel»angel|2_angel",
+        "manuscriptType": "KO",
+        "gloss": "angel"
+      },
+      "source": {
+        "raw": "Luk.1.28#04=KO\tἄγγελος (angelos)\tangel\tG0032G=N-NSM\tἄγγελος=angel\tTreg+TR+Byz\t\t\tmensajero\t: angel»angel|2_angel\t#04\tG0032\t\t^ ἄγγελος  (<i>angelos</i>) 'angel' is only in traditional manuscripts (Treg+TR+Byz)\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "πρὸς",
-      "lemma": [
+      "lemma": "πρός",
+      "morph": "robinson:PREP",
+      "strongs": [
         "G4314"
       ],
-      "morph": "robinson:PREP",
-      "strongs": "G4314",
       "translation": "to",
-      "metadata": {},
-      "gematria": {
-        "standard": 450,
-        "ordinal": 66,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4314",
+        "subMeaning": "to",
+        "manuscriptType": "NKO",
+        "gloss": "to/with"
+      },
+      "source": {
+        "raw": "Luk.1.28#05=NKO\tπρὸς (pros)\tto\tG4314=PREP\tπρός=to/with\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\thacia\tto\t#05\tG4314\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "αὐτὴν",
-      "lemma": [
+      "lemma": "αὐτός",
+      "morph": "robinson:P-ASF",
+      "strongs": [
         "G0846"
       ],
-      "morph": "robinson:P-ASF",
-      "strongs": "G0846",
       "translation": "her",
-      "metadata": {},
-      "gematria": {
-        "standard": 759,
-        "ordinal": 60,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0846",
+        "subMeaning": "her",
+        "manuscriptType": "NKO",
+        "gloss": "he/she/it/self"
+      },
+      "source": {
+        "raw": "Luk.1.28#06=NKO\tαὐτὴν (autēn)\ther\tG0846=P-ASF\tαὐτός=he/she/it/self\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta ella\ther\t#06«05:G4314\tG0846\tG3778\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "εἶπεν·",
-      "lemma": [
+      "lemma": "ἔπω, ἐρῶ, εἶπον",
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": [
         "G2036"
       ],
-      "morph": "robinson:V-2AAI-3S",
-      "strongs": "G2036",
       "translation": "he said;",
-      "metadata": {},
-      "gematria": {
-        "standard": 150,
-        "ordinal": 48,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2036",
+        "subMeaning": "to say",
+        "manuscriptType": "NKO",
+        "gloss": "to say"
+      },
+      "source": {
+        "raw": "Luk.1.28#07=NKO\tεἶπεν· (eipen)\the said;\tG2036=V-2AAI-3S\tἔπω, ἐρῶ, εἶπον=to say\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tdijo\tto say\t#07\tG2036\t\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "χαῖρε,",
-      "lemma": [
+      "lemma": "χαίρω",
+      "morph": "robinson:V-PAM-2S",
+      "strongs": [
         "G5463"
       ],
-      "morph": "robinson:V-PAM-2S",
-      "strongs": "G5463",
       "translation": "Greetings!",
-      "metadata": {},
-      "gematria": {
-        "standard": 716,
-        "ordinal": 54,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5463",
+        "subMeaning": "to rejoice",
+        "manuscriptType": "NKO",
+        "gloss": "to rejoice"
+      },
+      "source": {
+        "raw": "Luk.1.28#08=NKO\tχαῖρε, (chaire)\tGreetings!\tG5463=V-PAM-2S\tχαίρω=to rejoice\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tEstés regocijando\tto rejoice\t#08\tG5463\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "κεχαριτωμένη·",
-      "lemma": [
+      "lemma": "χαριτόω",
+      "morph": "robinson:V-RPP-VSF",
+      "strongs": [
         "G5487"
       ],
-      "morph": "robinson:V-RPP-VSF",
-      "strongs": "G5487",
       "translation": "you graciously favored;",
-      "metadata": {},
-      "gematria": {
-        "standard": 1939,
-        "ordinal": 144,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5487",
+        "subMeaning": "favored",
+        "manuscriptType": "NKO",
+        "gloss": "to favor"
+      },
+      "source": {
+        "raw": "Luk.1.28#09=NKO\tκεχαριτωμένη· (kecharitōmenē)\tyou graciously favored;\tG5487=V-RPP-VSF\tχαριτόω=to favor\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\thas sido muy favorecida\tfavored\t#09\tG5487\t\t\t\t\t"
       }
     },
     {
       "position": 10,
       "text": "ὁ",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-NSM",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-NSM",
-      "strongs": "G3588",
       "translation": "The",
-      "metadata": {},
-      "gematria": {
-        "standard": 70,
-        "ordinal": 15,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588_B",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Luk.1.28#10=NKO\tὁ (ho)\tThe\tG3588=T-NSM\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tel\tthe\t#10»11:G2962\tG3588_B\t\t\t\t\t"
       }
     },
     {
       "position": 11,
       "text": "κύριος",
-      "lemma": [
+      "lemma": "κύριος",
+      "morph": "robinson:N-NSM-T",
+      "strongs": [
         "G2962G"
       ],
-      "morph": "robinson:N-NSM-T",
-      "strongs": "G2962G",
       "translation": "Lord [is]",
-      "metadata": {},
-      "gematria": {
-        "standard": 800,
-        "ordinal": 89,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2962",
+        "subMeaning": ": God»lord|1_God",
+        "manuscriptType": "NKO",
+        "gloss": "lord"
+      },
+      "source": {
+        "raw": "Luk.1.28#11=NKO\tκύριος (kurios)\tLord [is]\tG2962G=N-NSM-T\tκύριος=lord\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tSeñor\t: God»lord|1_God\t#11\tG2962\t\t\t\t\t"
       }
     },
     {
       "position": 12,
       "text": "μετὰ",
-      "lemma": [
+      "lemma": "μετά",
+      "morph": "robinson:PREP",
+      "strongs": [
         "G3326"
       ],
-      "morph": "robinson:PREP",
-      "strongs": "G3326",
       "translation": "with",
-      "metadata": {},
-      "gematria": {
-        "standard": 346,
-        "ordinal": 37,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3326",
+        "subMeaning": "with",
+        "manuscriptType": "NKO",
+        "gloss": "with/after"
+      },
+      "source": {
+        "raw": "Luk.1.28#12=NKO\tμετὰ (meta)\twith\tG3326=PREP\tμετά=with/after\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tcon\twith\t#12\tG3326\t\t\t\t\t"
       }
     },
     {
       "position": 13,
       "text": "σοῦ",
-      "lemma": [
+      "lemma": "σύ",
+      "morph": "robinson:P-2GS",
+      "strongs": [
         "G4771"
       ],
-      "morph": "robinson:P-2GS",
-      "strongs": "G4771",
       "translation": "you.",
-      "metadata": {},
-      "gematria": {
-        "standard": 670,
-        "ordinal": 53,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4771_A",
+        "subMeaning": "of you",
+        "manuscriptType": "NKO",
+        "gloss": "you"
+      },
+      "source": {
+        "raw": "Luk.1.28#13=NKO\tσοῦ (sou)\tyou.\tG4771=P-2GS\tσύ=you\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tde ti\tof you\t#13«12:G3326\tG4771_A\tG4675\t\t\t\t"
       }
     },
     {
       "position": 14,
       "text": "εὐλογημένη",
-      "lemma": [
+      "lemma": "εὐλογέω",
+      "morph": "robinson:V-RPP-NSF",
+      "strongs": [
         "G2127"
       ],
-      "morph": "robinson:V-RPP-NSF",
-      "strongs": "G2127",
       "translation": "blessed [are]",
-      "metadata": {},
-      "gematria": {
-        "standard": 619,
-        "ordinal": 98,
-        "reduced": 7
+      "metadata": {
+        "editions": "Treg+TR+Byz",
+        "extendedStrongs": "G2127",
+        "subMeaning": "to bless",
+        "manuscriptType": "KO",
+        "gloss": "to praise/bless"
+      },
+      "source": {
+        "raw": "Luk.1.28#14=KO\tεὐλογημένη (eulogēmenē)\tblessed [are]\tG2127=V-RPP-NSF\tεὐλογέω=to praise/bless\tTreg+TR+Byz\t\t\tha sido bendecida\tto bless\t#14\tG2127\t\t^ \t\t\t"
       }
     },
     {
       "position": 15,
       "text": "σὺ",
-      "lemma": [
+      "lemma": "σύ",
+      "morph": "robinson:P-2NS",
+      "strongs": [
         "G4771"
       ],
-      "morph": "robinson:P-2NS",
-      "strongs": "G4771",
       "translation": "you yourself",
-      "metadata": {},
-      "gematria": {
-        "standard": 600,
-        "ordinal": 38,
-        "reduced": 6
+      "metadata": {
+        "editions": "Treg+TR+Byz",
+        "extendedStrongs": "G4771_b",
+        "subMeaning": "you",
+        "manuscriptType": "KO",
+        "gloss": "you"
+      },
+      "source": {
+        "raw": "Luk.1.28#15=KO\tσὺ (su)\tyou yourself\tG4771=P-2NS\tσύ=you\tTreg+TR+Byz\t\t\ttú\tyou\t#15«14:G2127\tG4771_b\t\t^ \t\t\t"
       }
     },
     {
       "position": 16,
       "text": "ἐν",
-      "lemma": [
+      "lemma": "ἐν",
+      "morph": "robinson:PREP",
+      "strongs": [
         "G1722"
       ],
-      "morph": "robinson:PREP",
-      "strongs": "G1722",
       "translation": "among",
-      "metadata": {},
-      "gematria": {
-        "standard": 55,
-        "ordinal": 18,
-        "reduced": 1
+      "metadata": {
+        "editions": "Treg+TR+Byz",
+        "extendedStrongs": "G1722",
+        "subMeaning": "in",
+        "manuscriptType": "KO",
+        "gloss": "in/on/among"
+      },
+      "source": {
+        "raw": "Luk.1.28#16=KO\tἐν (en)\tamong\tG1722=PREP\tἐν=in/on/among\tTreg+TR+Byz\t\t\ten\tin\t#16\tG1722\t\t^ \t\t\t"
       }
     },
     {
       "position": 17,
       "text": "γυναιξίν.",
-      "lemma": [
+      "lemma": "γυνή",
+      "morph": "robinson:N-DPF",
+      "strongs": [
         "G1135G"
       ],
-      "morph": "robinson:N-DPF",
-      "strongs": "G1135G",
       "translation": "women.",
-      "metadata": {},
-      "gematria": {
-        "standard": 584,
-        "ordinal": 82,
-        "reduced": 8
+      "metadata": {
+        "editions": "Treg+TR+Byz",
+        "extendedStrongs": "G1135",
+        "subMeaning": ": woman»woman|1_woman",
+        "manuscriptType": "KO",
+        "gloss": "woman"
+      },
+      "source": {
+        "raw": "Luk.1.28#17=KO\tγυναιξίν. (gunaixin)\twomen.\tG1135G=N-DPF\tγυνή=woman\tTreg+TR+Byz\t\t\tmujeres\t: woman»woman|1_woman\t#17\tG1135\t\t^ εὐλογημένη   σὺ    ἐν    γυναιξίν.   (<i>eulogēmenē su en gunaixin</i>) 'blessed [are] you yourself among women.' is only in traditional manuscripts (Treg+TR+Byz)\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 9280,
-    "ordinal": 986,
-    "reduced": 91
-  }
+  ]
 }

@@ -4,151 +4,183 @@
     {
       "position": 1,
       "text": "καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "And",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "Mrk.6.54#01=NKO\tκαὶ (kai)\tAnd\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tY\tand\t#01\tG2532\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "ἐξελθόντων",
-      "lemma": [
+      "lemma": "ἐξέρχομαι",
+      "morph": "robinson:V-2AAP-GPM",
+      "strongs": [
         "G1831"
       ],
-      "morph": "robinson:V-2AAP-GPM",
-      "strongs": "G1831",
       "translation": "when were exiting",
-      "metadata": {},
-      "gematria": {
-        "standard": 1379,
-        "ordinal": 127,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1831",
+        "subMeaning": "to go out",
+        "manuscriptType": "NKO",
+        "gloss": "to go out"
+      },
+      "source": {
+        "raw": "Mrk.6.54#02=NKO\tἐξελθόντων (exelthontōn)\twhen were exiting\tG1831=V-2AAP-GPM\tἐξέρχομαι=to go out\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\thabiendo salido\tto go out\t#02\tG1831\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "αὐτῶν",
-      "lemma": [
+      "lemma": "αὐτός",
+      "morph": "robinson:P-GPM",
+      "strongs": [
         "G0846"
       ],
-      "morph": "robinson:P-GPM",
-      "strongs": "G0846",
       "translation": "they",
-      "metadata": {},
-      "gematria": {
-        "standard": 1551,
-        "ordinal": 77,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0846_A",
+        "subMeaning": "of them",
+        "manuscriptType": "NKO",
+        "gloss": "he/she/it/self"
+      },
+      "source": {
+        "raw": "Mrk.6.54#03=NKO\tαὐτῶν (autōn)\tthey\tG0846=P-GPM\tαὐτός=he/she/it/self\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tellos\tof them\t#03«02:G1831\tG0846_A\tG3778\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "ἐκ",
-      "lemma": [
+      "lemma": "ἐκ",
+      "morph": "robinson:PREP",
+      "strongs": [
         "G1537"
       ],
-      "morph": "robinson:PREP",
-      "strongs": "G1537",
       "translation": "out of",
-      "metadata": {},
-      "gematria": {
-        "standard": 25,
-        "ordinal": 15,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1537",
+        "subMeaning": "of",
+        "manuscriptType": "NKO",
+        "gloss": "out from"
+      },
+      "source": {
+        "raw": "Mrk.6.54#04=NKO\tἐκ (ek)\tout of\tG1537=PREP\tἐκ=out from\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\thacia fuera de\tof\t#04\tG1537\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "τοῦ",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-GSN",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-GSN",
-      "strongs": "G3588",
       "translation": "the",
-      "metadata": {},
-      "gematria": {
-        "standard": 770,
-        "ordinal": 54,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Mrk.6.54#05=NKO\tτοῦ (tou)\tthe\tG3588=T-GSN\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tla\tthe\t#05»06:G4143\tG3588\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "πλοίου",
-      "lemma": [
+      "lemma": "πλοῖον",
+      "morph": "robinson:N-GSN",
+      "strongs": [
         "G4143"
       ],
-      "morph": "robinson:N-GSN",
-      "strongs": "G4143",
       "translation": "boat",
-      "metadata": {},
-      "gematria": {
-        "standard": 660,
-        "ordinal": 86,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4143",
+        "subMeaning": "boat",
+        "manuscriptType": "NKO",
+        "gloss": "boat"
+      },
+      "source": {
+        "raw": "Mrk.6.54#06=NKO\tπλοίου (ploiou)\tboat\tG4143=N-GSN\tπλοῖον=boat\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tbarca\tboat\t#06\tG4143\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "εὐθὺς",
-      "lemma": [
+      "lemma": "εὐθέως",
+      "morph": "robinson:ADV",
+      "strongs": [
         "G2112"
       ],
-      "morph": "robinson:ADV",
-      "strongs": "G2112",
       "translation": "immediately",
-      "metadata": {},
-      "gematria": {
-        "standard": 1014,
-        "ordinal": 71,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2112",
+        "subMeaning": "immediately",
+        "variants": "TR+Byz: εὐθέως ;",
+        "manuscriptType": "NKO",
+        "gloss": "immediately"
+      },
+      "source": {
+        "raw": "Mrk.6.54#07=NKO\tεὐθὺς (euthus)\timmediately\tG2112=ADV\tεὐθέως=immediately\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\tTR+Byz: εὐθέως ; \tinmediatamente\timmediately\t#07\tG2112\t\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "ἐπιγνόντες",
-      "lemma": [
+      "lemma": "ἐπιγινώσκω",
+      "morph": "robinson:V-2AAP-NPM",
+      "strongs": [
         "G1921"
       ],
-      "morph": "robinson:V-2AAP-NPM",
-      "strongs": "G1921",
       "translation": "having recognized",
-      "metadata": {},
-      "gematria": {
-        "standard": 773,
-        "ordinal": 116,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1921",
+        "subMeaning": "to come to know",
+        "manuscriptType": "NKO",
+        "gloss": "to come to know"
+      },
+      "source": {
+        "raw": "Mrk.6.54#08=NKO\tἐπιγνόντες (epignontes)\thaving recognized\tG1921=V-2AAP-NPM\tἐπιγινώσκω=to come to know \tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\thabiendo reconocido\tto come to know\t#08\tG1921\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "αὐτὸν",
-      "lemma": [
+      "lemma": "αὐτός",
+      "morph": "robinson:P-ASM",
+      "strongs": [
         "G0846"
       ],
-      "morph": "robinson:P-ASM",
-      "strongs": "G0846",
       "translation": "Him",
-      "metadata": {},
-      "gematria": {
-        "standard": 821,
-        "ordinal": 68,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0846_B",
+        "subMeaning": "him",
+        "manuscriptType": "NKO",
+        "gloss": "he/she/it/self"
+      },
+      "source": {
+        "raw": "Mrk.6.54#09=NKO\tαὐτὸν (auton)\tHim\tG0846=P-ASM\tαὐτός=he/she/it/self\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta él\thim\t#09«08:G1921\tG0846_B\tG3778\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 7024,
-    "ordinal": 634,
-    "reduced": 40
-  }
+  ]
 }

@@ -4,87 +4,103 @@
     {
       "position": 1,
       "text": "εἰ",
-      "lemma": [
+      "lemma": "εἰ",
+      "morph": "robinson:COND",
+      "strongs": [
         "G1487G"
       ],
-      "morph": "robinson:COND",
-      "strongs": "G1487G",
       "translation": "If",
-      "metadata": {},
-      "gematria": {
-        "standard": 15,
-        "ordinal": 14,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1487",
+        "subMeaning": ": if»if|1_if/whether",
+        "manuscriptType": "NKO",
+        "gloss": "if"
+      },
+      "source": {
+        "raw": "1Co.14.38#01=NKO\tεἰ (ei)\tIf\tG1487G=COND\tεἰ=if\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tSi\t: if»if|1_if/whether\t#01\tG1487\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "δέ",
-      "lemma": [
+      "lemma": "δέ",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G1161"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G1161",
       "translation": "however",
-      "metadata": {},
-      "gematria": {
-        "standard": 9,
-        "ordinal": 9,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1161",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "but/and"
+      },
+      "source": {
+        "raw": "1Co.14.38#02=NKO\tδέ (de)\thowever\tG1161=CONJ\tδέ=but/and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tpero\tand\t#02\tG1161\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "τις",
-      "lemma": [
+      "lemma": "τις",
+      "morph": "robinson:X-NSM",
+      "strongs": [
         "G5100"
       ],
-      "morph": "robinson:X-NSM",
-      "strongs": "G5100",
       "translation": "anyone",
-      "metadata": {},
-      "gematria": {
-        "standard": 510,
-        "ordinal": 46,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5100",
+        "subMeaning": "one",
+        "manuscriptType": "NKO",
+        "gloss": "one"
+      },
+      "source": {
+        "raw": "1Co.14.38#03=NKO\tτις (tis)\tanyone\tG5100=X-NSM\tτις=one\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\talguien\tone\t#03»04:G0050\tG5100\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "ἀγνοεῖ,",
-      "lemma": [
+      "lemma": "ἀγνοέω",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
         "G0050"
       ],
-      "morph": "robinson:V-PAI-3S",
-      "strongs": "G0050",
       "translation": "is ignorant,",
-      "metadata": {},
-      "gematria": {
-        "standard": 139,
-        "ordinal": 46,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0050_A",
+        "subMeaning": "be ignorant",
+        "manuscriptType": "NKO",
+        "gloss": "be ignorant"
+      },
+      "source": {
+        "raw": "1Co.14.38#04=NKO\tἀγνοεῖ, (agnoei)\tis ignorant,\tG0050=V-PAI-3S\tἀγνοέω=be ignorant\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testá siendo ignorante\tbe ignorant\t#04\tG0050_A\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "ἀγνοεῖται.",
-      "lemma": [
+      "lemma": "ἀγνοέω",
+      "morph": "robinson:V-PPI-3S",
+      "strongs": [
         "G0050"
       ],
-      "morph": "robinson:V-PPI-3S",
-      "strongs": "G0050",
       "translation": "him is ignored.",
-      "metadata": {},
-      "gematria": {
-        "standard": 450,
-        "ordinal": 75,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH",
+        "extendedStrongs": "G0050_B",
+        "subMeaning": "be ignorant",
+        "variants": "ἀγνοείτω (t=agnoeitō) he should be ignored - G0050=V-PAM-3S in: Treg+TR+Byz",
+        "manuscriptType": "N(k)O",
+        "gloss": "be ignorant"
+      },
+      "source": {
+        "raw": "1Co.14.38#05=N(k)O\tἀγνοεῖται.¶ (agnoeitai)\thim is ignored.\tG0050=V-PPI-3S\tἀγνοέω=be ignorant\tNA28+NA27+Tyn+SBL+WH\tἀγνοείτω (t=agnoeitō) he should be ignored - G0050=V-PAM-3S in: Treg+TR+Byz\t\testá siendo hecho ignorante\tbe ignorant\t#05\tG0050_B\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1123,
-    "ordinal": 190,
-    "reduced": 34
-  }
+  ]
 }

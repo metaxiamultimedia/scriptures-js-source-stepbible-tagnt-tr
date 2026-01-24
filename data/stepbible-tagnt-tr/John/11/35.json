@@ -4,55 +4,62 @@
     {
       "position": 1,
       "text": "ἐδάκρυσεν",
-      "lemma": [
+      "lemma": "δακρύω",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
         "G1145"
       ],
-      "morph": "robinson:V-AAI-3S",
-      "strongs": "G1145",
       "translation": "Wept",
-      "metadata": {},
-      "gematria": {
-        "standard": 785,
-        "ordinal": 93,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1145",
+        "subMeaning": "to weep",
+        "manuscriptType": "NKO",
+        "gloss": "to weep"
+      },
+      "source": {
+        "raw": "Jhn.11.35#01=NKO\tἐδάκρυσεν (edakrusen)\tWept\tG1145=V-AAI-3S\tδακρύω=to weep\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tDerramó lágrimas\tto weep\t#01\tG1145\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "ὁ",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-NSM",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-NSM",
-      "strongs": "G3588",
       "translation": "<the>",
-      "metadata": {},
-      "gematria": {
-        "standard": 70,
-        "ordinal": 15,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Jhn.11.35#02=NKO\tὁ (ho)\t<the>\tG3588=T-NSM\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tel\tthe\t#02»03:G2424\tG3588\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "Ἰησοῦς.",
-      "lemma": [
+      "lemma": "Ἰησοῦς",
+      "morph": "robinson:N-NSM-P",
+      "strongs": [
         "G2424G"
       ],
-      "morph": "robinson:N-NSM-P",
-      "strongs": "G2424G",
       "translation": "Jesus.",
-      "metadata": {},
-      "gematria": {
-        "standard": 888,
-        "ordinal": 87,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2424",
+        "subMeaning": "Jesus»Jesus|Jesus@Mat.1.1",
+        "manuscriptType": "NKO",
+        "gloss": "Jesus/Joshua"
+      },
+      "source": {
+        "raw": "Jhn.11.35#03=NKO\tἸησοῦς. (Iēsous)\tJesus.\tG2424G=N-NSM-P\tἸησοῦς=Jesus/Joshua\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tJesús\tJesus»Jesus|Jesus@Mat.1.1\t#03\tG2424\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 1743,
-    "ordinal": 195,
-    "reduced": 15
-  }
+  ]
 }

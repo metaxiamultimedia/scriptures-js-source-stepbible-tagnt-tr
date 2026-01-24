@@ -4,135 +4,162 @@
     {
       "position": 1,
       "text": "ἐξῆλθεν",
-      "lemma": [
+      "lemma": "ἐξέρχομαι",
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": [
         "G1831"
       ],
-      "morph": "robinson:V-2AAI-3S",
-      "strongs": "G1831",
       "translation": "He went forth",
-      "metadata": {},
-      "gematria": {
-        "standard": 167,
-        "ordinal": 63,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1831",
+        "subMeaning": "to go out",
+        "manuscriptType": "NKO",
+        "gloss": "to go out"
+      },
+      "source": {
+        "raw": "Act.11.25#01=NKO\tἐξῆλθεν (exēlthen)\tHe went forth\tG1831=V-2AAI-3S\tἐξέρχομαι=to go out\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tvino hacia fuera\tto go out\t#01\tG1831\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "δὲ",
-      "lemma": [
+      "lemma": "δέ",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G1161"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G1161",
       "translation": "then",
-      "metadata": {},
-      "gematria": {
-        "standard": 9,
-        "ordinal": 9,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1161",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "but/and"
+      },
+      "source": {
+        "raw": "Act.11.25#02=NKO\tδὲ (de)\tthen\tG1161=CONJ\tδέ=but/and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tpero\tand\t#02\tG1161\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "εἰς",
-      "lemma": [
+      "lemma": "εἰς",
+      "morph": "robinson:PREP",
+      "strongs": [
         "G1519"
       ],
-      "morph": "robinson:PREP",
-      "strongs": "G1519",
       "translation": "to",
-      "metadata": {},
-      "gematria": {
-        "standard": 215,
-        "ordinal": 32,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1519",
+        "subMeaning": "toward",
+        "manuscriptType": "NKO",
+        "gloss": "toward"
+      },
+      "source": {
+        "raw": "Act.11.25#03=NKO\tεἰς (eis)\tto\tG1519=PREP\tεἰς=toward\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\thacia dentro\ttoward\t#03\tG1519\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "Ταρσὸν",
-      "lemma": [
+      "lemma": "Ταρσός",
+      "morph": "robinson:N-ASF-L",
+      "strongs": [
         "G5019"
       ],
-      "morph": "robinson:N-ASF-L",
-      "strongs": "G5019",
       "translation": "Tarsus",
-      "metadata": {},
-      "gematria": {
-        "standard": 721,
-        "ordinal": 83,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5019",
+        "subMeaning": "Tarsus»Tarsus|Tarsus@Act.9.11-",
+        "manuscriptType": "NKO",
+        "gloss": "Tarsus"
+      },
+      "source": {
+        "raw": "Act.11.25#04=NKO\tΤαρσὸν (Tarson)\tTarsus\tG5019=N-ASF-L\tΤαρσός=Tarsus\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tTarso\tTarsus»Tarsus|Tarsus@Act.9.11-\t#04\tG5019\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "ὁ",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-NSM",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-NSM",
-      "strongs": "G3588",
       "translation": "<the>",
-      "metadata": {},
-      "gematria": {
-        "standard": 70,
-        "ordinal": 15,
-        "reduced": 7
+      "metadata": {
+        "editions": "TR+Byz",
+        "extendedStrongs": "G3588",
+        "subMeaning": "the",
+        "manuscriptType": "k",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Act.11.25#05=k\tὁ (ho)\t<the>\tG3588=T-NSM\tὁ=the/this/who\tTR+Byz\t\t\tel\tthe\t#05»06:G0921\tG3588\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "Βαρνάβας",
-      "lemma": [
+      "lemma": "Βαρνάβας",
+      "morph": "robinson:N-NSM-P",
+      "strongs": [
         "G0921G"
       ],
-      "morph": "robinson:N-NSM-P",
-      "strongs": "G0921G",
       "translation": "Barnabas",
-      "metadata": {},
-      "gematria": {
-        "standard": 357,
-        "ordinal": 55,
-        "reduced": 6
+      "metadata": {
+        "editions": "TR+Byz",
+        "extendedStrongs": "G0921",
+        "subMeaning": "Barnabas»Barnabas|Barnabas@Act.4.36",
+        "manuscriptType": "K",
+        "gloss": "Barnabas"
+      },
+      "source": {
+        "raw": "Act.11.25#06=K\tΒαρνάβας (Barnabas)\tBarnabas\tG0921G=N-NSM-P\tΒαρνάβας=Barnabas\tTR+Byz\t\t\tBernabé\tBarnabas»Barnabas|Barnabas@Act.4.36\t#06\tG0921\t\t^ Βαρνάβας  (<i>Barnabas</i>) 'Barnabas' is only in traditional manuscripts (TR+Byz)\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "ἀναζητῆσαι",
-      "lemma": [
+      "lemma": "ἀναζητέω",
+      "morph": "robinson:V-AAN",
+      "strongs": [
         "G0327"
       ],
-      "morph": "robinson:V-AAN",
-      "strongs": "G0327",
       "translation": "to seek",
-      "metadata": {},
-      "gematria": {
-        "standard": 586,
-        "ordinal": 82,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0327",
+        "subMeaning": "to search",
+        "manuscriptType": "NKO",
+        "gloss": "to search"
+      },
+      "source": {
+        "raw": "Act.11.25#07=NKO\tἀναζητῆσαι (anazētēsai)\tto seek\tG0327=V-AAN\tἀναζητέω=to search\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta buscar\tto search\t#07\tG0327\t\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "Σαῦλον,",
-      "lemma": [
+      "lemma": "Σαῦλος",
+      "morph": "robinson:N-ASM-P",
+      "strongs": [
         "G4569G"
       ],
-      "morph": "robinson:N-ASM-P",
-      "strongs": "G4569G",
       "translation": "Saul,",
-      "metadata": {},
-      "gematria": {
-        "standard": 751,
-        "ordinal": 78,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4569",
+        "subMeaning": "Saul»Saul|Paul@Act.7.58",
+        "manuscriptType": "NKO",
+        "gloss": "Saul"
+      },
+      "source": {
+        "raw": "Act.11.25#08=NKO\tΣαῦλον, (Saulon)\tSaul,\tG4569G=N-ASM-P\tΣαῦλος=Saul\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta Saulo\tSaul»Saul|Paul@Act.7.58\t#08\tG4569\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 2876,
-    "ordinal": 417,
-    "reduced": 41
-  }
+  ]
 }

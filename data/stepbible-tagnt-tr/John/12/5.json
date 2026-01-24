@@ -4,199 +4,242 @@
     {
       "position": 1,
       "text": "διὰ",
-      "lemma": [
+      "lemma": "διά",
+      "morph": "robinson:PREP",
+      "strongs": [
         "G1223"
       ],
-      "morph": "robinson:PREP",
-      "strongs": "G1223",
       "translation": "Because of",
-      "metadata": {},
-      "gematria": {
-        "standard": 15,
-        "ordinal": 14,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1223",
+        "subMeaning": "because of",
+        "manuscriptType": "NKO",
+        "gloss": "through/because of"
+      },
+      "source": {
+        "raw": "Jhn.12.5#01=NKO\tδιὰ (dia)\tBecause of\tG1223=PREP\tδιά=through/because of\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\t¿Por\tbecause of\t#01\tG1223\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "τί",
-      "lemma": [
+      "lemma": "τίς",
+      "morph": "robinson:I-ASN",
+      "strongs": [
         "G5101"
       ],
-      "morph": "robinson:I-ASN",
-      "strongs": "G5101",
       "translation": "why",
-      "metadata": {},
-      "gematria": {
-        "standard": 310,
-        "ordinal": 28,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5101",
+        "subMeaning": "which?",
+        "manuscriptType": "NKO",
+        "gloss": "which?"
+      },
+      "source": {
+        "raw": "Jhn.12.5#02=NKO\tτί (ti)\twhy\tG5101=I-ASN\tτίς=which?\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tqué\twhich?\t#02«01:G1223\tG5101\tG1302\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "τοῦτο",
-      "lemma": [
+      "lemma": "οὗτος",
+      "morph": "robinson:D-NSN",
+      "strongs": [
         "G3778"
       ],
-      "morph": "robinson:D-NSN",
-      "strongs": "G3778",
       "translation": "this",
-      "metadata": {},
-      "gematria": {
-        "standard": 1140,
-        "ordinal": 88,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3778",
+        "subMeaning": "this",
+        "manuscriptType": "NKO",
+        "gloss": "this/he/she/it"
+      },
+      "source": {
+        "raw": "Jhn.12.5#03=NKO\tτοῦτο (touto)\tthis\tG3778=D-NSN\tοὗτος=this/he/she/it\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testo\tthis\t#03»07:G4097\tG3778\tG5124\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "τὸ",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-NSN",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-NSN",
-      "strongs": "G3588",
       "translation": "<the>",
-      "metadata": {},
-      "gematria": {
-        "standard": 370,
-        "ordinal": 34,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Jhn.12.5#04=NKO\tτὸ (to)\t<the>\tG3588=T-NSN\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tel\tthe\t#04»05:G3464\tG3588\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "μύρον",
-      "lemma": [
+      "lemma": "μύρον",
+      "morph": "robinson:N-NSN",
+      "strongs": [
         "G3464"
       ],
-      "morph": "robinson:N-NSN",
-      "strongs": "G3464",
       "translation": "fragrant oil",
-      "metadata": {},
-      "gematria": {
-        "standard": 660,
-        "ordinal": 77,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3464",
+        "subMeaning": "ointment",
+        "manuscriptType": "NKO",
+        "gloss": "ointment"
+      },
+      "source": {
+        "raw": "Jhn.12.5#05=NKO\tμύρον (muron)\tfragrant oil\tG3464=N-NSN\tμύρον=ointment\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\taceite perfumado\tointment\t#05\tG3464\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "οὐκ",
-      "lemma": [
+      "lemma": "οὐ",
+      "morph": "robinson:PRT-N",
+      "strongs": [
         "G3756"
       ],
-      "morph": "robinson:PRT-N",
-      "strongs": "G3756",
       "translation": "not",
-      "metadata": {},
-      "gematria": {
-        "standard": 490,
-        "ordinal": 45,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3756",
+        "subMeaning": "no",
+        "manuscriptType": "NKO",
+        "gloss": "no"
+      },
+      "source": {
+        "raw": "Jhn.12.5#06=NKO\tοὐκ (ouk)\tnot\tG3756=PRT-N\tοὐ=no\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tno\tno\t#06»07:G4097\tG3756\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "ἐπράθη",
-      "lemma": [
+      "lemma": "πιπράσκω",
+      "morph": "robinson:V-API-3S",
+      "strongs": [
         "G4097"
       ],
-      "morph": "robinson:V-API-3S",
-      "strongs": "G4097",
       "translation": "was sold",
-      "metadata": {},
-      "gematria": {
-        "standard": 203,
-        "ordinal": 54,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4097",
+        "subMeaning": "to sell",
+        "manuscriptType": "NKO",
+        "gloss": "to sell"
+      },
+      "source": {
+        "raw": "Jhn.12.5#07=NKO\tἐπράθη (eprathē)\twas sold\tG4097=V-API-3S\tπιπράσκω=to sell\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tfue vendido\tto sell\t#07\tG4097\t\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "τριακοσίων",
-      "lemma": [
+      "lemma": "τριακόσιοι",
+      "morph": "robinson:A-GPN",
+      "strongs": [
         "G5145"
       ],
-      "morph": "robinson:A-GPN",
-      "strongs": "G5145",
       "translation": "for three hundred",
-      "metadata": {},
-      "gematria": {
-        "standard": 1561,
-        "ordinal": 135,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5145",
+        "subMeaning": "three hundred",
+        "manuscriptType": "NKO",
+        "gloss": "three hundred"
+      },
+      "source": {
+        "raw": "Jhn.12.5#08=NKO\tτριακοσίων (triakosiōn)\tfor three hundred\tG5145=A-GPN\tτριακόσιοι=three hundred\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tde trescientos\tthree hundred\t#08\tG5145\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "δηναρίων",
-      "lemma": [
+      "lemma": "δηνάριον",
+      "morph": "robinson:N-GPN",
+      "strongs": [
         "G1220"
       ],
-      "morph": "robinson:N-GPN",
-      "strongs": "G1220",
       "translation": "denarii",
-      "metadata": {},
-      "gematria": {
-        "standard": 1023,
-        "ordinal": 88,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1220",
+        "subMeaning": "denarius",
+        "manuscriptType": "NKO",
+        "gloss": "denarius"
+      },
+      "source": {
+        "raw": "Jhn.12.5#09=NKO\tδηναρίων (dēnariōn)\tdenarii\tG1220=N-GPN\tδηνάριον=denarius\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tdenarios\tdenarius\t#09\tG1220\t\t\t\t\t"
       }
     },
     {
       "position": 10,
       "text": "καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "and",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "Jhn.12.5#10=NKO\tκαὶ (kai)\tand\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ty\tand\t#10\tG2532\t\t\t\t\t"
       }
     },
     {
       "position": 11,
       "text": "ἐδόθη",
-      "lemma": [
+      "lemma": "δίδωμι",
+      "morph": "robinson:V-API-3S",
+      "strongs": [
         "G1325"
       ],
-      "morph": "robinson:V-API-3S",
-      "strongs": "G1325",
       "translation": "given",
-      "metadata": {},
-      "gematria": {
-        "standard": 96,
-        "ordinal": 39,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1325",
+        "subMeaning": "to give",
+        "manuscriptType": "NKO",
+        "gloss": "to give"
+      },
+      "source": {
+        "raw": "Jhn.12.5#11=NKO\tἐδόθη (edothē)\tgiven\tG1325=V-API-3S\tδίδωμι=to give\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tfue dado\tto give\t#11\tG1325\t\t\t\t\t"
       }
     },
     {
       "position": 12,
       "text": "πτωχοῖς;",
-      "lemma": [
+      "lemma": "πτωχός",
+      "morph": "robinson:N-DPM",
+      "strongs": [
         "G4434"
       ],
-      "morph": "robinson:N-DPM",
-      "strongs": "G4434",
       "translation": "to [the] poor?",
-      "metadata": {},
-      "gematria": {
-        "standard": 2060,
-        "ordinal": 123,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4434",
+        "subMeaning": "poor",
+        "manuscriptType": "NKO",
+        "gloss": "poor"
+      },
+      "source": {
+        "raw": "Jhn.12.5#12=NKO\tπτωχοῖς; (ptōchois)\tto [the] poor?\tG4434=N-DPM\tπτωχός=poor\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta pobres?\tpoor\t#12\tG4434\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 7959,
-    "ordinal": 745,
-    "reduced": 57
-  }
+  ]
 }

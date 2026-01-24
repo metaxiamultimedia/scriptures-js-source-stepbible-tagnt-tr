@@ -4,151 +4,183 @@
     {
       "position": 1,
       "text": "καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "and",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532_A",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "Rev.12.2#01=NKO\tκαὶ (kai)\tand\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tY\tand\t#01\tG2532_A\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "ἐν",
-      "lemma": [
+      "lemma": "ἐν",
+      "morph": "robinson:PREP",
+      "strongs": [
         "G1722"
       ],
-      "morph": "robinson:PREP",
-      "strongs": "G1722",
       "translation": "in",
-      "metadata": {},
-      "gematria": {
-        "standard": 55,
-        "ordinal": 18,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1722",
+        "subMeaning": "in",
+        "manuscriptType": "NKO",
+        "gloss": "in/on/among"
+      },
+      "source": {
+        "raw": "Rev.12.2#02=NKO\tἐν (en)\tin\tG1722=PREP\tἐν=in/on/among\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ten\tin\t#02\tG1722\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "γαστρὶ",
-      "lemma": [
+      "lemma": "γαστήρ",
+      "morph": "robinson:N-DSF",
+      "strongs": [
         "G1064"
       ],
-      "morph": "robinson:N-DSF",
-      "strongs": "G1064",
       "translation": "womb",
-      "metadata": {},
-      "gematria": {
-        "standard": 614,
-        "ordinal": 67,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1064",
+        "subMeaning": "belly",
+        "manuscriptType": "NKO",
+        "gloss": "belly"
+      },
+      "source": {
+        "raw": "Rev.12.2#03=NKO\tγαστρὶ (gastri)\twomb\tG1064=N-DSF\tγαστήρ=belly\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tvientre\tbelly\t#03\tG1064\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "ἔχουσα,",
-      "lemma": [
+      "lemma": "ἔχω",
+      "morph": "robinson:V-PAP-NSF",
+      "strongs": [
         "G2192"
       ],
-      "morph": "robinson:V-PAP-NSF",
-      "strongs": "G2192",
       "translation": "having,",
-      "metadata": {},
-      "gematria": {
-        "standard": 1276,
-        "ordinal": 81,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2192",
+        "subMeaning": "to be",
+        "manuscriptType": "NKO",
+        "gloss": "to have/be"
+      },
+      "source": {
+        "raw": "Rev.12.2#04=NKO\tἔχουσα, (echousa)\thaving,\tG2192=V-PAP-NSF\tἔχω=to have/be\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testando teniendo\tto be\t#04\tG2192\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "κράζει",
-      "lemma": [
+      "lemma": "κράζω",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
         "G2896"
       ],
-      "morph": "robinson:V-PAI-3S",
-      "strongs": "G2896",
       "translation": "she cries out",
-      "metadata": {},
-      "gematria": {
-        "standard": 143,
-        "ordinal": 48,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR",
+        "extendedStrongs": "G2896",
+        "subMeaning": "to cry",
+        "variants": "ἔκραζεν (o=ekrazen) she was crying out - G2896=V-IAI-3S in: Byz",
+        "manuscriptType": "NK(o)",
+        "gloss": "to cry"
+      },
+      "source": {
+        "raw": "Rev.12.2#06=NK(o)\tκράζει (krazei)\tshe cries out\tG2896=V-PAI-3S\tκράζω=to cry\tNA28+NA27+Tyn+SBL+WH+Treg+TR\tἔκραζεν (o=ekrazen) she was crying out - G2896=V-IAI-3S in: Byz\t\testá clamando a gritos\tto cry\t#06\tG2896\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "ὠδίνουσα",
-      "lemma": [
+      "lemma": "ὠδίνω",
+      "morph": "robinson:V-PAP-NSF",
+      "strongs": [
         "G5605"
       ],
-      "morph": "robinson:V-PAP-NSF",
-      "strongs": "G5605",
       "translation": "being in travail",
-      "metadata": {},
-      "gematria": {
-        "standard": 1535,
-        "ordinal": 104,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5605",
+        "subMeaning": "be in labor",
+        "manuscriptType": "NKO",
+        "gloss": "be in labor"
+      },
+      "source": {
+        "raw": "Rev.12.2#07=NKO\tὠδίνουσα (ōdinousa)\tbeing in travail\tG5605=V-PAP-NSF\tὠδίνω=be in labor\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testando teniendo dolores de parto\tbe in labor\t#07\tG5605\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "and",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532_C",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "Rev.12.2#08=NKO\tκαὶ (kai)\tand\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ty\tand\t#08\tG2532_C\t\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "βασανιζομένη",
-      "lemma": [
+      "lemma": "βασανίζω",
+      "morph": "robinson:V-PPP-NSF",
+      "strongs": [
         "G0928H"
       ],
-      "morph": "robinson:V-PPP-NSF",
-      "strongs": "G0928H",
       "translation": "being in pain",
-      "metadata": {},
-      "gematria": {
-        "standard": 444,
-        "ordinal": 102,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0928",
+        "subMeaning": ": anguish»to torture|2_anguish",
+        "manuscriptType": "NKO",
+        "gloss": "to torture"
+      },
+      "source": {
+        "raw": "Rev.12.2#09=NKO\tβασανιζομένη (basanizomenē)\tbeing in pain\tG0928H=V-PPP-NSF\tβασανίζω=to torture\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testando siendo atormentada\t: anguish»to torture|2_anguish\t#09\tG0928\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "τεκεῖν.",
-      "lemma": [
+      "lemma": "τίκτω",
+      "morph": "robinson:V-2AAN",
+      "strongs": [
         "G5088"
       ],
-      "morph": "robinson:V-2AAN",
-      "strongs": "G5088",
       "translation": "to bring forth.",
-      "metadata": {},
-      "gematria": {
-        "standard": 390,
-        "ordinal": 61,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5088",
+        "subMeaning": "to give birth to",
+        "manuscriptType": "NKO",
+        "gloss": "to give birth to"
+      },
+      "source": {
+        "raw": "Rev.12.2#10=NKO\tτεκεῖν.¶ (tekein)\tto bring forth.\tG5088=V-2AAN\tτίκτω=to give birth to\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tdar a luz\tto give birth to\t#10\tG5088\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 4519,
-    "ordinal": 521,
-    "reduced": 37
-  }
+  ]
 }

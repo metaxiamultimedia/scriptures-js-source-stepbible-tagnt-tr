@@ -4,119 +4,144 @@
     {
       "position": 1,
       "text": "εἴ",
-      "lemma": [
+      "lemma": "εἰ",
+      "morph": "robinson:COND",
+      "strongs": [
         "G1487G"
       ],
-      "morph": "robinson:COND",
-      "strongs": "G1487G",
       "translation": "If",
-      "metadata": {},
-      "gematria": {
-        "standard": 15,
-        "ordinal": 14,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz",
+        "extendedStrongs": "G1487",
+        "subMeaning": ": if»if|1_if/whether",
+        "manuscriptType": "NK(o)",
+        "gloss": "if"
+      },
+      "source": {
+        "raw": "2Co.5.3#01=NK(o)\tεἴ (ei)\tIf\tG1487G=COND\tεἰ=if\tNA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz\t\t\tSi\t: if»if|1_if/whether\t#01\tG1487\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "γε",
-      "lemma": [
+      "lemma": "γέ",
+      "morph": "robinson:PRT",
+      "strongs": [
         "G1065"
       ],
-      "morph": "robinson:PRT",
-      "strongs": "G1065",
       "translation": "even",
-      "metadata": {},
-      "gematria": {
-        "standard": 8,
-        "ordinal": 8,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+TR+Byz",
+        "extendedStrongs": "G1065",
+        "subMeaning": "indeed",
+        "variants": "περ (o=per) if indeed - G4007=CONJ in: Treg TR: εἴγε ;",
+        "manuscriptType": "NK(o)",
+        "gloss": "indeed"
+      },
+      "source": {
+        "raw": "2Co.5.3#02=NK(o)\tγε (ge)\teven\tG1065=PRT\tγέ=indeed\tNA28+NA27+Tyn+SBL+WH+TR+Byz\tπερ (o=per) if indeed - G4007=CONJ in: Treg\tTR: εἴγε ;\tpues\tindeed\t#02\tG1065\tG4007, G1489, G1512\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "even",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "2Co.5.3#03=NKO\tκαὶ (kai)\teven\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ttambién\tand\t#03\tG2532\tG1499\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "ἐκδυσάμενοι",
-      "lemma": [
+      "lemma": "ἐκδύω",
+      "morph": "robinson:V-AAP-NPM",
+      "strongs": [
         "G1562"
       ],
-      "morph": "robinson:V-AAP-NPM",
-      "strongs": "G1562",
       "translation": "having put off",
-      "metadata": {},
-      "gematria": {
-        "standard": 805,
-        "ordinal": 112,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27",
+        "extendedStrongs": "G1562",
+        "subMeaning": "to strip",
+        "variants": "ἐνδυσάμενοι (T=endusamenoi) having put on - G1746=V-AMP-NPM in: Tyn+SBL+WH+Treg+TR+Byz",
+        "manuscriptType": "N(K)O",
+        "gloss": "to strip"
+      },
+      "source": {
+        "raw": "2Co.5.3#04=N(K)O\tἐκδυσάμενοι (ekdusamenoi)\thaving put off\tG1562=V-AAP-NPM\tἐκδύω=to strip\tNA28+NA27\tἐνδυσάμενοι (T=endusamenoi) having put on - G1746=V-AMP-NPM in: Tyn+SBL+WH+Treg+TR+Byz\t\thabiéndonos quitado (prendas de vestir)\tto strip\t#04\tG1562\tG1746\tv ἐνδυσάμενοι  (<i>endusamenoi</i>) 'having put on' occurs in traditional manuscripts (Tyn+SBL+WH+Treg+TR+Byz) instead of ἐκδυσάμενοι  (<i>ekdusamenoi</i>) 'having put off' in older manuscripts (NA28+NA27)\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "οὐ",
-      "lemma": [
+      "lemma": "οὐ",
+      "morph": "robinson:PRT-N",
+      "strongs": [
         "G3756"
       ],
-      "morph": "robinson:PRT-N",
-      "strongs": "G3756",
       "translation": "not",
-      "metadata": {},
-      "gematria": {
-        "standard": 470,
-        "ordinal": 35,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3756",
+        "subMeaning": "no",
+        "manuscriptType": "NKO",
+        "gloss": "no"
+      },
+      "source": {
+        "raw": "2Co.5.3#05=NKO\tοὐ (ou)\tnot\tG3756=PRT-N\tοὐ=no\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tno\tno\t#05»06:G1131\tG3756\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "γυμνοὶ",
-      "lemma": [
+      "lemma": "γυμνός",
+      "morph": "robinson:A-NPM",
+      "strongs": [
         "G1131"
       ],
-      "morph": "robinson:A-NPM",
-      "strongs": "G1131",
       "translation": "naked",
-      "metadata": {},
-      "gematria": {
-        "standard": 573,
-        "ordinal": 72,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1131",
+        "subMeaning": "naked",
+        "manuscriptType": "NKO",
+        "gloss": "naked"
+      },
+      "source": {
+        "raw": "2Co.5.3#06=NKO\tγυμνοὶ (gumnoi)\tnaked\tG1131=A-NPM\tγυμνός=naked\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tdesnudos\tnaked\t#06\tG1131\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "εὑρεθησόμεθα.",
-      "lemma": [
+      "lemma": "εὑρίσκω",
+      "morph": "robinson:V-FPI-1P",
+      "strongs": [
         "G2147"
       ],
-      "morph": "robinson:V-FPI-1P",
-      "strongs": "G2147",
       "translation": "we will be found.",
-      "metadata": {},
-      "gematria": {
-        "standard": 852,
-        "ordinal": 121,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2147",
+        "subMeaning": "to find",
+        "manuscriptType": "NKO",
+        "gloss": "to find/meet"
+      },
+      "source": {
+        "raw": "2Co.5.3#07=NKO\tεὑρεθησόμεθα. (heurethēsometha)\twe will be found.\tG2147=V-FPI-1P\tεὑρίσκω=to find/meet\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tseremos hallados\tto find\t#07\tG2147\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 2754,
-    "ordinal": 382,
-    "reduced": 36
-  }
+  ]
 }

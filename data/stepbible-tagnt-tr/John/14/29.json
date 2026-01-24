@@ -4,167 +4,202 @@
     {
       "position": 1,
       "text": "καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "And",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "Jhn.14.29#01=NKO\tκαὶ (kai)\tAnd\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tY\tand\t#01\tG2532\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "νῦν",
-      "lemma": [
+      "lemma": "νῦν",
+      "morph": "robinson:ADV",
+      "strongs": [
         "G3568"
       ],
-      "morph": "robinson:ADV",
-      "strongs": "G3568",
       "translation": "now",
-      "metadata": {},
-      "gematria": {
-        "standard": 500,
-        "ordinal": 46,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3568",
+        "subMeaning": "now",
+        "manuscriptType": "NKO",
+        "gloss": "now"
+      },
+      "source": {
+        "raw": "Jhn.14.29#02=NKO\tνῦν (nun)\tnow\tG3568=ADV\tνῦν=now\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tahora\tnow\t#02\tG3568\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "εἴρηκα",
-      "lemma": [
+      "lemma": "ἔπω, ἐρῶ, εἶπον",
+      "morph": "robinson:V-RAI-1S",
+      "strongs": [
         "G2046"
       ],
-      "morph": "robinson:V-RAI-1S",
-      "strongs": "G2046",
       "translation": "I have told",
-      "metadata": {},
-      "gematria": {
-        "standard": 144,
-        "ordinal": 49,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2046",
+        "subMeaning": "to say",
+        "manuscriptType": "NKO",
+        "gloss": "to say"
+      },
+      "source": {
+        "raw": "Jhn.14.29#03=NKO\tεἴρηκα (eirēka)\tI have told\tG2046=V-RAI-1S\tἔπω, ἐρῶ, εἶπον=to say\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\the dicho\tto say\t#03\tG2046\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "ὑμῖν",
-      "lemma": [
+      "lemma": "σύ",
+      "morph": "robinson:P-2DP",
+      "strongs": [
         "G4771"
       ],
-      "morph": "robinson:P-2DP",
-      "strongs": "G4771",
       "translation": "you",
-      "metadata": {},
-      "gematria": {
-        "standard": 500,
-        "ordinal": 54,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4771",
+        "subMeaning": "to you",
+        "manuscriptType": "NKO",
+        "gloss": "you"
+      },
+      "source": {
+        "raw": "Jhn.14.29#04=NKO\tὑμῖν (humin)\tyou\tG4771=P-2DP\tσύ=you\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta ustedes\tto you\t#04«03:G2046\tG4771\tG5213\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "πρὶν",
-      "lemma": [
+      "lemma": "πρίν",
+      "morph": "robinson:ADV",
+      "strongs": [
         "G4250"
       ],
-      "morph": "robinson:ADV",
-      "strongs": "G4250",
       "translation": "before",
-      "metadata": {},
-      "gematria": {
-        "standard": 240,
-        "ordinal": 55,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4250",
+        "subMeaning": "before",
+        "manuscriptType": "NKO",
+        "gloss": "before"
+      },
+      "source": {
+        "raw": "Jhn.14.29#05=NKO\tπρὶν (prin)\tbefore\tG4250=ADV\tπρίν=before\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tantes\tbefore\t#05\tG4250\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "γενέσθαι,",
-      "lemma": [
+      "lemma": "γίνομαι",
+      "morph": "robinson:V-2ADN",
+      "strongs": [
         "G1096"
       ],
-      "morph": "robinson:V-2ADN",
-      "strongs": "G1096",
       "translation": "it comes to pass,",
-      "metadata": {},
-      "gematria": {
-        "standard": 283,
-        "ordinal": 62,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1096_A",
+        "subMeaning": "to be",
+        "manuscriptType": "NKO",
+        "gloss": "to be"
+      },
+      "source": {
+        "raw": "Jhn.14.29#06=NKO\tγενέσθαι, (genesthai)\tit comes to pass,\tG1096=V-2ADN\tγίνομαι=to be\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tllegar a ser\tto be\t#06\tG1096_A\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "ἵνα",
-      "lemma": [
+      "lemma": "ἵνα",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2443"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2443",
       "translation": "that",
-      "metadata": {},
-      "gematria": {
-        "standard": 61,
-        "ordinal": 23,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2443",
+        "subMeaning": "in order that",
+        "manuscriptType": "NKO",
+        "gloss": "in order that/to"
+      },
+      "source": {
+        "raw": "Jhn.14.29#07=NKO\tἵνα (ina)\tthat\tG2443=CONJ\tἵνα=in order that/to\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tpara que\tin order that\t#07\tG2443\tG3363\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "ὅταν",
-      "lemma": [
+      "lemma": "ὅταν",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G3752"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G3752",
       "translation": "when",
-      "metadata": {},
-      "gematria": {
-        "standard": 421,
-        "ordinal": 48,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3752",
+        "subMeaning": "when(-ever)",
+        "manuscriptType": "NKO",
+        "gloss": "when(-ever)"
+      },
+      "source": {
+        "raw": "Jhn.14.29#08=NKO\tὅταν (hotan)\twhen\tG3752=CONJ\tὅταν=when(-ever)\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tcuando\twhen(-ever)\t#08\tG3752\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "γένηται,",
-      "lemma": [
+      "lemma": "γίνομαι",
+      "morph": "robinson:V-2ADS-3S",
+      "strongs": [
         "G1096"
       ],
-      "morph": "robinson:V-2ADS-3S",
-      "strongs": "G1096",
       "translation": "it may happen,",
-      "metadata": {},
-      "gematria": {
-        "standard": 377,
-        "ordinal": 57,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1096_B",
+        "subMeaning": "to be",
+        "manuscriptType": "NKO",
+        "gloss": "to be"
+      },
+      "source": {
+        "raw": "Jhn.14.29#09=NKO\tγένηται, (genētai)\tit may happen,\tG1096=V-2ADS-3S\tγίνομαι=to be\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tllegue a ser\tto be\t#09\tG1096_B\t\t\t\t\t"
       }
     },
     {
       "position": 10,
       "text": "πιστεύσητε.",
-      "lemma": [
+      "lemma": "πιστεύω",
+      "morph": "robinson:V-AAS-2P",
+      "strongs": [
         "G4100"
       ],
-      "morph": "robinson:V-AAS-2P",
-      "strongs": "G4100",
       "translation": "you may believe.",
-      "metadata": {},
-      "gematria": {
-        "standard": 1508,
-        "ordinal": 136,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4100",
+        "subMeaning": "to trust (in)",
+        "manuscriptType": "NKO",
+        "gloss": "to trust (in)"
+      },
+      "source": {
+        "raw": "Jhn.14.29#10=NKO\tπιστεύσητε.¶ (pisteusēte)\tyou may believe.\tG4100=V-AAS-2P\tπιστεύω=to trust (in)\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tconfíen\tto trust (in)\t#10\tG4100\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 4065,
-    "ordinal": 550,
-    "reduced": 60
-  }
+  ]
 }

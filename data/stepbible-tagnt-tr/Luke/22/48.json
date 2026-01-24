@@ -4,199 +4,242 @@
     {
       "position": 1,
       "text": "ὁ",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-NSM",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-NSM",
-      "strongs": "G3588",
       "translation": "<the>",
-      "metadata": {},
-      "gematria": {
-        "standard": 70,
-        "ordinal": 15,
-        "reduced": 7
+      "metadata": {
+        "editions": "TR+Byz",
+        "extendedStrongs": "G3588_a",
+        "subMeaning": "the",
+        "manuscriptType": "k",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Luk.22.48#01=k\tὁ (ho)\t<the>\tG3588=T-NSM\tὁ=the/this/who\tTR+Byz\t\t\tel\tthe\t#01»02:G2424\tG3588_a\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "Ἰησοῦς",
-      "lemma": [
+      "lemma": "Ἰησοῦς",
+      "morph": "robinson:N-NSM-P",
+      "strongs": [
         "G2424G"
       ],
-      "morph": "robinson:N-NSM-P",
-      "strongs": "G2424G",
       "translation": "Jesus",
-      "metadata": {},
-      "gematria": {
-        "standard": 888,
-        "ordinal": 87,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2424",
+        "subMeaning": "Jesus»Jesus|Jesus@Mat.1.1",
+        "manuscriptType": "NKO",
+        "gloss": "Jesus/Joshua"
+      },
+      "source": {
+        "raw": "Luk.22.48#02=NKO\tἸησοῦς (Iēsous)\tJesus\tG2424G=N-NSM-P\tἸησοῦς=Jesus/Joshua\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tJesús\tJesus»Jesus|Jesus@Mat.1.1\t#02\tG2424\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "δὲ",
-      "lemma": [
+      "lemma": "δέ",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G1161"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G1161",
       "translation": "then",
-      "metadata": {},
-      "gematria": {
-        "standard": 9,
-        "ordinal": 9,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR«2+Byz«2",
+        "extendedStrongs": "G1161",
+        "subMeaning": "but",
+        "manuscriptType": "NKO",
+        "gloss": "but/and"
+      },
+      "source": {
+        "raw": "Luk.22.48#03=NKO\tδὲ (de)\tthen\tG1161=CONJ\tδέ=but/and\tNA28+NA27+Tyn+SBL+WH+Treg+TR«2+Byz«2\t\t\tpero\tbut\t#03\tG1161\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "εἶπεν",
-      "lemma": [
+      "lemma": "ἔπω, ἐρῶ, εἶπον",
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": [
         "G2036"
       ],
-      "morph": "robinson:V-2AAI-3S",
-      "strongs": "G2036",
       "translation": "said",
-      "metadata": {},
-      "gematria": {
-        "standard": 150,
-        "ordinal": 48,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2036",
+        "subMeaning": "to say",
+        "manuscriptType": "NKO",
+        "gloss": "to say"
+      },
+      "source": {
+        "raw": "Luk.22.48#04=NKO\tεἶπεν (eipen)\tsaid\tG2036=V-2AAI-3S\tἔπω, ἐρῶ, εἶπον=to say\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tdijo\tto say\t#04\tG2036\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "αὐτῷ·",
-      "lemma": [
+      "lemma": "αὐτός",
+      "morph": "robinson:P-DSM",
+      "strongs": [
         "G0846"
       ],
-      "morph": "robinson:P-DSM",
-      "strongs": "G0846",
       "translation": "to him;",
-      "metadata": {},
-      "gematria": {
-        "standard": 1511,
-        "ordinal": 73,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0846",
+        "subMeaning": "to him",
+        "manuscriptType": "NKO",
+        "gloss": "he/she/it/self"
+      },
+      "source": {
+        "raw": "Luk.22.48#05=NKO\tαὐτῷ· (autō)\tto him;\tG0846=P-DSM\tαὐτός=he/she/it/self\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta él\tto him\t#05«04:G2036\tG0846\tG3778\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "Ἰούδα,",
-      "lemma": [
+      "lemma": "Ἰούδας",
+      "morph": "robinson:N-VSM-P",
+      "strongs": [
         "G2455H"
       ],
-      "morph": "robinson:N-VSM-P",
-      "strongs": "G2455H",
       "translation": "Judas,",
-      "metadata": {},
-      "gematria": {
-        "standard": 485,
-        "ordinal": 49,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2455",
+        "subMeaning": "Judas»Judas|Judas@Mat.10.4",
+        "manuscriptType": "NKO",
+        "gloss": "Judah/Judas/Jude"
+      },
+      "source": {
+        "raw": "Luk.22.48#06=NKO\tἸούδα, (Iouda)\tJudas,\tG2455H=N-VSM-P\tἸούδας=Judah/Judas/Jude\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tJudas\tJudas»Judas|Judas@Mat.10.4\t#06\tG2455\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "φιλήματι",
-      "lemma": [
+      "lemma": "φίλημα",
+      "morph": "robinson:N-DSN",
+      "strongs": [
         "G5370"
       ],
-      "morph": "robinson:N-DSN",
-      "strongs": "G5370",
       "translation": "with a kiss",
-      "metadata": {},
-      "gematria": {
-        "standard": 899,
-        "ordinal": 89,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5370",
+        "subMeaning": "kiss",
+        "manuscriptType": "NKO",
+        "gloss": "kiss"
+      },
+      "source": {
+        "raw": "Luk.22.48#07=NKO\tφιλήματι (philēmati)\twith a kiss\tG5370=N-DSN\tφίλημα=kiss\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\t¿A beso\tkiss\t#07\tG5370\t\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "τὸν",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-ASM",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-ASM",
-      "strongs": "G3588",
       "translation": "the",
-      "metadata": {},
-      "gematria": {
-        "standard": 420,
-        "ordinal": 47,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588_B",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Luk.22.48#08=NKO\tτὸν (ton)\tthe\tG3588=T-ASM\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta el\tthe\t#08»09:G5207\tG3588_B\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "υἱὸν",
-      "lemma": [
+      "lemma": "υἱός",
+      "morph": "robinson:N-ASM-T",
+      "strongs": [
         "G5207"
       ],
-      "morph": "robinson:N-ASM-T",
-      "strongs": "G5207",
       "translation": "Son",
-      "metadata": {},
-      "gematria": {
-        "standard": 530,
-        "ordinal": 57,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5207",
+        "subMeaning": "son",
+        "manuscriptType": "NKO",
+        "gloss": "son"
+      },
+      "source": {
+        "raw": "Luk.22.48#09=NKO\tυἱὸν (huion)\tSon\tG5207=N-ASM-T\tυἱός=son\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tHijo\tson\t#09\tG5207\t\t\t\t\t"
       }
     },
     {
       "position": 10,
       "text": "τοῦ",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-GSM",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-GSM",
-      "strongs": "G3588",
       "translation": "<the>",
-      "metadata": {},
-      "gematria": {
-        "standard": 770,
-        "ordinal": 54,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588_C",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Luk.22.48#10=NKO\tτοῦ (tou)\t<the>\tG3588=T-GSM\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tde el\tthe\t#10»11:G0444\tG3588_C\t\t\t\t\t"
       }
     },
     {
       "position": 11,
       "text": "ἀνθρώπου",
-      "lemma": [
+      "lemma": "ἄνθρωπος",
+      "morph": "robinson:N-GSM-T",
+      "strongs": [
         "G0444"
       ],
-      "morph": "robinson:N-GSM-T",
-      "strongs": "G0444",
       "translation": "of Man",
-      "metadata": {},
-      "gematria": {
-        "standard": 1510,
-        "ordinal": 114,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0444",
+        "subMeaning": "a human",
+        "manuscriptType": "NKO",
+        "gloss": "a human"
+      },
+      "source": {
+        "raw": "Luk.22.48#11=NKO\tἀνθρώπου (anthrōpou)\tof Man\tG0444=N-GSM-T\tἄνθρωπος=a human\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\thombre\ta human\t#11\tG0444\t\t\t\t\t"
       }
     },
     {
       "position": 12,
       "text": "παραδίδως;",
-      "lemma": [
+      "lemma": "παραδίδωμι",
+      "morph": "robinson:V-PAI-2S",
+      "strongs": [
         "G3860"
       ],
-      "morph": "robinson:V-PAI-2S",
-      "strongs": "G3860",
       "translation": "are you betraying?",
-      "metadata": {},
-      "gematria": {
-        "standard": 1200,
-        "ordinal": 94,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3860",
+        "subMeaning": "to deliver",
+        "manuscriptType": "NKO",
+        "gloss": "to deliver"
+      },
+      "source": {
+        "raw": "Luk.22.48#12=NKO\tπαραδίδως; (paradidōs)\tare you betraying?\tG3860=V-PAI-2S\tπαραδίδωμι=to deliver\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testás entregando?\tto deliver\t#12\tG3860\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 8442,
-    "ordinal": 736,
-    "reduced": 81
-  }
+  ]
 }

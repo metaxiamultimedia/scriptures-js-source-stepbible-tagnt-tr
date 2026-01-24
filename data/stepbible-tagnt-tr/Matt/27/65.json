@@ -4,183 +4,223 @@
     {
       "position": 1,
       "text": "Ἔφη",
-      "lemma": [
+      "lemma": "φημί",
+      "morph": "robinson:V-IAI-3S",
+      "strongs": [
         "G5346"
       ],
-      "morph": "robinson:V-IAI-3S",
-      "strongs": "G5346",
       "translation": "was saying",
-      "metadata": {},
-      "gematria": {
-        "standard": 513,
-        "ordinal": 33,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5346",
+        "subMeaning": "to say",
+        "manuscriptType": "NKO",
+        "gloss": "to say"
+      },
+      "source": {
+        "raw": "Mat.27.65#01=NKO\tἜφη (Ephē)\twas saying\tG5346=V-IAI-3S\tφημί=to say\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tEstaba diciendo\tto say\t#01\tG5346\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "δὲ",
-      "lemma": [
+      "lemma": "δέ",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G1161"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G1161",
       "translation": "now",
-      "metadata": {},
-      "gematria": {
-        "standard": 9,
-        "ordinal": 9,
-        "reduced": 9
+      "metadata": {
+        "editions": "TR+Byz",
+        "extendedStrongs": "G1161",
+        "subMeaning": "and",
+        "manuscriptType": "k",
+        "gloss": "but/and"
+      },
+      "source": {
+        "raw": "Mat.27.65#02=k\tδὲ (de)\tnow\tG1161=CONJ\tδέ=but/and\tTR+Byz\t\t\tpero\tand\t#02\tG1161\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "αὐτοῖς",
-      "lemma": [
+      "lemma": "αὐτός",
+      "morph": "robinson:P-DPM",
+      "strongs": [
         "G0846"
       ],
-      "morph": "robinson:P-DPM",
-      "strongs": "G0846",
       "translation": "to them",
-      "metadata": {},
-      "gematria": {
-        "standard": 981,
-        "ordinal": 82,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0846",
+        "subMeaning": "to them",
+        "manuscriptType": "NKO",
+        "gloss": "he/she/it/self"
+      },
+      "source": {
+        "raw": "Mat.27.65#03=NKO\tαὐτοῖς (autois)\tto them\tG0846=P-DPM\tαὐτός=he/she/it/self\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta ellos\tto them\t#03«01:G5346\tG0846\tG3778\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "ὁ",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-NSM",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-NSM",
-      "strongs": "G3588",
       "translation": "<the>",
-      "metadata": {},
-      "gematria": {
-        "standard": 70,
-        "ordinal": 15,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Mat.27.65#04=NKO\tὁ (ho)\t<the>\tG3588=T-NSM\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tel\tthe\t#04»05:G4091\tG3588\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "Πιλᾶτος·",
-      "lemma": [
+      "lemma": "Πιλᾶτος",
+      "morph": "robinson:N-NSM-P",
+      "strongs": [
         "G4091"
       ],
-      "morph": "robinson:N-NSM-P",
-      "strongs": "G4091",
       "translation": "Pilate;",
-      "metadata": {},
-      "gematria": {
-        "standard": 691,
-        "ordinal": 89,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4091",
+        "subMeaning": "Pilate»Pilate|Pilate@Mat.27.2",
+        "variants": "Tyn+WH: Πειλᾶτος ;",
+        "manuscriptType": "NKO",
+        "gloss": "Pilate"
+      },
+      "source": {
+        "raw": "Mat.27.65#05=NKO\tΠιλᾶτος· (Pilatos)\tPilate;\tG4091=N-NSM-P\tΠιλᾶτος=Pilate\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\tTyn+WH: Πειλᾶτος ; \tPilato\tPilate»Pilate|Pilate@Mat.27.2\t#05\tG4091\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "ἔχετε",
-      "lemma": [
+      "lemma": "ἔχω",
+      "morph": "robinson:V-PAI-2P",
+      "strongs": [
         "G2192"
       ],
-      "morph": "robinson:V-PAI-2P",
-      "strongs": "G2192",
       "translation": "You have",
-      "metadata": {},
-      "gematria": {
-        "standard": 915,
-        "ordinal": 56,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2192",
+        "subMeaning": "to have",
+        "manuscriptType": "NKO",
+        "gloss": "to have/be"
+      },
+      "source": {
+        "raw": "Mat.27.65#06=NKO\tἔχετε (echete)\tYou have\tG2192=V-PAI-2P\tἔχω=to have/be\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tEstán teniendo\tto have\t#06\tG2192\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "κουστωδίαν·",
-      "lemma": [
+      "lemma": "κουστωδία",
+      "morph": "robinson:N-ASF",
+      "strongs": [
         "G2892"
       ],
-      "morph": "robinson:N-ASF",
-      "strongs": "G2892",
       "translation": "a guard;",
-      "metadata": {},
-      "gematria": {
-        "standard": 1855,
-        "ordinal": 133,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2892",
+        "subMeaning": "guard",
+        "manuscriptType": "NKO",
+        "gloss": "guard"
+      },
+      "source": {
+        "raw": "Mat.27.65#07=NKO\tκουστωδίαν· (koustōdian)\ta guard;\tG2892=N-ASF\tκουστωδία=guard\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tguardia\tguard\t#07\tG2892\t\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "ὑπάγετε",
-      "lemma": [
+      "lemma": "ὑπάγω",
+      "morph": "robinson:V-PAM-2P",
+      "strongs": [
         "G5217"
       ],
-      "morph": "robinson:V-PAM-2P",
-      "strongs": "G5217",
       "translation": "do go",
-      "metadata": {},
-      "gematria": {
-        "standard": 794,
-        "ordinal": 69,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5217",
+        "subMeaning": "to go",
+        "manuscriptType": "NKO",
+        "gloss": "to go"
+      },
+      "source": {
+        "raw": "Mat.27.65#08=NKO\tὑπάγετε (hupagete)\tdo go\tG5217=V-PAM-2P\tὑπάγω=to go\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testén yendo\tto go\t#08\tG5217\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "ἀσφαλίσασθε",
-      "lemma": [
+      "lemma": "ἀσφαλίζω",
+      "morph": "robinson:V-ADM-2P",
+      "strongs": [
         "G0805"
       ],
-      "morph": "robinson:V-ADM-2P",
-      "strongs": "G0805",
       "translation": "do make [it as] secure",
-      "metadata": {},
-      "gematria": {
-        "standard": 1157,
-        "ordinal": 111,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0805",
+        "subMeaning": "to secure",
+        "manuscriptType": "NKO",
+        "gloss": "to secure"
+      },
+      "source": {
+        "raw": "Mat.27.65#09=NKO\tἀσφαλίσασθε (asphalisasthe)\tdo make [it as] secure\tG0805=V-ADM-2P\tἀσφαλίζω=to secure\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\thagan seguro\tto secure\t#09\tG0805\t\t\t\t\t"
       }
     },
     {
       "position": 10,
       "text": "ὡς",
-      "lemma": [
+      "lemma": "ὡς",
+      "morph": "robinson:PRT",
+      "strongs": [
         "G5613"
       ],
-      "morph": "robinson:PRT",
-      "strongs": "G5613",
       "translation": "as",
-      "metadata": {},
-      "gematria": {
-        "standard": 1000,
-        "ordinal": 42,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5613",
+        "subMeaning": "as",
+        "manuscriptType": "NKO",
+        "gloss": "which/how"
+      },
+      "source": {
+        "raw": "Mat.27.65#10=NKO\tὡς (hōs)\tas\tG5613=PRT\tὡς=which/how\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tcomo\tas\t#10\tG5613\t\t\t\t\t"
       }
     },
     {
       "position": 11,
       "text": "οἴδατε.",
-      "lemma": [
+      "lemma": "εἴδω",
+      "morph": "robinson:V-RAI-2P",
+      "strongs": [
         "G6063"
       ],
-      "morph": "robinson:V-RAI-2P",
-      "strongs": "G6063",
       "translation": "you know [how].",
-      "metadata": {},
-      "gematria": {
-        "standard": 390,
-        "ordinal": 53,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G6063",
+        "subMeaning": ": know»to perceive|1_know/understand",
+        "manuscriptType": "NKO",
+        "gloss": "to perceive"
+      },
+      "source": {
+        "raw": "Mat.27.65#11=NKO\tοἴδατε.¶ (oidate)\tyou know [how].\tG6063=V-RAI-2P\tεἴδω=to perceive\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\than sabido\t: know»to perceive|1_know/understand\t#11\tG6063\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 8375,
-    "ordinal": 692,
-    "reduced": 59
-  }
+  ]
 }

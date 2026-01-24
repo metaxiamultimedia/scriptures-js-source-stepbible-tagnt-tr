@@ -4,135 +4,162 @@
     {
       "position": 1,
       "text": "Ἡ",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-NSF",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-NSF",
-      "strongs": "G3588",
       "translation": "The",
-      "metadata": {},
-      "gematria": {
-        "standard": 8,
-        "ordinal": 7,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588_A",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "1Co.16.23#01=NKO\tἩ (Hē)\tThe\tG3588=T-NSF\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tLa\tthe\t#01»02:G5485\tG3588_A\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "χάρις",
-      "lemma": [
+      "lemma": "χάρις",
+      "morph": "robinson:N-NSF",
+      "strongs": [
         "G5485"
       ],
-      "morph": "robinson:N-NSF",
-      "strongs": "G5485",
       "translation": "grace",
-      "metadata": {},
-      "gematria": {
-        "standard": 911,
-        "ordinal": 67,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5485",
+        "subMeaning": "grace",
+        "manuscriptType": "NKO",
+        "gloss": "grace"
+      },
+      "source": {
+        "raw": "1Co.16.23#02=NKO\tχάρις (charis)\tgrace\tG5485=N-NSF\tχάρις=grace\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tbondad inmerecida\tgrace\t#02\tG5485\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "τοῦ",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-GSM",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-GSM",
-      "strongs": "G3588",
       "translation": "of the",
-      "metadata": {},
-      "gematria": {
-        "standard": 770,
-        "ordinal": 54,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588_B",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "1Co.16.23#03=NKO\tτοῦ (tou)\tof the\tG3588=T-GSM\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tde el\tthe\t#03»04:G2962\tG3588_B\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "κυρίου",
-      "lemma": [
+      "lemma": "κύριος",
+      "morph": "robinson:N-GSM-T",
+      "strongs": [
         "G2962G"
       ],
-      "morph": "robinson:N-GSM-T",
-      "strongs": "G2962G",
       "translation": "Lord",
-      "metadata": {},
-      "gematria": {
-        "standard": 1000,
-        "ordinal": 91,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2962",
+        "subMeaning": ": God»lord|1_God",
+        "manuscriptType": "NKO",
+        "gloss": "lord"
+      },
+      "source": {
+        "raw": "1Co.16.23#04=NKO\tκυρίου (kuriou)\tLord\tG2962G=N-GSM-T\tκύριος=lord\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tSeñor\t: God»lord|1_God\t#04\tG2962\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "Ἰησοῦ",
-      "lemma": [
+      "lemma": "Ἰησοῦς",
+      "morph": "robinson:N-GSM-P",
+      "strongs": [
         "G2424G"
       ],
-      "morph": "robinson:N-GSM-P",
-      "strongs": "G2424G",
       "translation": "Jesus",
-      "metadata": {},
-      "gematria": {
-        "standard": 688,
-        "ordinal": 69,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2424",
+        "subMeaning": "Jesus»Jesus|Jesus@Mat.1.1",
+        "manuscriptType": "NKO",
+        "gloss": "Jesus/Joshua"
+      },
+      "source": {
+        "raw": "1Co.16.23#05=NKO\tἸησοῦ (Iēsou)\tJesus\tG2424G=N-GSM-P\tἸησοῦς=Jesus/Joshua\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tJesús\tJesus»Jesus|Jesus@Mat.1.1\t#05\tG2424\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "Χριστοῦ",
-      "lemma": [
+      "lemma": "Χριστός",
+      "morph": "robinson:N-GSM-T",
+      "strongs": [
         "G5547"
       ],
-      "morph": "robinson:N-GSM-T",
-      "strongs": "G5547",
       "translation": "Christ",
-      "metadata": {},
-      "gematria": {
-        "standard": 1680,
-        "ordinal": 120,
-        "reduced": 6
+      "metadata": {
+        "editions": "TR+Byz",
+        "extendedStrongs": "G5547",
+        "subMeaning": "Christ»Christ|Jesus@Mat.1.1",
+        "manuscriptType": "K",
+        "gloss": "Christ"
+      },
+      "source": {
+        "raw": "1Co.16.23#06=K\tΧριστοῦ (Christou)\tChrist\tG5547=N-GSM-T\tΧριστός=Christ\tTR+Byz\t\t\tUngido\tChrist»Christ|Jesus@Mat.1.1\t#06\tG5547\t\t^ Χριστοῦ  (<i>Christou</i>) 'Christ' is only in traditional manuscripts (TR+Byz)\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "μεθ᾽",
-      "lemma": [
+      "lemma": "μετά",
+      "morph": "robinson:PREP",
+      "strongs": [
         "G3326"
       ],
-      "morph": "robinson:PREP",
-      "strongs": "G3326",
       "translation": "[be] with",
-      "metadata": {},
-      "gematria": {
-        "standard": 54,
-        "ordinal": 25,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3326",
+        "subMeaning": "with",
+        "manuscriptType": "NKO",
+        "gloss": "with/after"
+      },
+      "source": {
+        "raw": "1Co.16.23#07=NKO\tμεθ᾽ (meth᾽)\t[be] with\tG3326=PREP\tμετά=with/after\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tcon\twith\t#07\tG3326\t\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "ὑμῶν.",
-      "lemma": [
+      "lemma": "σύ",
+      "morph": "robinson:P-2GP",
+      "strongs": [
         "G4771"
       ],
-      "morph": "robinson:P-2GP",
-      "strongs": "G4771",
       "translation": "you.",
-      "metadata": {},
-      "gematria": {
-        "standard": 1290,
-        "ordinal": 69,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4771",
+        "subMeaning": "of you",
+        "manuscriptType": "NKO",
+        "gloss": "you"
+      },
+      "source": {
+        "raw": "1Co.16.23#08=NKO\tὑμῶν. (humōn)\tyou.\tG4771=P-2GP\tσύ=you\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tustedes\tof you\t#08«07:G3326\tG4771\tG5216\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 6401,
-    "ordinal": 502,
-    "reduced": 38
-  }
+  ]
 }

@@ -4,279 +4,345 @@
     {
       "position": 1,
       "text": "καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "And",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "1Co.12.26#01=NKO\tκαὶ (kai)\tAnd\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tY\tand\t#01\tG2532\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "εἴτε",
-      "lemma": [
+      "lemma": "εἴτε",
+      "morph": "robinson:COND",
+      "strongs": [
         "G1535"
       ],
-      "morph": "robinson:COND",
-      "strongs": "G1535",
       "translation": "if",
-      "metadata": {},
-      "gematria": {
-        "standard": 320,
-        "ordinal": 38,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+TR+Byz",
+        "extendedStrongs": "G1535_A",
+        "subMeaning": "if",
+        "variants": "εἴ τι (o=ei ti) if anything - G1487=COND + G5100=X-NSN in: Treg",
+        "manuscriptType": "NK(o)",
+        "gloss": "whether"
+      },
+      "source": {
+        "raw": "1Co.12.26#02=NK(o)\tεἴτε (eite)\tif\tG1535=COND\tεἴτε=whether\tNA28+NA27+Tyn+SBL+WH+TR+Byz\tεἴ τι (o=ei ti) if anything - G1487=COND + G5100=X-NSN in: Treg\t\tsea\tif\t#02\tG1535_A\tG1487, G5100, G1536\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "πάσχει",
-      "lemma": [
+      "lemma": "πάσχω",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
         "G3958"
       ],
-      "morph": "robinson:V-PAI-3S",
-      "strongs": "G3958",
       "translation": "suffers",
-      "metadata": {},
-      "gematria": {
-        "standard": 896,
-        "ordinal": 71,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3958",
+        "subMeaning": "to suffer",
+        "manuscriptType": "NKO",
+        "gloss": "to suffer"
+      },
+      "source": {
+        "raw": "1Co.12.26#03=NKO\tπάσχει (paschei)\tsuffers\tG3958=V-PAI-3S\tπάσχω=to suffer\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testá sufriendo\tto suffer\t#03\tG3958\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "ἓν",
-      "lemma": [
+      "lemma": "εἷς",
+      "morph": "robinson:A-NSN",
+      "strongs": [
         "G1520"
       ],
-      "morph": "robinson:A-NSN",
-      "strongs": "G1520",
       "translation": "one",
-      "metadata": {},
-      "gematria": {
-        "standard": 55,
-        "ordinal": 18,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1520_A",
+        "subMeaning": "one",
+        "manuscriptType": "NKO",
+        "gloss": "one"
+      },
+      "source": {
+        "raw": "1Co.12.26#04=NKO\tἓν (hen)\tone\tG1520=A-NSN\tεἷς=one\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tuno\tone\t#04\tG1520_A\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "μέλος,",
-      "lemma": [
+      "lemma": "μέλος",
+      "morph": "robinson:N-NSN",
+      "strongs": [
         "G3196"
       ],
-      "morph": "robinson:N-NSN",
-      "strongs": "G3196",
       "translation": "member,",
-      "metadata": {},
-      "gematria": {
-        "standard": 345,
-        "ordinal": 61,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3196_A",
+        "subMeaning": "member",
+        "manuscriptType": "NKO",
+        "gloss": "member"
+      },
+      "source": {
+        "raw": "1Co.12.26#05=NKO\tμέλος, (melos)\tmember,\tG3196=N-NSN\tμέλος=member\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tmiembro\tmember\t#05\tG3196_A\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "συμπάσχει",
-      "lemma": [
+      "lemma": "συμπάσχω",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
         "G4841"
       ],
-      "morph": "robinson:V-PAI-3S",
-      "strongs": "G4841",
       "translation": "suffer with [it]",
-      "metadata": {},
-      "gematria": {
-        "standard": 1536,
-        "ordinal": 121,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4841",
+        "subMeaning": "to suffer with",
+        "variants": "Tyn+WH: συνπάσχει ;",
+        "manuscriptType": "NKO",
+        "gloss": "to suffer with"
+      },
+      "source": {
+        "raw": "1Co.12.26#06=NKO\tσυμπάσχει (sumpaschei)\tsuffer with [it]\tG4841=V-PAI-3S\tσυμπάσχω=to suffer with\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\tTyn+WH: συνπάσχει ; \testá sufriendo juntamente\tto suffer with\t#06\tG4841\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "πάντα",
-      "lemma": [
+      "lemma": "πᾶς",
+      "morph": "robinson:A-NPN",
+      "strongs": [
         "G3956"
       ],
-      "morph": "robinson:A-NPN",
-      "strongs": "G3956",
       "translation": "all",
-      "metadata": {},
-      "gematria": {
-        "standard": 432,
-        "ordinal": 50,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3956_A",
+        "subMeaning": "all",
+        "manuscriptType": "NKO",
+        "gloss": "all"
+      },
+      "source": {
+        "raw": "1Co.12.26#07=NKO\tπάντα (panta)\tall\tG3956=A-NPN\tπᾶς=all\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ttodos\tall\t#07\tG3956_A\t\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "τὰ",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-NPN",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-NPN",
-      "strongs": "G3588",
       "translation": "the",
-      "metadata": {},
-      "gematria": {
-        "standard": 301,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588_A",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "1Co.12.26#08=NKO\tτὰ (ta)\tthe\tG3588=T-NPN\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tlos\tthe\t#08»09:G3196\tG3588_A\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "μέλη·",
-      "lemma": [
+      "lemma": "μέλος",
+      "morph": "robinson:N-NPN",
+      "strongs": [
         "G3196"
       ],
-      "morph": "robinson:N-NPN",
-      "strongs": "G3196",
       "translation": "members;",
-      "metadata": {},
-      "gematria": {
-        "standard": 83,
-        "ordinal": 35,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3196_B",
+        "subMeaning": "member",
+        "manuscriptType": "NKO",
+        "gloss": "member"
+      },
+      "source": {
+        "raw": "1Co.12.26#09=NKO\tμέλη· (melē)\tmembers;\tG3196=N-NPN\tμέλος=member\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tmiembros\tmember\t#09\tG3196_B\t\t\t\t\t"
       }
     },
     {
       "position": 10,
       "text": "εἴτε",
-      "lemma": [
+      "lemma": "εἴτε",
+      "morph": "robinson:COND",
+      "strongs": [
         "G1535"
       ],
-      "morph": "robinson:COND",
-      "strongs": "G1535",
       "translation": "if",
-      "metadata": {},
-      "gematria": {
-        "standard": 320,
-        "ordinal": 38,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1535_B",
+        "subMeaning": "if",
+        "manuscriptType": "NKO",
+        "gloss": "whether"
+      },
+      "source": {
+        "raw": "1Co.12.26#10=NKO\tεἴτε (eite)\tif\tG1535=COND\tεἴτε=whether\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tsea\tif\t#10\tG1535_B\t\t\t\t\t"
       }
     },
     {
       "position": 11,
       "text": "δοξάζεται",
-      "lemma": [
+      "lemma": "δοξάζω",
+      "morph": "robinson:V-PPI-3S",
+      "strongs": [
         "G1392"
       ],
-      "morph": "robinson:V-PPI-3S",
-      "strongs": "G1392",
       "translation": "is honored",
-      "metadata": {},
-      "gematria": {
-        "standard": 458,
-        "ordinal": 74,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1392",
+        "subMeaning": "to glorify",
+        "manuscriptType": "NKO",
+        "gloss": "to glorify"
+      },
+      "source": {
+        "raw": "1Co.12.26#11=NKO\tδοξάζεται (doxazetai)\tis honored\tG1392=V-PPI-3S\tδοξάζω=to glorify\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testá recibiendo esplendor\tto glorify\t#11\tG1392\t\t\t\t\t"
       }
     },
     {
       "position": 12,
       "text": "ἓν",
-      "lemma": [
+      "lemma": "εἷς",
+      "morph": "robinson:A-NSN",
+      "strongs": [
         "G1520"
       ],
-      "morph": "robinson:A-NSN",
-      "strongs": "G1520",
       "translation": "one",
-      "metadata": {},
-      "gematria": {
-        "standard": 55,
-        "ordinal": 18,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+TR+Byz",
+        "extendedStrongs": "G1520_B",
+        "subMeaning": "one",
+        "manuscriptType": "NKO",
+        "gloss": "one"
+      },
+      "source": {
+        "raw": "1Co.12.26#12=NKO\tἓν (hen)\tone\tG1520=A-NSN\tεἷς=one\tNA28+NA27+TR+Byz\t\t\tuno\tone\t#12\tG1520_B\t\t\t\t\t"
       }
     },
     {
       "position": 13,
       "text": "μέλος,",
-      "lemma": [
+      "lemma": "μέλος",
+      "morph": "robinson:N-NSN",
+      "strongs": [
         "G3196"
       ],
-      "morph": "robinson:N-NSN",
-      "strongs": "G3196",
       "translation": "member,",
-      "metadata": {},
-      "gematria": {
-        "standard": 345,
-        "ordinal": 61,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3196_C",
+        "subMeaning": "member",
+        "manuscriptType": "NKO",
+        "gloss": "member"
+      },
+      "source": {
+        "raw": "1Co.12.26#13=NKO\tμέλος, (melos)\tmember,\tG3196=N-NSN\tμέλος=member\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tmiembro\tmember\t#13\tG3196_C\t\t\t\t\t"
       }
     },
     {
       "position": 14,
       "text": "συγχαίρει",
-      "lemma": [
+      "lemma": "συγχαίρω",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
         "G4796"
       ],
-      "morph": "robinson:V-PAI-3S",
-      "strongs": "G4796",
       "translation": "rejoice with [it]",
-      "metadata": {},
-      "gematria": {
-        "standard": 1329,
-        "ordinal": 104,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4796",
+        "subMeaning": "to rejoice with",
+        "variants": "Tyn+WH: συνχαίρει ;",
+        "manuscriptType": "NKO",
+        "gloss": "to rejoice with"
+      },
+      "source": {
+        "raw": "1Co.12.26#14=NKO\tσυγχαίρει (sugchairei)\trejoice with [it]\tG4796=V-PAI-3S\tσυγχαίρω=to rejoice with\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\tTyn+WH: συνχαίρει ; \testá regocijando juntamente\tto rejoice with\t#14\tG4796\t\t\t\t\t"
       }
     },
     {
       "position": 15,
       "text": "πάντα",
-      "lemma": [
+      "lemma": "πᾶς",
+      "morph": "robinson:A-NPN",
+      "strongs": [
         "G3956"
       ],
-      "morph": "robinson:A-NPN",
-      "strongs": "G3956",
       "translation": "all",
-      "metadata": {},
-      "gematria": {
-        "standard": 432,
-        "ordinal": 50,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3956_B",
+        "subMeaning": "all",
+        "manuscriptType": "NKO",
+        "gloss": "all"
+      },
+      "source": {
+        "raw": "1Co.12.26#15=NKO\tπάντα (panta)\tall\tG3956=A-NPN\tπᾶς=all\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ttodos\tall\t#15\tG3956_B\t\t\t\t\t"
       }
     },
     {
       "position": 16,
       "text": "τὰ",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-NPN",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-NPN",
-      "strongs": "G3588",
       "translation": "the",
-      "metadata": {},
-      "gematria": {
-        "standard": 301,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588_B",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "1Co.12.26#16=NKO\tτὰ (ta)\tthe\tG3588=T-NPN\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tlos\tthe\t#16»17:G3196\tG3588_B\t\t\t\t\t"
       }
     },
     {
       "position": 17,
       "text": "μέλη.",
-      "lemma": [
+      "lemma": "μέλος",
+      "morph": "robinson:N-NPN",
+      "strongs": [
         "G3196"
       ],
-      "morph": "robinson:N-NPN",
-      "strongs": "G3196",
       "translation": "members.",
-      "metadata": {},
-      "gematria": {
-        "standard": 83,
-        "ordinal": 35,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3196_D",
+        "subMeaning": "member",
+        "manuscriptType": "NKO",
+        "gloss": "member"
+      },
+      "source": {
+        "raw": "1Co.12.26#17=NKO\tμέλη.¶ (melē)\tmembers.\tG3196=N-NPN\tμέλος=member\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tmiembros\tmember\t#17\tG3196_D\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 7322,
-    "ordinal": 834,
-    "reduced": 77
-  }
+  ]
 }

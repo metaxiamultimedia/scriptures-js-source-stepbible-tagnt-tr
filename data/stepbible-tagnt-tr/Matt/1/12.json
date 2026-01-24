@@ -4,231 +4,282 @@
     {
       "position": 1,
       "text": "Μετὰ",
-      "lemma": [
+      "lemma": "μετά",
+      "morph": "robinson:PREP",
+      "strongs": [
         "G3326"
       ],
-      "morph": "robinson:PREP",
-      "strongs": "G3326",
       "translation": "After",
-      "metadata": {},
-      "gematria": {
-        "standard": 346,
-        "ordinal": 37,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3326",
+        "subMeaning": "after",
+        "manuscriptType": "NKO",
+        "gloss": "with/after"
+      },
+      "source": {
+        "raw": "Mat.1.12#01=NKO\tΜετὰ (Meta)\tAfter\tG3326=PREP\tμετά=with/after\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tDespués\tafter\t#01\tG3326\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "δὲ",
-      "lemma": [
+      "lemma": "δέ",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G1161"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G1161",
       "translation": "then",
-      "metadata": {},
-      "gematria": {
-        "standard": 9,
-        "ordinal": 9,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1161_A",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "but/and"
+      },
+      "source": {
+        "raw": "Mat.1.12#02=NKO\tδὲ (de)\tthen\tG1161=CONJ\tδέ=but/and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tpero\tand\t#02\tG1161_A\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "τὴν",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-ASF",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-ASF",
-      "strongs": "G3588",
       "translation": "the",
-      "metadata": {},
-      "gematria": {
-        "standard": 358,
-        "ordinal": 39,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588_A",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Mat.1.12#03=NKO\tτὴν (tēn)\tthe\tG3588=T-ASF\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tel\tthe\t#03»04:G3350\tG3588_A\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "μετοικεσίαν",
-      "lemma": [
+      "lemma": "μετοικεσία",
+      "morph": "robinson:N-ASF",
+      "strongs": [
         "G3350"
       ],
-      "morph": "robinson:N-ASF",
-      "strongs": "G3350",
       "translation": "carrying away",
-      "metadata": {},
-      "gematria": {
-        "standard": 711,
-        "ordinal": 116,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3350",
+        "subMeaning": "deportation",
+        "manuscriptType": "NKO",
+        "gloss": "deportation"
+      },
+      "source": {
+        "raw": "Mat.1.12#04=NKO\tμετοικεσίαν (metoikesian)\tcarrying away\tG3350=N-ASF\tμετοικεσία=deportation\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tcambio de casa\tdeportation\t#04\tG3350\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "Βαβυλῶνος",
-      "lemma": [
+      "lemma": "Βαβυλών",
+      "morph": "robinson:N-GSF-L",
+      "strongs": [
         "G0897"
       ],
-      "morph": "robinson:N-GSF-L",
-      "strongs": "G0897",
       "translation": "to Babylon",
-      "metadata": {},
-      "gematria": {
-        "standard": 1555,
-        "ordinal": 106,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0897",
+        "subMeaning": "Babylon»Babylon|Babylon@Gen.10.10",
+        "manuscriptType": "NKO",
+        "gloss": "Babylon"
+      },
+      "source": {
+        "raw": "Mat.1.12#05=NKO\tΒαβυλῶνος (Babulōnos)\tto Babylon\tG0897=N-GSF-L\tΒαβυλών=Babylon\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\t(a) Babilonia\tBabylon»Babylon|Babylon@Gen.10.10\t#05\tG0897\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "Ἰεχονίας",
-      "lemma": [
+      "lemma": "Ἰεχονίας",
+      "morph": "robinson:N-NSM-P",
+      "strongs": [
         "G2423"
       ],
-      "morph": "robinson:N-NSM-P",
-      "strongs": "G2423",
       "translation": "Jeconiah",
-      "metadata": {},
-      "gematria": {
-        "standard": 946,
-        "ordinal": 92,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2423",
+        "subMeaning": "Jehoiachin»Jehoiachin|Jehoiachin@2Ki.24.6",
+        "manuscriptType": "NKO",
+        "gloss": "Jeconiah"
+      },
+      "source": {
+        "raw": "Mat.1.12#06=NKO\tἸεχονίας (Iechonias)\tJeconiah\tG2423=N-NSM-P\tἸεχονίας=Jeconiah\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tJeconías\tJehoiachin»Jehoiachin|Jehoiachin@2Ki.24.6\t#06\tG2423\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "ἐγέννησεν",
-      "lemma": [
+      "lemma": "γεννάω",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
         "G1080"
       ],
-      "morph": "robinson:V-AAI-3S",
-      "strongs": "G1080",
       "translation": "begat",
-      "metadata": {},
-      "gematria": {
-        "standard": 376,
-        "ordinal": 82,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1080_A",
+        "subMeaning": "to beget",
+        "manuscriptType": "NKO",
+        "gloss": "to beget"
+      },
+      "source": {
+        "raw": "Mat.1.12#07=NKO\tἐγέννησεν (egennēsen)\tbegat\tG1080=V-AAI-3S\tγεννάω=to beget\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tgeneró\tto beget\t#07\tG1080_A\t\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "τὸν",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-ASM",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-ASM",
-      "strongs": "G3588",
       "translation": "<the>",
-      "metadata": {},
-      "gematria": {
-        "standard": 420,
-        "ordinal": 47,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588_B",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Mat.1.12#08=NKO\tτὸν (ton)\t<the>\tG3588=T-ASM\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta el\tthe\t#08»09:G4528\tG3588_B\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "Σαλαθιήλ·",
-      "lemma": [
+      "lemma": "Σαλαθιήλ",
+      "morph": "robinson:N-ASM-P",
+      "strongs": [
         "G4528H"
       ],
-      "morph": "robinson:N-ASM-P",
-      "strongs": "G4528H",
       "translation": "Shealtiel;",
-      "metadata": {},
-      "gematria": {
-        "standard": 289,
-        "ordinal": 66,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4528_A",
+        "subMeaning": "Shealtiel»Shealtiel|Shealtiel@1Ch.3.17",
+        "manuscriptType": "NKO",
+        "gloss": "Salathiel"
+      },
+      "source": {
+        "raw": "Mat.1.12#09=NKO\tΣαλαθιήλ· (Salathiēl)\tShealtiel;\tG4528H=N-ASM-P\tΣαλαθιήλ=Salathiel\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tSealtiel\tShealtiel»Shealtiel|Shealtiel@1Ch.3.17\t#09\tG4528_A\t\t\t\t\t"
       }
     },
     {
       "position": 10,
       "text": "Σαλαθιὴλ",
-      "lemma": [
+      "lemma": "Σαλαθιήλ",
+      "morph": "robinson:N-NSM-P",
+      "strongs": [
         "G4528H"
       ],
-      "morph": "robinson:N-NSM-P",
-      "strongs": "G4528H",
       "translation": "Shealtiel",
-      "metadata": {},
-      "gematria": {
-        "standard": 289,
-        "ordinal": 66,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4528_B",
+        "subMeaning": "Shealtiel»Shealtiel|Shealtiel@1Ch.3.17",
+        "manuscriptType": "NKO",
+        "gloss": "Salathiel"
+      },
+      "source": {
+        "raw": "Mat.1.12#10=NKO\tΣαλαθιὴλ (Salathiēl)\tShealtiel\tG4528H=N-NSM-P\tΣαλαθιήλ=Salathiel\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tSealtiel\tShealtiel»Shealtiel|Shealtiel@1Ch.3.17\t#10\tG4528_B\t\t\t\t\t"
       }
     },
     {
       "position": 11,
       "text": "δὲ",
-      "lemma": [
+      "lemma": "δέ",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G1161"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G1161",
       "translation": "then",
-      "metadata": {},
-      "gematria": {
-        "standard": 9,
-        "ordinal": 9,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1161_B",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "but/and"
+      },
+      "source": {
+        "raw": "Mat.1.12#11=NKO\tδὲ (de)\tthen\tG1161=CONJ\tδέ=but/and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tpero\tand\t#11\tG1161_B\t\t\t\t\t"
       }
     },
     {
       "position": 12,
       "text": "ἐγέννησεν",
-      "lemma": [
+      "lemma": "γεννάω",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
         "G1080"
       ],
-      "morph": "robinson:V-AAI-3S",
-      "strongs": "G1080",
       "translation": "begat",
-      "metadata": {},
-      "gematria": {
-        "standard": 376,
-        "ordinal": 82,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1080_B",
+        "subMeaning": "to beget",
+        "manuscriptType": "NKO",
+        "gloss": "to beget"
+      },
+      "source": {
+        "raw": "Mat.1.12#12=NKO\tἐγέννησεν (egennēsen)\tbegat\tG1080=V-AAI-3S\tγεννάω=to beget\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tgeneró\tto beget\t#12\tG1080_B\t\t\t\t\t"
       }
     },
     {
       "position": 13,
       "text": "τὸν",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-ASM",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-ASM",
-      "strongs": "G3588",
       "translation": "<the>",
-      "metadata": {},
-      "gematria": {
-        "standard": 420,
-        "ordinal": 47,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588_C",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Mat.1.12#13=NKO\tτὸν (ton)\t<the>\tG3588=T-ASM\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta el\tthe\t#13»14:G2216\tG3588_C\t\t\t\t\t"
       }
     },
     {
       "position": 14,
       "text": "Ζοροβαβέλ·",
-      "lemma": [
+      "lemma": "Ζοροβάβελ",
+      "morph": "robinson:N-ASM-P",
+      "strongs": [
         "G2216H"
       ],
-      "morph": "robinson:N-ASM-P",
-      "strongs": "G2216H",
       "translation": "Zerubbabel;",
-      "metadata": {},
-      "gematria": {
-        "standard": 287,
-        "ordinal": 74,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2216",
+        "subMeaning": "Zerubbabel»Zerubbabel@1Ch.3.19",
+        "manuscriptType": "NKO",
+        "gloss": "Zerubbabel"
+      },
+      "source": {
+        "raw": "Mat.1.12#14=NKO\tΖοροβαβέλ· (Zorobabel)\tZerubbabel;\tG2216H=N-ASM-P\tΖοροβάβελ=Zerubbabel\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tZorobabel\tZerubbabel»Zerubbabel@1Ch.3.19\t#14\tG2216\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 6391,
-    "ordinal": 872,
-    "reduced": 82
-  }
+  ]
 }

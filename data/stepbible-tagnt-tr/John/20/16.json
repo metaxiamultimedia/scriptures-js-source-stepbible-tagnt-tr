@@ -4,215 +4,264 @@
     {
       "position": 1,
       "text": "λέγει",
-      "lemma": [
+      "lemma": "λέγω",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
         "G3004G"
       ],
-      "morph": "robinson:V-PAI-3S",
-      "strongs": "G3004G",
       "translation": "Says",
-      "metadata": {},
-      "gematria": {
-        "standard": 53,
-        "ordinal": 33,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3004_A",
+        "subMeaning": ": speak»to speak|1_speak/ask",
+        "manuscriptType": "NKO",
+        "gloss": "to speak"
+      },
+      "source": {
+        "raw": "Jhn.20.16#01=NKO\tλέγει (legei)\tSays\tG3004G=V-PAI-3S\tλέγω=to speak\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tEstá diciendo\t: speak»to speak|1_speak/ask\t#01\tG3004_A\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "αὐτῇ",
-      "lemma": [
+      "lemma": "αὐτός",
+      "morph": "robinson:P-DSF",
+      "strongs": [
         "G0846"
       ],
-      "morph": "robinson:P-DSF",
-      "strongs": "G0846",
       "translation": "to her",
-      "metadata": {},
-      "gematria": {
-        "standard": 719,
-        "ordinal": 56,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0846_A",
+        "subMeaning": "to her",
+        "manuscriptType": "NKO",
+        "gloss": "he/she/it/self"
+      },
+      "source": {
+        "raw": "Jhn.20.16#02=NKO\tαὐτῇ (autēa)\tto her\tG0846=P-DSF\tαὐτός=he/she/it/self\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta ella\tto her\t#02«01:G3004\tG0846_A\tG3778\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "ὁ",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-NSM",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-NSM",
-      "strongs": "G3588",
       "translation": "<the>",
-      "metadata": {},
-      "gematria": {
-        "standard": 70,
-        "ordinal": 15,
-        "reduced": 7
+      "metadata": {
+        "editions": "TR+Byz",
+        "extendedStrongs": "G3588",
+        "subMeaning": "the",
+        "manuscriptType": "k",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Jhn.20.16#03=k\tὁ (ho)\t<the>\tG3588=T-NSM\tὁ=the/this/who\tTR+Byz\t\t\tel\tthe\t#03»04:G2424\tG3588\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "Ἰησοῦς·",
-      "lemma": [
+      "lemma": "Ἰησοῦς",
+      "morph": "robinson:N-NSM-P",
+      "strongs": [
         "G2424G"
       ],
-      "morph": "robinson:N-NSM-P",
-      "strongs": "G2424G",
       "translation": "Jesus;",
-      "metadata": {},
-      "gematria": {
-        "standard": 888,
-        "ordinal": 87,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2424",
+        "subMeaning": "Jesus»Jesus|Jesus@Mat.1.1",
+        "manuscriptType": "NKO",
+        "gloss": "Jesus/Joshua"
+      },
+      "source": {
+        "raw": "Jhn.20.16#04=NKO\tἸησοῦς· (Iēsous)\tJesus;\tG2424G=N-NSM-P\tἸησοῦς=Jesus/Joshua\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tJesús\tJesus»Jesus|Jesus@Mat.1.1\t#04\tG2424\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "Μαριάμ.",
-      "lemma": [
+      "lemma": "Μαρία",
+      "morph": "robinson:N-VSF-P",
+      "strongs": [
         "G3137I"
       ],
-      "morph": "robinson:N-VSF-P",
-      "strongs": "G3137I",
       "translation": "Mary.",
-      "metadata": {},
-      "gematria": {
-        "standard": 192,
-        "ordinal": 52,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg",
+        "extendedStrongs": "G3137",
+        "subMeaning": "Mary»Mary|Magdalene@Mat.27.56",
+        "variants": "Μαρία (t=Maria) Mary - G3137=N-NSF-P in: TR+Byz",
+        "manuscriptType": "N(k)O",
+        "gloss": "Mary"
+      },
+      "source": {
+        "raw": "Jhn.20.16#05=N(k)O\tΜαριάμ. (Mariam)\tMary.\tG3137I=N-VSF-P\tΜαρία=Mary\tNA28+NA27+Tyn+SBL+WH+Treg\tΜαρία (t=Maria) Mary - G3137=N-NSF-P in: TR+Byz\t\tMaría\tMary»Mary|Magdalene@Mat.27.56\t#05\tG3137\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "στραφεῖσα",
-      "lemma": [
+      "lemma": "στρέφω",
+      "morph": "robinson:V-2APP-NSF",
+      "strongs": [
         "G4762"
       ],
-      "morph": "robinson:V-2APP-NSF",
-      "strongs": "G4762",
       "translation": "Having turned around",
-      "metadata": {},
-      "gematria": {
-        "standard": 1317,
-        "ordinal": 109,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4762",
+        "subMeaning": "turned",
+        "manuscriptType": "NKO",
+        "gloss": "to turn"
+      },
+      "source": {
+        "raw": "Jhn.20.16#06=NKO\tστραφεῖσα (strapheisa)\tHaving turned around\tG4762=V-2APP-NSF\tστρέφω=to turn\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tHabiendo sido hecha volverse\tturned\t#06\tG4762\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "ἐκείνη",
-      "lemma": [
+      "lemma": "ἐκεῖνος",
+      "morph": "robinson:D-NSF",
+      "strongs": [
         "G1565"
       ],
-      "morph": "robinson:D-NSF",
-      "strongs": "G1565",
       "translation": "she",
-      "metadata": {},
-      "gematria": {
-        "standard": 98,
-        "ordinal": 49,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1565",
+        "subMeaning": "that",
+        "manuscriptType": "NKO",
+        "gloss": "that"
+      },
+      "source": {
+        "raw": "Jhn.20.16#07=NKO\tἐκείνη (ekeinē)\tshe\tG1565=D-NSF\tἐκεῖνος=that\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\taquella\tthat\t#07»08:G3004\tG1565\t\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "λέγει",
-      "lemma": [
+      "lemma": "λέγω",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
         "G3004G"
       ],
-      "morph": "robinson:V-PAI-3S",
-      "strongs": "G3004G",
       "translation": "says",
-      "metadata": {},
-      "gematria": {
-        "standard": 53,
-        "ordinal": 33,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3004_B",
+        "subMeaning": ": speak»to speak|1_speak/ask",
+        "manuscriptType": "NKO",
+        "gloss": "to speak"
+      },
+      "source": {
+        "raw": "Jhn.20.16#08=NKO\tλέγει (legei)\tsays\tG3004G=V-PAI-3S\tλέγω=to speak\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testá diciendo\t: speak»to speak|1_speak/ask\t#08\tG3004_B\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "αὐτῷ",
-      "lemma": [
+      "lemma": "αὐτός",
+      "morph": "robinson:P-DSM",
+      "strongs": [
         "G0846"
       ],
-      "morph": "robinson:P-DSM",
-      "strongs": "G0846",
       "translation": "to Him",
-      "metadata": {},
-      "gematria": {
-        "standard": 1511,
-        "ordinal": 73,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0846_B",
+        "subMeaning": "to him",
+        "manuscriptType": "NKO",
+        "gloss": "he/she/it/self"
+      },
+      "source": {
+        "raw": "Jhn.20.16#09=NKO\tαὐτῷ (autō)\tto Him\tG0846=P-DSM\tαὐτός=he/she/it/self\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta él\tto him\t#09«08:G3004\tG0846_B\tG3778\t\t\t\t"
       }
     },
     {
       "position": 10,
       "text": "ραββουνι,",
-      "lemma": [
+      "lemma": "ῥαββονί",
+      "morph": "robinson:N-VSM-T",
+      "strongs": [
         "G4462"
       ],
-      "morph": "robinson:N-VSM-T",
-      "strongs": "G4462",
       "translation": "Rabboni,",
-      "metadata": {},
-      "gematria": {
-        "standard": 635,
-        "ordinal": 79,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4462",
+        "subMeaning": "Rabboni»Rabboni|Rabbi@Mat.23.7",
+        "variants": "WH: Ῥαββουνεί ; +Byz+TR+Treg+SBL+Tyn: ῥαββουνί ;",
+        "manuscriptType": "NKO",
+        "gloss": "Rabboni"
+      },
+      "source": {
+        "raw": "Jhn.20.16#11=NKO\tραββουνι, (rabbouni)\tRabboni,\tG4462=N-VSM-T\tῥαββονί=Rabboni\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\tWH: Ῥαββουνεί ; +Byz+TR+Treg+SBL+Tyn: ῥαββουνί ; \tRabboni\tRabboni»Rabboni|Rabbi@Mat.23.7\t#11\tG4462\t\t\t\t\t"
       }
     },
     {
       "position": 11,
       "text": "ὃ",
-      "lemma": [
+      "lemma": "ὅς, ἥ",
+      "morph": "robinson:R-NSN",
+      "strongs": [
         "G3739"
       ],
-      "morph": "robinson:R-NSN",
-      "strongs": "G3739",
       "translation": "that",
-      "metadata": {},
-      "gematria": {
-        "standard": 70,
-        "ordinal": 15,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3739",
+        "subMeaning": "which",
+        "manuscriptType": "NKO",
+        "gloss": "which"
+      },
+      "source": {
+        "raw": "Jhn.20.16#12=NKO\tὃ (ho)\tthat\tG3739=R-NSN\tὅς, ἥ=which\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tCual\twhich\t#12»13:G3004\tG3739\t\t\t\t\t"
       }
     },
     {
       "position": 12,
       "text": "λέγεται,",
-      "lemma": [
+      "lemma": "λέγω",
+      "morph": "robinson:V-PPI-3S",
+      "strongs": [
         "G3004G"
       ],
-      "morph": "robinson:V-PPI-3S",
-      "strongs": "G3004G",
       "translation": "is to say,",
-      "metadata": {},
-      "gematria": {
-        "standard": 354,
-        "ordinal": 53,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3004_C",
+        "subMeaning": ": speak»to speak|1_speak/ask",
+        "manuscriptType": "NKO",
+        "gloss": "to speak"
+      },
+      "source": {
+        "raw": "Jhn.20.16#13=NKO\tλέγεται, (legetai)\tis to say,\tG3004G=V-PPI-3S\tλέγω=to speak\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testá siendo dicho\t: speak»to speak|1_speak/ask\t#13\tG3004_C\t\t\t\t\t"
       }
     },
     {
       "position": 13,
       "text": "διδάσκαλε.",
-      "lemma": [
+      "lemma": "διδάσκαλος",
+      "morph": "robinson:N-VSM-T",
+      "strongs": [
         "G1320"
       ],
-      "morph": "robinson:N-VSM-T",
-      "strongs": "G1320",
       "translation": "Teacher.",
-      "metadata": {},
-      "gematria": {
-        "standard": 275,
-        "ordinal": 63,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1320",
+        "subMeaning": "teacher",
+        "manuscriptType": "NKO",
+        "gloss": "teacher"
+      },
+      "source": {
+        "raw": "Jhn.20.16#14=NKO\tδιδάσκαλε. (didaskale)\tTeacher.\tG1320=N-VSM-T\tδιδάσκαλος=teacher\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tMaestro\tteacher\t#14\tG1320\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 6235,
-    "ordinal": 717,
-    "reduced": 79
-  }
+  ]
 }

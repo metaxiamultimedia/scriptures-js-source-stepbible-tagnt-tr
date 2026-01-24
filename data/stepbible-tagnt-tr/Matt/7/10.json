@@ -4,151 +4,183 @@
     {
       "position": 1,
       "text": "ἢ",
-      "lemma": [
+      "lemma": "ἤ",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2228"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2228",
       "translation": "Or",
-      "metadata": {},
-      "gematria": {
-        "standard": 8,
-        "ordinal": 7,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+KJV",
+        "extendedStrongs": "G2228",
+        "subMeaning": "or",
+        "manuscriptType": "NKO",
+        "gloss": "or/than"
+      },
+      "source": {
+        "raw": "Mat.7.10#01=NKO\tἢ (ē)\tOr\tG2228=CONJ\tἤ=or/than\tNA28+NA27+Tyn+SBL+WH+Treg+KJV\t\t\tO\tor\t#01\tG2228\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "also",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "Mat.7.10#02=NKO\tκαὶ (kai)\talso\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ttambién\tand\t#02\tG2532\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "ἐὰν",
-      "lemma": [
+      "lemma": "ἐάν",
+      "morph": "robinson:COND",
+      "strongs": [
         "G1437"
       ],
-      "morph": "robinson:COND",
-      "strongs": "G1437",
       "translation": "if",
-      "metadata": {},
-      "gematria": {
-        "standard": 56,
-        "ordinal": 19,
-        "reduced": 2
+      "metadata": {
+        "editions": "TR+Byz",
+        "extendedStrongs": "G1437",
+        "subMeaning": "if",
+        "manuscriptType": "K",
+        "gloss": "if"
+      },
+      "source": {
+        "raw": "Mat.7.10#03=K\tἐὰν (ean)\tif\tG1437=COND\tἐάν=if\tTR+Byz\t\t\tsi alguna vez\tif\t#03\tG1437\t\t^ ἐὰν  (<i>ean</i>) 'if' is only in traditional manuscripts (TR+Byz)\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "ἰχθὺν",
-      "lemma": [
+      "lemma": "ἰχθύς",
+      "morph": "robinson:N-ASM",
+      "strongs": [
         "G2486"
       ],
-      "morph": "robinson:N-ASM",
-      "strongs": "G2486",
       "translation": "a fish",
-      "metadata": {},
-      "gematria": {
-        "standard": 1069,
-        "ordinal": 72,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2486",
+        "subMeaning": "fish",
+        "manuscriptType": "NKO",
+        "gloss": "fish"
+      },
+      "source": {
+        "raw": "Mat.7.10#04=NKO\tἰχθὺν (ichthun)\ta fish\tG2486=N-ASM\tἰχθύς=fish\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tpescado\tfish\t#04\tG2486\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "αἰτήσει,",
-      "lemma": [
+      "lemma": "αἰτέω",
+      "morph": "robinson:V-FAI-3S",
+      "strongs": [
         "G0154"
       ],
-      "morph": "robinson:V-FAI-3S",
-      "strongs": "G0154",
       "translation": "he will ask for,",
-      "metadata": {},
-      "gematria": {
-        "standard": 534,
-        "ordinal": 68,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg",
+        "extendedStrongs": "G0154",
+        "subMeaning": "to ask",
+        "variants": "αἰτήσῃ (T=aitēsē) you shall ask - G0154=V-AMS-2S in: TR+Byz",
+        "manuscriptType": "N(K)O",
+        "gloss": "to ask"
+      },
+      "source": {
+        "raw": "Mat.7.10#05=N(K)O\tαἰτήσει, (aitēsei)\the will ask for,\tG0154=V-FAI-3S\tαἰτέω=to ask\tNA28+NA27+Tyn+SBL+WH+Treg\tαἰτήσῃ (T=aitēsē) you shall ask - G0154=V-AMS-2S in: TR+Byz\t\tsuplicará\tto ask\t#05\tG0154\t\tv αἰτήσῃ  (<i>aitēsē</i>) 'you shall ask' occurs in traditional manuscripts (TR+Byz) instead of αἰτήσει,  (<i>aitēsei</i>) 'he will ask for,' in older manuscripts (NA28+NA27+Tyn+SBL+WH+Treg)\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "μὴ",
-      "lemma": [
+      "lemma": "μή",
+      "morph": "robinson:PRT-N",
+      "strongs": [
         "G3361"
       ],
-      "morph": "robinson:PRT-N",
-      "strongs": "G3361",
       "translation": "surely not",
-      "metadata": {},
-      "gematria": {
-        "standard": 48,
-        "ordinal": 19,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3361",
+        "subMeaning": "not",
+        "manuscriptType": "NKO",
+        "gloss": "not"
+      },
+      "source": {
+        "raw": "Mat.7.10#06=NKO\tμὴ (mē)\tsurely not\tG3361=PRT-N\tμή=not\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\t¿acaso\tnot\t#06»07:G3789\tG3361\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "ὄφιν",
-      "lemma": [
+      "lemma": "ὄφις",
+      "morph": "robinson:N-ASM",
+      "strongs": [
         "G3789"
       ],
-      "morph": "robinson:N-ASM",
-      "strongs": "G3789",
       "translation": "a serpent",
-      "metadata": {},
-      "gematria": {
-        "standard": 630,
-        "ordinal": 58,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3789",
+        "subMeaning": "snake",
+        "manuscriptType": "NKO",
+        "gloss": "snake"
+      },
+      "source": {
+        "raw": "Mat.7.10#07=NKO\tὄφιν (ophin)\ta serpent\tG3789=N-ASM\tὄφις=snake\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tserpiente\tsnake\t#07\tG3789\t\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "ἐπιδώσει",
-      "lemma": [
+      "lemma": "ἐπιδίδωμι",
+      "morph": "robinson:V-FAI-3S",
+      "strongs": [
         "G1929"
       ],
-      "morph": "robinson:V-FAI-3S",
-      "strongs": "G1929",
       "translation": "will he give",
-      "metadata": {},
-      "gematria": {
-        "standard": 1114,
-        "ordinal": 90,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1929",
+        "subMeaning": "to give",
+        "manuscriptType": "NKO",
+        "gloss": "to give/deliver"
+      },
+      "source": {
+        "raw": "Mat.7.10#08=NKO\tἐπιδώσει (epidōsei)\twill he give\tG1929=V-FAI-3S\tἐπιδίδωμι=to give/deliver\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tdará\tto give\t#08\tG1929\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "αὐτῷ;",
-      "lemma": [
+      "lemma": "αὐτός",
+      "morph": "robinson:P-DSM",
+      "strongs": [
         "G0846"
       ],
-      "morph": "robinson:P-DSM",
-      "strongs": "G0846",
       "translation": "to him?",
-      "metadata": {},
-      "gematria": {
-        "standard": 1511,
-        "ordinal": 73,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0846",
+        "subMeaning": "to him",
+        "manuscriptType": "NKO",
+        "gloss": "he/she/it/self"
+      },
+      "source": {
+        "raw": "Mat.7.10#09=NKO\tαὐτῷ; (autō)\tto him?\tG0846=P-DSM\tαὐτός=he/she/it/self\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta él?\tto him\t#09«08:G1929\tG0846\tG3778\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 5001,
-    "ordinal": 426,
-    "reduced": 51
-  }
+  ]
 }

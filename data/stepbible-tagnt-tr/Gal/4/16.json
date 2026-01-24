@@ -4,103 +4,122 @@
     {
       "position": 1,
       "text": "ὥστε",
-      "lemma": [
+      "lemma": "ὥστε",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G5620"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G5620",
       "translation": "So",
-      "metadata": {},
-      "gematria": {
-        "standard": 1305,
-        "ordinal": 66,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5620",
+        "subMeaning": "so",
+        "manuscriptType": "NKO",
+        "gloss": "so"
+      },
+      "source": {
+        "raw": "Gal.4.16#01=NKO\tὥστε (hōste)\tSo\tG5620=CONJ\tὥστε=so\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\t¿De modo que\tso\t#01\tG5620\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "ἐχθρὸς",
-      "lemma": [
+      "lemma": "ἐχθρός",
+      "morph": "robinson:N-NSM",
+      "strongs": [
         "G2190"
       ],
-      "morph": "robinson:N-NSM",
-      "strongs": "G2190",
       "translation": "enemy",
-      "metadata": {},
-      "gematria": {
-        "standard": 984,
-        "ordinal": 85,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2190",
+        "subMeaning": "enemy",
+        "manuscriptType": "NKO",
+        "gloss": "enemy"
+      },
+      "source": {
+        "raw": "Gal.4.16#02=NKO\tἐχθρὸς (echthros)\tenemy\tG2190=N-NSM\tἐχθρός=enemy\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tenemigo\tenemy\t#02\tG2190\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "ὑμῶν",
-      "lemma": [
+      "lemma": "σύ",
+      "morph": "robinson:P-2GP",
+      "strongs": [
         "G4771"
       ],
-      "morph": "robinson:P-2GP",
-      "strongs": "G4771",
       "translation": "of you",
-      "metadata": {},
-      "gematria": {
-        "standard": 1290,
-        "ordinal": 69,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4771_A",
+        "subMeaning": "your",
+        "manuscriptType": "NKO",
+        "gloss": "you"
+      },
+      "source": {
+        "raw": "Gal.4.16#03=NKO\tὑμῶν (humōn)\tof you\tG4771=P-2GP\tσύ=you\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tde ustedes\tyour\t#03«02:G2190\tG4771_A\tG5216\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "γέγονα",
-      "lemma": [
+      "lemma": "γίνομαι",
+      "morph": "robinson:V-2RAI-1S",
+      "strongs": [
         "G1096"
       ],
-      "morph": "robinson:V-2RAI-1S",
-      "strongs": "G1096",
       "translation": "have I become",
-      "metadata": {},
-      "gematria": {
-        "standard": 132,
-        "ordinal": 40,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1096",
+        "subMeaning": "to be",
+        "manuscriptType": "NKO",
+        "gloss": "to be"
+      },
+      "source": {
+        "raw": "Gal.4.16#04=NKO\tγέγονα (gegona)\thave I become\tG1096=V-2RAI-1S\tγίνομαι=to be\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\the llegado a ser\tto be\t#04\tG1096\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "ἀληθεύων",
-      "lemma": [
+      "lemma": "ἀληθεύω",
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": [
         "G0226"
       ],
-      "morph": "robinson:V-PAP-NSM",
-      "strongs": "G0226",
       "translation": "speaking truth",
-      "metadata": {},
-      "gematria": {
-        "standard": 1303,
-        "ordinal": 89,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0226",
+        "subMeaning": "be truthful",
+        "manuscriptType": "NKO",
+        "gloss": "be truthful"
+      },
+      "source": {
+        "raw": "Gal.4.16#05=NKO\tἀληθεύων (alētheuōn)\tspeaking truth\tG0226=V-PAP-NSM\tἀληθεύω=be truthful\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testando hablando la verdad\tbe truthful\t#05\tG0226\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "ὑμῖν;",
-      "lemma": [
+      "lemma": "σύ",
+      "morph": "robinson:P-2DP",
+      "strongs": [
         "G4771"
       ],
-      "morph": "robinson:P-2DP",
-      "strongs": "G4771",
       "translation": "to you?",
-      "metadata": {},
-      "gematria": {
-        "standard": 500,
-        "ordinal": 54,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4771_B",
+        "subMeaning": "to you",
+        "manuscriptType": "NKO",
+        "gloss": "you"
+      },
+      "source": {
+        "raw": "Gal.4.16#06=NKO\tὑμῖν; (humin)\tto you?\tG4771=P-2DP\tσύ=you\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta ustedes?\tto you\t#06«05:G0226\tG4771_B\tG5213\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 5514,
-    "ordinal": 403,
-    "reduced": 33
-  }
+  ]
 }

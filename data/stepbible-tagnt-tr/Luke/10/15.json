@@ -4,183 +4,226 @@
     {
       "position": 1,
       "text": "καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "And",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "Luk.10.15#01=NKO\tκαὶ (kai)\tAnd\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tY\tand\t#01\tG2532\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "σὺ",
-      "lemma": [
+      "lemma": "σύ",
+      "morph": "robinson:P-2NS",
+      "strongs": [
         "G4771"
       ],
-      "morph": "robinson:P-2NS",
-      "strongs": "G4771",
       "translation": "you yourself",
-      "metadata": {},
-      "gematria": {
-        "standard": 600,
-        "ordinal": 38,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4771",
+        "subMeaning": "you",
+        "manuscriptType": "NKO",
+        "gloss": "you"
+      },
+      "source": {
+        "raw": "Luk.10.15#02=NKO\tσὺ (su)\tyou yourself\tG4771=P-2NS\tσύ=you\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ttú\tyou\t#02»03:G2584\tG4771\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "Καφαρναοὺμ",
-      "lemma": [
+      "lemma": "Καπερναούμ",
+      "morph": "robinson:N-VSF-L",
+      "strongs": [
         "G2584"
       ],
-      "morph": "robinson:N-VSF-L",
-      "strongs": "G2584",
       "translation": "Capernaum",
-      "metadata": {},
-      "gematria": {
-        "standard": 1183,
-        "ordinal": 111,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2584",
+        "subMeaning": "Capernaum»Capernaum@Mat.4.13",
+        "variants": "TR: Καπερναούμ ;",
+        "manuscriptType": "NKO",
+        "gloss": "Capernaum"
+      },
+      "source": {
+        "raw": "Luk.10.15#03=NKO\tΚαφαρναοὺμ (Kapharnaoum)\tCapernaum\tG2584=N-VSF-L\tΚαπερναούμ=Capernaum\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\tTR: Καπερναούμ ; \tCapernaum\tCapernaum»Capernaum@Mat.4.13\t#03\tG2584\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "μὴ",
-      "lemma": [
+      "lemma": "μή",
+      "morph": "robinson:PRT-N",
+      "strongs": [
         "G3361"
       ],
-      "morph": "robinson:PRT-N",
-      "strongs": "G3361",
       "translation": "not",
-      "metadata": {},
-      "gematria": {
-        "standard": 48,
-        "ordinal": 19,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg",
+        "extendedStrongs": "G3361",
+        "subMeaning": "not",
+        "variants": "ἡ (t=hē) <the> - G3588=T-NSF in: TR+Byz",
+        "manuscriptType": "N(k)O",
+        "gloss": "not"
+      },
+      "source": {
+        "raw": "Luk.10.15#04=N(k)O\tμὴ (mē)\tnot\tG3361=PRT-N\tμή=not\tNA28+NA27+Tyn+SBL+WH+Treg\tἡ (t=hē) <the> - G3588=T-NSF in: TR+Byz\t\t¿Acaso\tnot\t#04»08:G5312\tG3361\tG3588\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "ἕως",
-      "lemma": [
+      "lemma": "ἕως",
+      "morph": "robinson:PREP",
+      "strongs": [
         "G2193"
       ],
-      "morph": "robinson:PREP",
-      "strongs": "G2193",
       "translation": "to",
-      "metadata": {},
-      "gematria": {
-        "standard": 1005,
-        "ordinal": 47,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2193_A",
+        "subMeaning": "until",
+        "manuscriptType": "NKO",
+        "gloss": "until"
+      },
+      "source": {
+        "raw": "Luk.10.15#05=NKO\tἕως (he'ōs)\tto\tG2193=PREP\tἕως=until\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\thasta\tuntil\t#05\tG2193_A\tG3755\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "τοῦ",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-GSM",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-GSM",
-      "strongs": "G3588",
       "translation": "<the>",
-      "metadata": {},
-      "gematria": {
-        "standard": 770,
-        "ordinal": 54,
-        "reduced": 5
+      "metadata": {
+        "editions": "TR+Byz",
+        "extendedStrongs": "G3588_b",
+        "subMeaning": "the",
+        "manuscriptType": "k",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Luk.10.15#06=k\tτοῦ (tou)\t<the>\tG3588=T-GSM\tὁ=the/this/who\tTR+Byz\t\t\tde el\tthe\t#06»07:G3772\tG3588_b\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "οὐρανοῦ",
-      "lemma": [
+      "lemma": "οὐρανός",
+      "morph": "robinson:N-GSM",
+      "strongs": [
         "G3772"
       ],
-      "morph": "robinson:N-GSM",
-      "strongs": "G3772",
       "translation": "heaven",
-      "metadata": {},
-      "gematria": {
-        "standard": 1091,
-        "ordinal": 101,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3772",
+        "subMeaning": "heaven",
+        "manuscriptType": "NKO",
+        "gloss": "heaven"
+      },
+      "source": {
+        "raw": "Luk.10.15#07=NKO\tοὐρανοῦ (ouranou)\theaven\tG3772=N-GSM\tοὐρανός=heaven\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tcielo\theaven\t#07\tG3772\t\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "ὑψωθήσῃ;",
-      "lemma": [
+      "lemma": "ὑψόω",
+      "morph": "robinson:V-FPI-2S",
+      "strongs": [
         "G5312"
       ],
-      "morph": "robinson:V-FPI-2S",
-      "strongs": "G5312",
       "translation": "will you be lifted up?",
-      "metadata": {},
-      "gematria": {
-        "standard": 2135,
-        "ordinal": 116,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg",
+        "extendedStrongs": "G5312",
+        "subMeaning": "to lift up",
+        "variants": "ὑψωθεῖσα (t=hupsōtheisa) were you being lifted up - G5312=V-APP-NSF in: TR+Byz",
+        "manuscriptType": "N(k)O",
+        "gloss": "to lift up"
+      },
+      "source": {
+        "raw": "Luk.10.15#08=N(k)O\tὑψωθήσῃ; (hupsōthēsē)\twill you be lifted up?\tG5312=V-FPI-2S\tὑψόω=to lift up\tNA28+NA27+Tyn+SBL+WH+Treg\tὑψωθεῖσα (t=hupsōtheisa) were you being lifted up - G5312=V-APP-NSF in: TR+Byz\t\tserás alzada?\tto lift up\t#08\tG5312\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "ἕως",
-      "lemma": [
+      "lemma": "ἕως",
+      "morph": "robinson:PREP",
+      "strongs": [
         "G2193"
       ],
-      "morph": "robinson:PREP",
-      "strongs": "G2193",
       "translation": "to",
-      "metadata": {},
-      "gematria": {
-        "standard": 1005,
-        "ordinal": 47,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2193_B",
+        "subMeaning": "until",
+        "manuscriptType": "NKO",
+        "gloss": "until"
+      },
+      "source": {
+        "raw": "Luk.10.15#09=NKO\tἕως (he'ōs)\tto\tG2193=PREP\tἕως=until\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tHasta\tuntil\t#09\tG2193_B\tG3755\t\t\t\t"
       }
     },
     {
       "position": 10,
       "text": "ᾅδου",
-      "lemma": [
+      "lemma": "ᾍδης",
+      "morph": "robinson:N-GSM-L",
+      "strongs": [
         "G0086"
       ],
-      "morph": "robinson:N-GSM-L",
-      "strongs": "G0086",
       "translation": "Hades",
-      "metadata": {},
-      "gematria": {
-        "standard": 485,
-        "ordinal": 49,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0086",
+        "subMeaning": "Sheol»Sheol|Hell@Gen.37.35",
+        "manuscriptType": "NKO",
+        "gloss": "Hades"
+      },
+      "source": {
+        "raw": "Luk.10.15#11=NKO\tᾅδου (hadou)\tHades\tG0086=N-GSM-L\tᾍδης=Hades\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tSepulcro\tSheol»Sheol|Hell@Gen.37.35\t#11\tG0086\t\t\t\t\t"
       }
     },
     {
       "position": 11,
       "text": "καταβήσῃ.",
-      "lemma": [
+      "lemma": "καταβαίνω",
+      "morph": "robinson:V-FDI-2S",
+      "strongs": [
         "G2597"
       ],
-      "morph": "robinson:V-FDI-2S",
-      "strongs": "G2597",
       "translation": "you will be brought down.",
-      "metadata": {},
-      "gematria": {
-        "standard": 550,
-        "ordinal": 74,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+WH",
+        "extendedStrongs": "G2597",
+        "subMeaning": "to go down",
+        "variants": "καταβιβασθήσῃ (t=katabibasthēsē) you will be sent down - G2601=V-FPI-2S in: Tyn+SBL+Treg+TR+Byz",
+        "manuscriptType": "N(k)O",
+        "gloss": "to come/go down"
+      },
+      "source": {
+        "raw": "Luk.10.15#12=N(k)O\tκαταβήσῃ.¶ (katabēsē)\tyou will be brought down.\tG2597=V-FDI-2S\tκαταβαίνω=to come/go down\tNA28+NA27+WH\tκαταβιβασθήσῃ (t=katabibasthēsē) you will be sent down - G2601=V-FPI-2S in: Tyn+SBL+Treg+TR+Byz\t\tbajarás\tto go down\t#12\tG2597\tG2601\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 8903,
-    "ordinal": 676,
-    "reduced": 47
-  }
+  ]
 }

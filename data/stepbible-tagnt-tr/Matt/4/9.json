@@ -4,183 +4,223 @@
     {
       "position": 1,
       "text": "καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "and",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "Mat.4.9#01=NKO\tκαὶ (kai)\tand\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tY\tand\t#01\tG2532\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "εἶπεν",
-      "lemma": [
+      "lemma": "ἔπω, ἐρῶ, εἶπον",
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": [
         "G2036"
       ],
-      "morph": "robinson:V-2AAI-3S",
-      "strongs": "G2036",
       "translation": "he says",
-      "metadata": {},
-      "gematria": {
-        "standard": 150,
-        "ordinal": 48,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg",
+        "extendedStrongs": "G2036",
+        "subMeaning": "to say",
+        "variants": "λέγει (t=legei) he speaks - G3004=V-PAI-3S in: TR+Byz",
+        "manuscriptType": "N(k)O",
+        "gloss": "to say"
+      },
+      "source": {
+        "raw": "Mat.4.9#02=N(k)O\tεἶπεν (eipen)\the says\tG2036=V-2AAI-3S\tἔπω, ἐρῶ, εἶπον=to say\tNA28+NA27+Tyn+SBL+WH+Treg\tλέγει (t=legei) he speaks - G3004=V-PAI-3S in: TR+Byz\t\tdijo\tto say\t#02\tG2036\tG3004\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "αὐτῷ·",
-      "lemma": [
+      "lemma": "αὐτός",
+      "morph": "robinson:P-DSM",
+      "strongs": [
         "G0846"
       ],
-      "morph": "robinson:P-DSM",
-      "strongs": "G0846",
       "translation": "to Him;",
-      "metadata": {},
-      "gematria": {
-        "standard": 1511,
-        "ordinal": 73,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0846",
+        "subMeaning": "to him",
+        "manuscriptType": "NKO",
+        "gloss": "he/she/it/self"
+      },
+      "source": {
+        "raw": "Mat.4.9#03=NKO\tαὐτῷ· (autō)\tto Him;\tG0846=P-DSM\tαὐτός=he/she/it/self\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta él\tto him\t#03«02:G2036\tG0846\tG3778\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "ταῦτά",
-      "lemma": [
+      "lemma": "οὗτος",
+      "morph": "robinson:D-APN",
+      "strongs": [
         "G3778"
       ],
-      "morph": "robinson:D-APN",
-      "strongs": "G3778",
       "translation": "These things",
-      "metadata": {},
-      "gematria": {
-        "standard": 1002,
-        "ordinal": 60,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3778",
+        "subMeaning": "these",
+        "manuscriptType": "NKO",
+        "gloss": "this/he/she/it"
+      },
+      "source": {
+        "raw": "Mat.4.9#04=NKO\tταῦτά (tauta)\tThese things\tG3778=D-APN\tοὗτος=this/he/she/it\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tEstos\tthese\t#04»07:G1325\tG3778\tG5023\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "σοι",
-      "lemma": [
+      "lemma": "σύ",
+      "morph": "robinson:P-2DS",
+      "strongs": [
         "G4771"
       ],
-      "morph": "robinson:P-2DS",
-      "strongs": "G4771",
       "translation": "to You",
-      "metadata": {},
-      "gematria": {
-        "standard": 280,
-        "ordinal": 42,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz»1",
+        "extendedStrongs": "G4771",
+        "subMeaning": "to you",
+        "manuscriptType": "NKO",
+        "gloss": "you"
+      },
+      "source": {
+        "raw": "Mat.4.9#05=NKO\tσοι (soi)\tto You\tG4771=P-2DS\tσύ=you\tNA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz»1\t\t\ta ti\tto you\t#05»07:G1325\tG4771\tG4671\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "πάντα",
-      "lemma": [
+      "lemma": "πᾶς",
+      "morph": "robinson:A-APN",
+      "strongs": [
         "G3956"
       ],
-      "morph": "robinson:A-APN",
-      "strongs": "G3956",
       "translation": "all",
-      "metadata": {},
-      "gematria": {
-        "standard": 432,
-        "ordinal": 50,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3956",
+        "subMeaning": "all",
+        "manuscriptType": "NKO",
+        "gloss": "all"
+      },
+      "source": {
+        "raw": "Mat.4.9#06=NKO\tπάντα (panta)\tall\tG3956=A-APN\tπᾶς=all\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ttodos\tall\t#06\tG3956\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "δώσω,",
-      "lemma": [
+      "lemma": "δίδωμι",
+      "morph": "robinson:V-FAI-1S",
+      "strongs": [
         "G1325"
       ],
-      "morph": "robinson:V-FAI-1S",
-      "strongs": "G1325",
       "translation": "will I give,",
-      "metadata": {},
-      "gematria": {
-        "standard": 1804,
-        "ordinal": 70,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1325",
+        "subMeaning": "to give",
+        "manuscriptType": "NKO",
+        "gloss": "to give"
+      },
+      "source": {
+        "raw": "Mat.4.9#07=NKO\tδώσω, (dōsō)\twill I give,\tG1325=V-FAI-1S\tδίδωμι=to give\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tdaré\tto give\t#07\tG1325\t\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "ἐὰν",
-      "lemma": [
+      "lemma": "ἐάν",
+      "morph": "robinson:COND",
+      "strongs": [
         "G1437"
       ],
-      "morph": "robinson:COND",
-      "strongs": "G1437",
       "translation": "if",
-      "metadata": {},
-      "gematria": {
-        "standard": 56,
-        "ordinal": 19,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1437",
+        "subMeaning": "if",
+        "manuscriptType": "NKO",
+        "gloss": "if"
+      },
+      "source": {
+        "raw": "Mat.4.9#08=NKO\tἐὰν (ean)\tif\tG1437=COND\tἐάν=if\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tsi alguna vez\tif\t#08\tG1437\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "πεσὼν",
-      "lemma": [
+      "lemma": "πίπτω",
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": [
         "G4098"
       ],
-      "morph": "robinson:V-2AAP-NSM",
-      "strongs": "G4098",
       "translation": "falling down",
-      "metadata": {},
-      "gematria": {
-        "standard": 1135,
-        "ordinal": 76,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4098",
+        "subMeaning": "to collapse",
+        "manuscriptType": "NKO",
+        "gloss": "to collapse"
+      },
+      "source": {
+        "raw": "Mat.4.9#09=NKO\tπεσὼν (pesōn)\tfalling down\tG4098=V-2AAP-NSM\tπίπτω=to collapse\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\thabiendo caído\tto collapse\t#09\tG4098\t\t\t\t\t"
       }
     },
     {
       "position": 10,
       "text": "προσκυνήσῃς",
-      "lemma": [
+      "lemma": "προσκυνέω",
+      "morph": "robinson:V-AAS-2S",
+      "strongs": [
         "G4352"
       ],
-      "morph": "robinson:V-AAS-2S",
-      "strongs": "G4352",
       "translation": "You shall worship",
-      "metadata": {},
-      "gematria": {
-        "standard": 1346,
-        "ordinal": 168,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4352",
+        "subMeaning": "to worship",
+        "manuscriptType": "NKO",
+        "gloss": "to worship"
+      },
+      "source": {
+        "raw": "Mat.4.9#10=NKO\tπροσκυνήσῃς (proskunēsēs)\tYou shall worship\tG4352=V-AAS-2S\tπροσκυνέω=to worship\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tdes (un) acto de adoración\tto worship\t#10\tG4352\t\t\t\t\t"
       }
     },
     {
       "position": 11,
       "text": "μοι.",
-      "lemma": [
+      "lemma": "ἐγώ",
+      "morph": "robinson:P-1DS",
+      "strongs": [
         "G3165"
       ],
-      "morph": "robinson:P-1DS",
-      "strongs": "G3165",
       "translation": "me.",
-      "metadata": {},
-      "gematria": {
-        "standard": 120,
-        "ordinal": 36,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3165",
+        "subMeaning": "to me",
+        "manuscriptType": "NKO",
+        "gloss": "I/we"
+      },
+      "source": {
+        "raw": "Mat.4.9#11=NKO\tμοι.¶ (moi)\tme.\tG3165=P-1DS\tἐγώ=I/we\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta mí\tto me\t#11«10:G4352\tG3165\tG3427\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 7867,
-    "ordinal": 662,
-    "reduced": 46
-  }
+  ]
 }

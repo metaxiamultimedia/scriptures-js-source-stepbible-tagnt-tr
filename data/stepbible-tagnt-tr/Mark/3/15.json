@@ -4,167 +4,202 @@
     {
       "position": 1,
       "text": "καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "and",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532_A",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "Mrk.3.15#01=NKO\tκαὶ (kai)\tand\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tY\tand\t#01\tG2532_A\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "ἔχειν",
-      "lemma": [
+      "lemma": "ἔχω",
+      "morph": "robinson:V-PAN",
+      "strongs": [
         "G2192"
       ],
-      "morph": "robinson:V-PAN",
-      "strongs": "G2192",
       "translation": "to have",
-      "metadata": {},
-      "gematria": {
-        "standard": 670,
-        "ordinal": 54,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2192",
+        "subMeaning": "to have",
+        "manuscriptType": "NKO",
+        "gloss": "to have/be"
+      },
+      "source": {
+        "raw": "Mrk.3.15#02=NKO\tἔχειν (echein)\tto have\tG2192=V-PAN\tἔχω=to have/be\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testar teniendo\tto have\t#02\tG2192\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "ἐξουσίαν",
-      "lemma": [
+      "lemma": "ἐξουσία",
+      "morph": "robinson:N-ASF",
+      "strongs": [
         "G1849"
       ],
-      "morph": "robinson:N-ASF",
-      "strongs": "G1849",
       "translation": "authority",
-      "metadata": {},
-      "gematria": {
-        "standard": 796,
-        "ordinal": 95,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR",
+        "extendedStrongs": "G1849",
+        "subMeaning": "authority",
+        "manuscriptType": "NKO",
+        "gloss": "authority"
+      },
+      "source": {
+        "raw": "Mrk.3.15#03=NKO\tἐξουσίαν (exousian)\tauthority\tG1849=N-ASF\tἐξουσία=authority\tNA28+NA27+Tyn+SBL+WH+Treg+TR\t\t\tautoridad\tauthority\t#03\tG1849\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "θεραπεύειν",
-      "lemma": [
+      "lemma": "θεραπεύω",
+      "morph": "robinson:V-PAN",
+      "strongs": [
         "G2323"
       ],
-      "morph": "robinson:V-PAN",
-      "strongs": "G2323",
       "translation": "to heal",
-      "metadata": {},
-      "gematria": {
-        "standard": 665,
-        "ordinal": 99,
-        "reduced": 8
+      "metadata": {
+        "editions": "TR+Byz",
+        "extendedStrongs": "G2323",
+        "subMeaning": "to",
+        "manuscriptType": "K",
+        "gloss": "to serve/heal"
+      },
+      "source": {
+        "raw": "Mrk.3.15#04=K\tθεραπεύειν (therapeuein)\tto heal\tG2323=V-PAN\tθεραπεύω=to serve/heal\tTR+Byz\t\t\testar curando\tto\t#04\tG2323\t\t^ \t\t\t"
       }
     },
     {
       "position": 5,
       "text": "τὰς",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-APF",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-APF",
-      "strongs": "G3588",
       "translation": "<the>",
-      "metadata": {},
-      "gematria": {
-        "standard": 501,
-        "ordinal": 38,
-        "reduced": 6
+      "metadata": {
+        "editions": "TR+Byz",
+        "extendedStrongs": "G3588_a",
+        "subMeaning": "the",
+        "manuscriptType": "K",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Mrk.3.15#05=K\tτὰς (tas)\t<the>\tG3588=T-APF\tὁ=the/this/who\tTR+Byz\t\t\tlas\tthe\t#05»06:G3554\tG3588_a\t\t^ \t\t\t"
       }
     },
     {
       "position": 6,
       "text": "νόσους",
-      "lemma": [
+      "lemma": "νόσος",
+      "morph": "robinson:N-APF",
+      "strongs": [
         "G3554"
       ],
-      "morph": "robinson:N-APF",
-      "strongs": "G3554",
       "translation": "diseases",
-      "metadata": {},
-      "gematria": {
-        "standard": 990,
-        "ordinal": 99,
-        "reduced": 9
+      "metadata": {
+        "editions": "TR+Byz",
+        "extendedStrongs": "G3554",
+        "subMeaning": "illness",
+        "manuscriptType": "K",
+        "gloss": "illness"
+      },
+      "source": {
+        "raw": "Mrk.3.15#06=K\tνόσους (nosous)\tdiseases\tG3554=N-APF\tνόσος=illness\tTR+Byz\t\t\tenfermedades\tillness\t#06\tG3554\t\t^ \t\t\t"
       }
     },
     {
       "position": 7,
       "text": "καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "and",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "TR+Byz",
+        "extendedStrongs": "G2532_b",
+        "subMeaning": "and",
+        "manuscriptType": "K",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "Mrk.3.15#07=K\tκαὶ (kai)\tand\tG2532=CONJ\tκαί=and\tTR+Byz\t\t\ty\tand\t#07\tG2532_b\t\t^ θεραπεύειν   τὰς    νόσους    καὶ   (<i>therapeuein tas nosous kai</i>) 'to heal <the> diseases and' is only in traditional manuscripts (TR+Byz)\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "ἐκβάλλειν",
-      "lemma": [
+      "lemma": "ἐκβάλλω",
+      "morph": "robinson:V-PAN",
+      "strongs": [
         "G1544"
       ],
-      "morph": "robinson:V-PAN",
-      "strongs": "G1544",
       "translation": "to cast out",
-      "metadata": {},
-      "gematria": {
-        "standard": 153,
-        "ordinal": 67,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1544",
+        "subMeaning": "to expel",
+        "manuscriptType": "NKO",
+        "gloss": "to expel"
+      },
+      "source": {
+        "raw": "Mrk.3.15#08=NKO\tἐκβάλλειν (ekballein)\tto cast out\tG1544=V-PAN\tἐκβάλλω=to expel\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testar arrojando hacia fuera\tto expel\t#08\tG1544\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "τὰ",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-APN",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-APN",
-      "strongs": "G3588",
       "translation": "<the>",
-      "metadata": {},
-      "gematria": {
-        "standard": 301,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588_B",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Mrk.3.15#09=NKO\tτὰ (ta)\t<the>\tG3588=T-APN\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta los\tthe\t#09»10:G1140\tG3588_B\t\t\t\t\t"
       }
     },
     {
       "position": 10,
       "text": "δαιμόνια.",
-      "lemma": [
+      "lemma": "δαιμόνιον",
+      "morph": "robinson:N-APN",
+      "strongs": [
         "G1140"
       ],
-      "morph": "robinson:N-APN",
-      "strongs": "G1140",
       "translation": "demons.",
-      "metadata": {},
-      "gematria": {
-        "standard": 186,
-        "ordinal": 64,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1140",
+        "subMeaning": "demon",
+        "manuscriptType": "NKO",
+        "gloss": "demon"
+      },
+      "source": {
+        "raw": "Mrk.3.15#10=NKO\tδαιμόνια. (daimonia)\tdemons.\tG1140=N-APN\tδαιμόνιον=demon\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tdemonios\tdemon\t#10\tG1140\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 4324,
-    "ordinal": 576,
-    "reduced": 58
-  }
+  ]
 }

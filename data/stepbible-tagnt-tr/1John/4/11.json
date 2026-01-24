@@ -4,199 +4,242 @@
     {
       "position": 1,
       "text": "Ἀγαπητοί,",
-      "lemma": [
+      "lemma": "ἀγαπητός",
+      "morph": "robinson:A-VPM",
+      "strongs": [
         "G0027"
       ],
-      "morph": "robinson:A-VPM",
-      "strongs": "G0027",
       "translation": "Beloved,",
-      "metadata": {},
-      "gematria": {
-        "standard": 473,
-        "ordinal": 71,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0027",
+        "subMeaning": "beloved",
+        "manuscriptType": "NKO",
+        "gloss": "beloved"
+      },
+      "source": {
+        "raw": "1Jn.4.11#01=NKO\tἈγαπητοί, (Agapētoi)\tBeloved,\tG0027=A-VPM\tἀγαπητός=beloved\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tAmados\tbeloved\t#01\tG0027\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "εἰ",
-      "lemma": [
+      "lemma": "εἰ",
+      "morph": "robinson:COND",
+      "strongs": [
         "G1487G"
       ],
-      "morph": "robinson:COND",
-      "strongs": "G1487G",
       "translation": "if",
-      "metadata": {},
-      "gematria": {
-        "standard": 15,
-        "ordinal": 14,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1487",
+        "subMeaning": ": if»if|1_if/whether",
+        "manuscriptType": "NKO",
+        "gloss": "if"
+      },
+      "source": {
+        "raw": "1Jn.4.11#02=NKO\tεἰ (ei)\tif\tG1487G=COND\tεἰ=if\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tsi\t: if»if|1_if/whether\t#02\tG1487\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "οὕτως",
-      "lemma": [
+      "lemma": "οὕτω, οὕτως",
+      "morph": "robinson:ADV",
+      "strongs": [
         "G3779"
       ],
-      "morph": "robinson:ADV",
-      "strongs": "G3779",
       "translation": "so",
-      "metadata": {},
-      "gematria": {
-        "standard": 1770,
-        "ordinal": 96,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3779",
+        "subMeaning": "thus",
+        "manuscriptType": "NKO",
+        "gloss": "thus(-ly)"
+      },
+      "source": {
+        "raw": "1Jn.4.11#03=NKO\tοὕτως (houtōs)\tso\tG3779=ADV\tοὕτω, οὕτως=thus(-ly)\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tasí\tthus\t#03\tG3779\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "ὁ",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-NSM",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-NSM",
-      "strongs": "G3588",
       "translation": "<the>",
-      "metadata": {},
-      "gematria": {
-        "standard": 70,
-        "ordinal": 15,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "1Jn.4.11#04=NKO\tὁ (ho)\t<the>\tG3588=T-NSM\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tel\tthe\t#04»05:G2316\tG3588\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "θεὸς",
-      "lemma": [
+      "lemma": "θεός",
+      "morph": "robinson:N-NSM-T",
+      "strongs": [
         "G2316"
       ],
-      "morph": "robinson:N-NSM-T",
-      "strongs": "G2316",
       "translation": "God",
-      "metadata": {},
-      "gematria": {
-        "standard": 284,
-        "ordinal": 46,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2316",
+        "subMeaning": "God",
+        "manuscriptType": "NKO",
+        "gloss": "God"
+      },
+      "source": {
+        "raw": "1Jn.4.11#05=NKO\tθεὸς (theos)\tGod\tG2316=N-NSM-T\tθεός=God\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tDios\tGod\t#05\tG2316\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "ἠγάπησεν",
-      "lemma": [
+      "lemma": "ἀγαπάω",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
         "G0025"
       ],
-      "morph": "robinson:V-AAI-3S",
-      "strongs": "G0025",
       "translation": "loved",
-      "metadata": {},
-      "gematria": {
-        "standard": 355,
-        "ordinal": 70,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0025_A",
+        "subMeaning": "to love",
+        "manuscriptType": "NKO",
+        "gloss": "to love"
+      },
+      "source": {
+        "raw": "1Jn.4.11#06=NKO\tἠγάπησεν (ēgapēsen)\tloved\tG0025=V-AAI-3S\tἀγαπάω=to love\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tamó\tto love\t#06\tG0025_A\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "ἡμᾶς,",
-      "lemma": [
+      "lemma": "ἐγώ",
+      "morph": "robinson:P-1AP",
+      "strongs": [
         "G3165"
       ],
-      "morph": "robinson:P-1AP",
-      "strongs": "G3165",
       "translation": "us,",
-      "metadata": {},
-      "gematria": {
-        "standard": 249,
-        "ordinal": 38,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3165_A",
+        "subMeaning": "us",
+        "manuscriptType": "NKO",
+        "gloss": "I/we"
+      },
+      "source": {
+        "raw": "1Jn.4.11#07=NKO\tἡμᾶς, (hēmas)\tus,\tG3165=P-1AP\tἐγώ=I/we\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta nosotros\tus\t#07«06:G0025\tG3165_A\tG2248\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "also",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "1Jn.4.11#08=NKO\tκαὶ (kai)\talso\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ttambién\tand\t#08\tG2532\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "ἡμεῖς",
-      "lemma": [
+      "lemma": "ἐγώ",
+      "morph": "robinson:P-1NP",
+      "strongs": [
         "G3165"
       ],
-      "morph": "robinson:P-1NP",
-      "strongs": "G3165",
       "translation": "we ourselves",
-      "metadata": {},
-      "gematria": {
-        "standard": 263,
-        "ordinal": 51,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3165_B",
+        "subMeaning": "we",
+        "manuscriptType": "NKO",
+        "gloss": "I/we"
+      },
+      "source": {
+        "raw": "1Jn.4.11#09=NKO\tἡμεῖς (hēmeis)\twe ourselves\tG3165=P-1NP\tἐγώ=I/we\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tnosotros\twe\t#09»10:G3784\tG3165_B\tG2249\t\t\t\t"
       }
     },
     {
       "position": 10,
       "text": "ὀφείλομεν",
-      "lemma": [
+      "lemma": "ὀφείλω",
+      "morph": "robinson:V-PAI-1P",
+      "strongs": [
         "G3784"
       ],
-      "morph": "robinson:V-PAI-1P",
-      "strongs": "G3784",
       "translation": "ought",
-      "metadata": {},
-      "gematria": {
-        "standard": 780,
-        "ordinal": 106,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3784",
+        "subMeaning": "to owe",
+        "manuscriptType": "NKO",
+        "gloss": "to owe"
+      },
+      "source": {
+        "raw": "1Jn.4.11#10=NKO\tὀφείλομεν (opheilomen)\tought\tG3784=V-PAI-1P\tὀφείλω=to owe\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testamos debiendo\tto owe\t#10\tG3784\t\t\t\t\t"
       }
     },
     {
       "position": 11,
       "text": "ἀλλήλους",
-      "lemma": [
+      "lemma": "ἀλλήλων",
+      "morph": "robinson:C-APM",
+      "strongs": [
         "G0240"
       ],
-      "morph": "robinson:C-APM",
-      "strongs": "G0240",
       "translation": "one another",
-      "metadata": {},
-      "gematria": {
-        "standard": 769,
-        "ordinal": 94,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0240",
+        "subMeaning": "one another",
+        "manuscriptType": "NKO",
+        "gloss": "one another"
+      },
+      "source": {
+        "raw": "1Jn.4.11#11=NKO\tἀλλήλους (allēlous)\tone another\tG0240=C-APM\tἀλλήλων=one another\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tunos a otros\tone another\t#11\tG0240\t\t\t\t\t"
       }
     },
     {
       "position": 12,
       "text": "ἀγαπᾶν·",
-      "lemma": [
+      "lemma": "ἀγαπάω",
+      "morph": "robinson:V-PAN",
+      "strongs": [
         "G0025"
       ],
-      "morph": "robinson:V-PAN",
-      "strongs": "G0025",
       "translation": "to love;",
-      "metadata": {},
-      "gematria": {
-        "standard": 136,
-        "ordinal": 35,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0025_B",
+        "subMeaning": "to love",
+        "manuscriptType": "NKO",
+        "gloss": "to love"
+      },
+      "source": {
+        "raw": "1Jn.4.11#12=NKO\tἀγαπᾶν· (agapan)\tto love;\tG0025=V-PAN\tἀγαπάω=to love\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testar amando\tto love\t#12\tG0025_B\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 5195,
-    "ordinal": 656,
-    "reduced": 56
-  }
+  ]
 }

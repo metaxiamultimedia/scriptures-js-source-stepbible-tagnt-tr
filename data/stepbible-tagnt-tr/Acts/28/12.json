@@ -4,119 +4,142 @@
     {
       "position": 1,
       "text": "καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "And",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "Act.28.12#01=NKO\tκαὶ (kai)\tAnd\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tY\tand\t#01\tG2532\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "καταχθέντες",
-      "lemma": [
+      "lemma": "κατάγω",
+      "morph": "robinson:V-APP-NPM",
+      "strongs": [
         "G2609"
       ],
-      "morph": "robinson:V-APP-NPM",
-      "strongs": "G2609",
       "translation": "having put in",
-      "metadata": {},
-      "gematria": {
-        "standard": 1491,
-        "ordinal": 121,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2609",
+        "subMeaning": "to bring down",
+        "manuscriptType": "NKO",
+        "gloss": "to bring down"
+      },
+      "source": {
+        "raw": "Act.28.12#02=NKO\tκαταχθέντες (katachthentes)\thaving put in\tG2609=V-APP-NPM\tκατάγω=to bring down\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\thabiendo sido conducidos hacia abajo\tto bring down\t#02\tG2609\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "εἰς",
-      "lemma": [
+      "lemma": "εἰς",
+      "morph": "robinson:PREP",
+      "strongs": [
         "G1519"
       ],
-      "morph": "robinson:PREP",
-      "strongs": "G1519",
       "translation": "at",
-      "metadata": {},
-      "gematria": {
-        "standard": 215,
-        "ordinal": 32,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1519",
+        "subMeaning": "toward",
+        "manuscriptType": "NKO",
+        "gloss": "toward"
+      },
+      "source": {
+        "raw": "Act.28.12#03=NKO\tεἰς (eis)\tat\tG1519=PREP\tεἰς=toward\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\thacia dentro\ttoward\t#03\tG1519\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "Συρακούσας",
-      "lemma": [
+      "lemma": "Συράκουσαι",
+      "morph": "robinson:N-APF-L",
+      "strongs": [
         "G4946"
       ],
-      "morph": "robinson:N-APF-L",
-      "strongs": "G4946",
       "translation": "Syracuse",
-      "metadata": {},
-      "gematria": {
-        "standard": 1592,
-        "ordinal": 138,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4946",
+        "subMeaning": "Syracuse»Syracuse@Act.28.12",
+        "manuscriptType": "NKO",
+        "gloss": "Syracuse"
+      },
+      "source": {
+        "raw": "Act.28.12#04=NKO\tΣυρακούσας (Surakousas)\tSyracuse\tG4946=N-APF-L\tΣυράκουσαι=Syracuse\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tSiracusa\tSyracuse»Syracuse@Act.28.12\t#04\tG4946\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "ἐπεμείναμεν",
-      "lemma": [
+      "lemma": "ἐπιμένω",
+      "morph": "robinson:V-AAI-1P",
+      "strongs": [
         "G1961"
       ],
-      "morph": "robinson:V-AAI-1P",
-      "strongs": "G1961",
       "translation": "we stayed",
-      "metadata": {},
-      "gematria": {
-        "standard": 291,
-        "ordinal": 96,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1961",
+        "subMeaning": "to remain",
+        "manuscriptType": "NKO",
+        "gloss": "to remain/keep on"
+      },
+      "source": {
+        "raw": "Act.28.12#05=NKO\tἐπεμείναμεν (epemeinamen)\twe stayed\tG1961=V-AAI-1P\tἐπιμένω=to remain/keep on\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tpermanecimos sobre\tto remain\t#05\tG1961\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "ἡμέρας",
-      "lemma": [
+      "lemma": "ἡμέρα",
+      "morph": "robinson:N-APF",
+      "strongs": [
         "G2250"
       ],
-      "morph": "robinson:N-APF",
-      "strongs": "G2250",
       "translation": "days",
-      "metadata": {},
-      "gematria": {
-        "standard": 354,
-        "ordinal": 60,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2250",
+        "subMeaning": "day",
+        "manuscriptType": "NKO",
+        "gloss": "day"
+      },
+      "source": {
+        "raw": "Act.28.12#06=NKO\tἡμέρας (hēmeras)\tdays\tG2250=N-APF\tἡμέρα=day\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tdías\tday\t#06\tG2250\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "τρεῖς,",
-      "lemma": [
+      "lemma": "τρεῖς, τρία",
+      "morph": "robinson:A-APF",
+      "strongs": [
         "G5140"
       ],
-      "morph": "robinson:A-APF",
-      "strongs": "G5140",
       "translation": "three,",
-      "metadata": {},
-      "gematria": {
-        "standard": 615,
-        "ordinal": 68,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G5140",
+        "subMeaning": "three",
+        "manuscriptType": "NKO",
+        "gloss": "three"
+      },
+      "source": {
+        "raw": "Act.28.12#07=NKO\tτρεῖς, (treis)\tthree,\tG5140=A-APF\tτρεῖς, τρία=three\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ttres\tthree\t#07\tG5140\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 4589,
-    "ordinal": 535,
-    "reduced": 35
-  }
+  ]
 }

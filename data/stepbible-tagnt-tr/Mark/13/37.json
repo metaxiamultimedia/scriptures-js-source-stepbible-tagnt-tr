@@ -4,119 +4,143 @@
     {
       "position": 1,
       "text": "ὃ",
-      "lemma": [
+      "lemma": "ὅς, ἥ",
+      "morph": "robinson:R-ASN",
+      "strongs": [
         "G3739"
       ],
-      "morph": "robinson:R-ASN",
-      "strongs": "G3739",
       "translation": "What [thing]",
-      "metadata": {},
-      "gematria": {
-        "standard": 70,
-        "ordinal": 15,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg",
+        "extendedStrongs": "G3739",
+        "subMeaning": "which",
+        "variants": "Ἃ (t=Ha) What [things] - G3739=R-APN in: TR+Byz",
+        "manuscriptType": "N(k)O",
+        "gloss": "which"
+      },
+      "source": {
+        "raw": "Mrk.13.37#01=N(k)O\tὃ (ho)\tWhat [thing]\tG3739=R-ASN\tὅς, ἥ=which\tNA28+NA27+Tyn+SBL+WH+Treg\tἋ (t=Ha) What [things] - G3739=R-APN in: TR+Byz\t\tCual\twhich\t#01»04:G3004\tG3739\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "δὲ",
-      "lemma": [
+      "lemma": "δέ",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G1161"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G1161",
       "translation": "now",
-      "metadata": {},
-      "gematria": {
-        "standard": 9,
-        "ordinal": 9,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1161",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "but/and"
+      },
+      "source": {
+        "raw": "Mrk.13.37#02=NKO\tδὲ (de)\tnow\tG1161=CONJ\tδέ=but/and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tpero\tand\t#02\tG1161\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "ὑμῖν",
-      "lemma": [
+      "lemma": "σύ",
+      "morph": "robinson:P-2DP",
+      "strongs": [
         "G4771"
       ],
-      "morph": "robinson:P-2DP",
-      "strongs": "G4771",
       "translation": "to you",
-      "metadata": {},
-      "gematria": {
-        "standard": 500,
-        "ordinal": 54,
-        "reduced": 5
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4771",
+        "subMeaning": "to you",
+        "manuscriptType": "NKO",
+        "gloss": "you"
+      },
+      "source": {
+        "raw": "Mrk.13.37#03=NKO\tὑμῖν (humin)\tto you\tG4771=P-2DP\tσύ=you\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta ustedes\tto you\t#03»04:G3004\tG4771\tG5213\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "λέγω,",
-      "lemma": [
+      "lemma": "λέγω",
+      "morph": "robinson:V-PAI-1S",
+      "strongs": [
         "G3004G"
       ],
-      "morph": "robinson:V-PAI-1S",
-      "strongs": "G3004G",
       "translation": "I say,",
-      "metadata": {},
-      "gematria": {
-        "standard": 838,
-        "ordinal": 43,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3004_A",
+        "subMeaning": ": speak»to speak|1_speak/ask",
+        "manuscriptType": "NKO",
+        "gloss": "to speak"
+      },
+      "source": {
+        "raw": "Mrk.13.37#04=NKO\tλέγω, (legō)\tI say,\tG3004G=V-PAI-1S\tλέγω=to speak\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testoy diciendo\t: speak»to speak|1_speak/ask\t#04\tG3004_A\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "πᾶσιν",
-      "lemma": [
+      "lemma": "πᾶς",
+      "morph": "robinson:A-DPM",
+      "strongs": [
         "G3956"
       ],
-      "morph": "robinson:A-DPM",
-      "strongs": "G3956",
       "translation": "to all",
-      "metadata": {},
-      "gematria": {
-        "standard": 341,
-        "ordinal": 57,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3956",
+        "subMeaning": "all",
+        "manuscriptType": "NKO",
+        "gloss": "all"
+      },
+      "source": {
+        "raw": "Mrk.13.37#05=NKO\tπᾶσιν (pasin)\tto all\tG3956=A-DPM\tπᾶς=all\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta todos\tall\t#05\tG3956\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "λέγω·",
-      "lemma": [
+      "lemma": "λέγω",
+      "morph": "robinson:V-PAI-1S",
+      "strongs": [
         "G3004G"
       ],
-      "morph": "robinson:V-PAI-1S",
-      "strongs": "G3004G",
       "translation": "I say:",
-      "metadata": {},
-      "gematria": {
-        "standard": 838,
-        "ordinal": 43,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3004_B",
+        "subMeaning": ": speak»to speak|1_speak/ask",
+        "manuscriptType": "NKO",
+        "gloss": "to speak"
+      },
+      "source": {
+        "raw": "Mrk.13.37#06=NKO\tλέγω· (legō)\tI say:\tG3004G=V-PAI-1S\tλέγω=to speak\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testoy diciendo\t: speak»to speak|1_speak/ask\t#06\tG3004_B\t\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "γρηγορεῖτε.",
-      "lemma": [
+      "lemma": "γρηγορέω",
+      "morph": "robinson:V-PAM-2P",
+      "strongs": [
         "G1127"
       ],
-      "morph": "robinson:V-PAM-2P",
-      "strongs": "G1127",
       "translation": "do watch.",
-      "metadata": {},
-      "gematria": {
-        "standard": 604,
-        "ordinal": 100,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1127",
+        "subMeaning": "to keep watch",
+        "manuscriptType": "NKO",
+        "gloss": "to keep watch"
+      },
+      "source": {
+        "raw": "Mrk.13.37#07=NKO\tγρηγορεῖτε.¶ (grēgoreite)\tdo watch.\tG1127=V-PAM-2P\tγρηγορέω=to keep watch\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tEstén permaneciendo despiertos\tto keep watch\t#07\tG1127\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 3200,
-    "ordinal": 321,
-    "reduced": 32
-  }
+  ]
 }

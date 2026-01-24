@@ -4,87 +4,102 @@
     {
       "position": 1,
       "text": "καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "And",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "Luk.24.8#01=NKO\tκαὶ (kai)\tAnd\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tY\tand\t#01\tG2532\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "ἐμνήσθησαν",
-      "lemma": [
+      "lemma": "μιμνήσκω",
+      "morph": "robinson:V-API-3P",
+      "strongs": [
         "G3403"
       ],
-      "morph": "robinson:V-API-3P",
-      "strongs": "G3403",
       "translation": "they remembered",
-      "metadata": {},
-      "gematria": {
-        "standard": 571,
-        "ordinal": 102,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3403",
+        "subMeaning": "to remember",
+        "manuscriptType": "NKO",
+        "gloss": "to remember"
+      },
+      "source": {
+        "raw": "Luk.24.8#02=NKO\tἐμνήσθησαν (emnēsthēsan)\tthey remembered\tG3403=V-API-3P\tμιμνήσκω=to remember\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tfueron hechas recordar\tto remember\t#02\tG3403\tG3415\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "τῶν",
-      "lemma": [
+      "lemma": "ὁ",
+      "morph": "robinson:T-GPN",
+      "strongs": [
         "G3588"
       ],
-      "morph": "robinson:T-GPN",
-      "strongs": "G3588",
       "translation": "the",
-      "metadata": {},
-      "gematria": {
-        "standard": 1150,
-        "ordinal": 56,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3588",
+        "subMeaning": "the",
+        "manuscriptType": "NKO",
+        "gloss": "the/this/who"
+      },
+      "source": {
+        "raw": "Luk.24.8#03=NKO\tτῶν (tōn)\tthe\tG3588=T-GPN\tὁ=the/this/who\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tde las\tthe\t#03»04:G4487\tG3588\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "ῥημάτων",
-      "lemma": [
+      "lemma": "ῥῆμα",
+      "morph": "robinson:N-GPN",
+      "strongs": [
         "G4487"
       ],
-      "morph": "robinson:N-GPN",
-      "strongs": "G4487",
       "translation": "declarations",
-      "metadata": {},
-      "gematria": {
-        "standard": 1299,
-        "ordinal": 93,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4487",
+        "subMeaning": "word",
+        "manuscriptType": "NKO",
+        "gloss": "declaration"
+      },
+      "source": {
+        "raw": "Luk.24.8#04=NKO\tῥημάτων (rhēmatōn)\tdeclarations\tG4487=N-GPN\tῥῆμα=declaration\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tdeclaraciones\tword\t#04\tG4487\t\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "αὐτοῦ,",
-      "lemma": [
+      "lemma": "αὐτός",
+      "morph": "robinson:P-GSM",
+      "strongs": [
         "G0846"
       ],
-      "morph": "robinson:P-GSM",
-      "strongs": "G0846",
       "translation": "of Him,",
-      "metadata": {},
-      "gematria": {
-        "standard": 1171,
-        "ordinal": 75,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0846",
+        "subMeaning": "his",
+        "manuscriptType": "NKO",
+        "gloss": "he/she/it/self"
+      },
+      "source": {
+        "raw": "Luk.24.8#05=NKO\tαὐτοῦ, (autou)\tof Him,\tG0846=P-GSM\tαὐτός=he/she/it/self\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tde él\this\t#05«04:G4487\tG0846\tG3778\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 4222,
-    "ordinal": 346,
-    "reduced": 19
-  }
+  ]
 }

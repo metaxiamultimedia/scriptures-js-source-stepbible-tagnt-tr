@@ -4,215 +4,263 @@
     {
       "position": 1,
       "text": "καὶ",
-      "lemma": [
+      "lemma": "καί",
+      "morph": "robinson:CONJ",
+      "strongs": [
         "G2532"
       ],
-      "morph": "robinson:CONJ",
-      "strongs": "G2532",
       "translation": "And",
-      "metadata": {},
-      "gematria": {
-        "standard": 31,
-        "ordinal": 20,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2532",
+        "subMeaning": "and",
+        "manuscriptType": "NKO",
+        "gloss": "and"
+      },
+      "source": {
+        "raw": "Mat.8.2#01=NKO\tκαὶ (kai)\tAnd\tG2532=CONJ\tκαί=and\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tY\tand\t#01\tG2532\t\t\t\t\t"
       }
     },
     {
       "position": 2,
       "text": "ἰδοὺ",
-      "lemma": [
+      "lemma": "ἰδού",
+      "morph": "robinson:INJ",
+      "strongs": [
         "G2400"
       ],
-      "morph": "robinson:INJ",
-      "strongs": "G2400",
       "translation": "behold",
-      "metadata": {},
-      "gematria": {
-        "standard": 484,
-        "ordinal": 48,
-        "reduced": 7
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2400",
+        "subMeaning": "look!",
+        "manuscriptType": "NKO",
+        "gloss": "look!"
+      },
+      "source": {
+        "raw": "Mat.8.2#02=NKO\tἰδοὺ (idou)\tbehold\tG2400=INJ\tἰδού=look!\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tmira\tlook!\t#02\tG2400\t\t\t\t\t"
       }
     },
     {
       "position": 3,
       "text": "λεπρὸς",
-      "lemma": [
+      "lemma": "λεπρός",
+      "morph": "robinson:A-NSM",
+      "strongs": [
         "G3015"
       ],
-      "morph": "robinson:A-NSM",
-      "strongs": "G3015",
       "translation": "a leper",
-      "metadata": {},
-      "gematria": {
-        "standard": 485,
-        "ordinal": 82,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3015",
+        "subMeaning": "leprous",
+        "manuscriptType": "NKO",
+        "gloss": "leprous"
+      },
+      "source": {
+        "raw": "Mat.8.2#03=NKO\tλεπρὸς (lepros)\ta leper\tG3015=A-NSM\tλεπρός=leprous\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tleproso\tleprous\t#03\tG3015\t\t\t\t\t"
       }
     },
     {
       "position": 4,
       "text": "προσελθὼν",
-      "lemma": [
+      "lemma": "προσέρχομαι",
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": [
         "G4334"
       ],
-      "morph": "robinson:V-2AAP-NSM",
-      "strongs": "G4334",
       "translation": "having come near",
-      "metadata": {},
-      "gematria": {
-        "standard": 1344,
-        "ordinal": 127,
-        "reduced": 3
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg",
+        "extendedStrongs": "G4334",
+        "subMeaning": "to come near",
+        "variants": "ἐλθὼν (t=elthōn) having come - G2064=V-2AAP-NSM in: TR+Byz",
+        "manuscriptType": "N(k)O",
+        "gloss": "to come near/agree"
+      },
+      "source": {
+        "raw": "Mat.8.2#04=N(k)O\tπροσελθὼν (proselthōn)\thaving come near\tG4334=V-2AAP-NSM\tπροσέρχομαι=to come near/agree\tNA28+NA27+Tyn+SBL+WH+Treg\tἐλθὼν (t=elthōn) having come - G2064=V-2AAP-NSM in: TR+Byz\t\thabiendo venido hacia\tto come near\t#04\tG4334\tG2064\t\t\t\t"
       }
     },
     {
       "position": 5,
       "text": "προσεκύνει",
-      "lemma": [
+      "lemma": "προσκυνέω",
+      "morph": "robinson:V-IAI-3S",
+      "strongs": [
         "G4352"
       ],
-      "morph": "robinson:V-IAI-3S",
-      "strongs": "G4352",
       "translation": "was worshipping",
-      "metadata": {},
-      "gematria": {
-        "standard": 940,
-        "ordinal": 128,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G4352",
+        "subMeaning": "to worship",
+        "manuscriptType": "NKO",
+        "gloss": "to worship"
+      },
+      "source": {
+        "raw": "Mat.8.2#05=NKO\tπροσεκύνει (prosekunei)\twas worshipping\tG4352=V-IAI-3S\tπροσκυνέω=to worship\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\t(se) estaba postrando en reverencia\tto worship\t#05\tG4352\t\t\t\t\t"
       }
     },
     {
       "position": 6,
       "text": "αὐτῷ",
-      "lemma": [
+      "lemma": "αὐτός",
+      "morph": "robinson:P-DSM",
+      "strongs": [
         "G0846"
       ],
-      "morph": "robinson:P-DSM",
-      "strongs": "G0846",
       "translation": "Him",
-      "metadata": {},
-      "gematria": {
-        "standard": 1511,
-        "ordinal": 73,
-        "reduced": 8
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G0846",
+        "subMeaning": "to him",
+        "manuscriptType": "NKO",
+        "gloss": "he/she/it/self"
+      },
+      "source": {
+        "raw": "Mat.8.2#06=NKO\tαὐτῷ (autō)\tHim\tG0846=P-DSM\tαὐτός=he/she/it/self\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\t(ante) él\tto him\t#06«05:G4352\tG0846\tG3778\t\t\t\t"
       }
     },
     {
       "position": 7,
       "text": "λέγων·",
-      "lemma": [
+      "lemma": "λέγω",
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": [
         "G3004G"
       ],
-      "morph": "robinson:V-PAP-NSM",
-      "strongs": "G3004G",
       "translation": "saying;",
-      "metadata": {},
-      "gematria": {
-        "standard": 888,
-        "ordinal": 56,
-        "reduced": 6
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3004",
+        "subMeaning": ": speak»to speak|1_speak/ask",
+        "manuscriptType": "NKO",
+        "gloss": "to speak"
+      },
+      "source": {
+        "raw": "Mat.8.2#07=NKO\tλέγων· (legōn)\tsaying;\tG3004G=V-PAP-NSM\tλέγω=to speak\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testando diciendo\t: speak»to speak|1_speak/ask\t#07\tG3004\t\t\t\t\t"
       }
     },
     {
       "position": 8,
       "text": "κύριε,",
-      "lemma": [
+      "lemma": "κύριος",
+      "morph": "robinson:N-VSM-T",
+      "strongs": [
         "G2962G"
       ],
-      "morph": "robinson:N-VSM-T",
-      "strongs": "G2962G",
       "translation": "Lord,",
-      "metadata": {},
-      "gematria": {
-        "standard": 535,
-        "ordinal": 61,
-        "reduced": 4
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2962",
+        "subMeaning": ": God»lord|1_God",
+        "manuscriptType": "NKO",
+        "gloss": "lord"
+      },
+      "source": {
+        "raw": "Mat.8.2#08=NKO\tκύριε, (kurie)\tLord,\tG2962G=N-VSM-T\tκύριος=lord\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tSeñor\t: God»lord|1_God\t#08\tG2962\t\t\t\t\t"
       }
     },
     {
       "position": 9,
       "text": "ἐὰν",
-      "lemma": [
+      "lemma": "ἐάν",
+      "morph": "robinson:COND",
+      "strongs": [
         "G1437"
       ],
-      "morph": "robinson:COND",
-      "strongs": "G1437",
       "translation": "if",
-      "metadata": {},
-      "gematria": {
-        "standard": 56,
-        "ordinal": 19,
-        "reduced": 2
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1437",
+        "subMeaning": "if",
+        "manuscriptType": "NKO",
+        "gloss": "if"
+      },
+      "source": {
+        "raw": "Mat.8.2#09=NKO\tἐὰν (ean)\tif\tG1437=COND\tἐάν=if\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tsi alguna vez\tif\t#09\tG1437\t\t\t\t\t"
       }
     },
     {
       "position": 10,
       "text": "θέλῃς,",
-      "lemma": [
+      "lemma": "θέλω",
+      "morph": "robinson:V-PAS-2S",
+      "strongs": [
         "G2309"
       ],
-      "morph": "robinson:V-PAS-2S",
-      "strongs": "G2309",
       "translation": "You shall be willing,",
-      "metadata": {},
-      "gematria": {
-        "standard": 262,
-        "ordinal": 58,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2309",
+        "subMeaning": "to will",
+        "manuscriptType": "NKO",
+        "gloss": "to will/desire"
+      },
+      "source": {
+        "raw": "Mat.8.2#10=NKO\tθέλῃς, (thelēs)\tYou shall be willing,\tG2309=V-PAS-2S\tθέλω=to will/desire\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testés queriendo\tto will\t#10\tG2309\t\t\t\t\t"
       }
     },
     {
       "position": 11,
       "text": "δύνασαί",
-      "lemma": [
+      "lemma": "δύναμαι",
+      "morph": "robinson:V-PNI-2S",
+      "strongs": [
         "G1410"
       ],
-      "morph": "robinson:V-PNI-2S",
-      "strongs": "G1410",
       "translation": "You are able",
-      "metadata": {},
-      "gematria": {
-        "standard": 666,
-        "ordinal": 66,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G1410",
+        "subMeaning": "be able",
+        "manuscriptType": "NKO",
+        "gloss": "be able"
+      },
+      "source": {
+        "raw": "Mat.8.2#11=NKO\tδύνασαί (dunasai)\tYou are able\tG1410=V-PNI-2S\tδύναμαι=be able\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\testás siendo capaz\tbe able\t#11\tG1410\t\t\t\t\t"
       }
     },
     {
       "position": 12,
       "text": "με",
-      "lemma": [
+      "lemma": "ἐγώ",
+      "morph": "robinson:P-1AS",
+      "strongs": [
         "G3165"
       ],
-      "morph": "robinson:P-1AS",
-      "strongs": "G3165",
       "translation": "me",
-      "metadata": {},
-      "gematria": {
-        "standard": 45,
-        "ordinal": 17,
-        "reduced": 9
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G3165",
+        "subMeaning": "me",
+        "manuscriptType": "NKO",
+        "gloss": "I/we"
+      },
+      "source": {
+        "raw": "Mat.8.2#12=NKO\tμε (me)\tme\tG3165=P-1AS\tἐγώ=I/we\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\ta mí\tme\t#12»13:G2511\tG3165\t\t\t\t\t"
       }
     },
     {
       "position": 13,
       "text": "καθαρίσαι.",
-      "lemma": [
+      "lemma": "καθαρίζω",
+      "morph": "robinson:V-AAN",
+      "strongs": [
         "G2511"
       ],
-      "morph": "robinson:V-AAN",
-      "strongs": "G2511",
       "translation": "to cleanse.",
-      "metadata": {},
-      "gematria": {
-        "standard": 352,
-        "ordinal": 74,
-        "reduced": 1
+      "metadata": {
+        "editions": "NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz",
+        "extendedStrongs": "G2511",
+        "subMeaning": "to clean",
+        "manuscriptType": "NKO",
+        "gloss": "to clean"
+      },
+      "source": {
+        "raw": "Mat.8.2#13=NKO\tκαθαρίσαι. (katharisai)\tto cleanse.\tG2511=V-AAN\tκαθαρίζω=to clean\tNA28+NA27+Tyn+SBL+WH+Treg+TR+Byz\t\t\tlimpiar\tto clean\t#13\tG2511\t\t\t\t\t"
       }
     }
-  ],
-  "gematria": {
-    "standard": 7599,
-    "ordinal": 829,
-    "reduced": 66
-  }
+  ]
 }
