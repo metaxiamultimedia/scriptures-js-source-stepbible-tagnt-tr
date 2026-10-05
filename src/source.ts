@@ -21,7 +21,7 @@ export const metadata: EditionMetadata = {
   name: 'Textus Receptus (STEPBible TAGNT)',
   language: 'Greek',
   license: 'CC BY 4.0',
-  source: 'STEPBible',
+  source: 'STEPBible.org / Tyndale House Cambridge',
   urls: [
     'https://www.stepbible.org',
     'https://github.com/STEPBible/STEPBible-Data',
